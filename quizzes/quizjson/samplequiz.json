@@ -1,0 +1,12 @@
+{
+  "title": "Natural Ecosystems Analysis",
+  "questions": [
+    {
+      "question": "Which of these is a biotic factor...",
+      "options": ["Sunlight", "Fungi", "Wind", "Soil pH"],
+      "answer": "Fungi",
+      "explanation": "...",
+      "distractors": { "Sunlight": "...", "Wind": "...", "Soil pH": "..." }
+    }
+  ]
+}

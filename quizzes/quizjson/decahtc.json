@@ -1,0 +1,1105 @@
+{
+  "title": "DECA Hospitality & Tourism Cluster Exam",
+  "questions": [
+    {
+      "question": "What is the primary function of legal procedures within the judicial system?",
+      "options": ["To create new laws", "To provide a fair way to resolve disputes", "To enforce political agendas", "To bypass the jury system"],
+      "answer": "To provide a fair way to resolve disputes",
+      "explanation": "Legal procedures ensure that the law is applied consistently and that all parties have a structured, fair process for dispute resolution.",
+      "distractors": {
+        "To create new laws": "Legislative bodies create laws; the judicial system interprets and applies them.",
+        "To enforce political agendas": "The judiciary is intended to be independent of political influence.",
+        "To bypass the jury system": "Legal procedures often protect the right to a jury trial rather than bypassing it."
+      }
+    },
+    {
+      "question": "Which of the following is a direct impact of environmental regulations on hospitality business operations?",
+      "options": ["Increased energy costs", "Mandatory conservation practices", "Guaranteed tax breaks", "Decreased guest accountability"],
+      "answer": "Mandatory conservation practices",
+      "explanation": "Environmental regulations often require businesses to implement specific conservation practices regarding waste, water, and energy.",
+      "distractors": {
+        "Increased energy costs": "While costs may fluctuate, regulations aim to manage usage rather than just increase price.",
+        "Guaranteed tax breaks": "Tax breaks are incentives, not universal requirements of environmental law.",
+        "Decreased guest accountability": "Regulations often increase the need for guests to participate in green initiatives."
+      }
+    },
+    {
+      "question": "A major disadvantage of a sole proprietorship compared to a corporation is:",
+      "options": ["Double taxation", "Unlimited personal liability", "Complex legal filings", "Ease of formation"],
+      "answer": "Unlimited personal liability",
+      "explanation": "Sole proprietors are personally responsible for all business debts, whereas corporations provide limited liability protection.",
+      "distractors": {
+        "Double taxation": "This is a disadvantage of a corporation, not a sole proprietorship.",
+        "Complex legal filings": "Corporations have much more complex filing requirements.",
+        "Ease of formation": "This is an advantage of a sole proprietorship."
+      }
+    },
+    {
+      "question": "Which act requires hotels to provide accessible rooms and public spaces for guests with disabilities?",
+      "options": ["OSHA", "The Clean Air Act", "ADA", "The Fair Labor Standards Act"],
+      "answer": "ADA",
+      "explanation": "The Americans with Disabilities Act (ADA) mandates accessibility in public accommodations.",
+      "distractors": {
+        "OSHA": "Relates to workplace safety.",
+        "The Clean Air Act": "Relates to environmental pollution.",
+        "The Fair Labor Standards Act": "Relates to minimum wage and overtime."
+      }
+    },
+    {
+      "question": "In a fiduciary relationship, the agent is legally required to:",
+      "options": ["Act in the best interest of the principal", "Prioritize their own profit", "Ignore principal instructions", "Share confidential data publicly"],
+      "answer": "Act in the best interest of the principal",
+      "explanation": "Fiduciary duty implies a position of trust requiring the agent to act solely for the benefit of the principal.",
+      "distractors": {
+        "Prioritize their own profit": "This is a breach of fiduciary duty.",
+        "Ignore principal instructions": "Agents must follow lawful instructions.",
+        "Share confidential data publicly": "Confidentiality is a key part of the fiduciary bond."
+      }
+    },
+    {
+      "question": "If a tour operator cancels a trip due to non-weather reasons, what is a common legal right of the customer?",
+      "options": ["A full refund", "No recourse", "Mandatory free upgrades for life", "Punitive damages only"],
+      "answer": "A full refund",
+      "explanation": "Travel and tourism consumer rights typically protect travelers from breach of contract, entitling them to refunds.",
+      "distractors": {
+        "No recourse": "Consumers have protections against non-performance of services.",
+        "Mandatory free upgrades for life": "This is not a legal requirement.",
+        "Punitive damages only": "Usually, compensatory damages (refunds) are the primary remedy."
+      }
+    },
+    {
+      "question": "Which type of law involves government agencies setting rules for health inspections in restaurants?",
+      "options": ["Constitutional Law", "Criminal Law", "Administrative Law", "International Law"],
+      "answer": "Administrative Law",
+      "explanation": "Administrative law consists of rules and regulations created by executive branch agencies.",
+      "distractors": {
+        "Constitutional Law": "Deals with fundamental principles of government.",
+        "Criminal Law": "Deals with offenses against the state.",
+        "International Law": "Deals with relations between nations."
+      }
+    },
+    {
+      "question": "What is a 'rider' in a hospitality contract?",
+      "options": ["The person delivering the contract", "An amendment or addition to the main document", "The contract expiration date", "A signature line"],
+      "answer": "An amendment or addition to the main document",
+      "explanation": "Riders are used to specify additional requirements, such as special equipment or dietary needs for a performer or group.",
+      "distractors": {
+        "The person delivering the contract": "This is simply a messenger.",
+        "The contract expiration date": "This is a clause, not a rider.",
+        "A signature line": "This is a basic component of any legal document."
+      }
+    },
+    {
+      "question": "Consumer protection laws in the hospitality industry primarily focus on:",
+      "options": ["Increasing hotel profits", "Health and safety standards", "Restricting travel", "Eliminating small businesses"],
+      "answer": "Health and safety standards",
+      "explanation": "These laws ensure that food is safe to eat and facilities are safe to occupy.",
+      "distractors": {
+        "Increasing hotel profits": "Protection laws often increase costs for businesses.",
+        "Restricting travel": "Laws generally aim to facilitate safe travel.",
+        "Eliminating small businesses": "Laws apply to all businesses regardless of size."
+      }
+    },
+    {
+      "question": "Price-fixing between two competing hotel chains is a violation of which laws?",
+      "options": ["Antitrust laws", "Privacy laws", "Intellectual property laws", "Labor laws"],
+      "answer": "Antitrust laws",
+      "explanation": "Antitrust laws prevent unfair business practices like price-fixing that restrict competition.",
+      "distractors": {
+        "Privacy laws": "Relate to personal data protection.",
+        "Intellectual property laws": "Relate to patents and trademarks.",
+        "Labor laws": "Relate to employer-employee relations."
+      }
+    },
+    {
+      "question": "Active listening techniques include 'paraphrasing,' which is:",
+      "options": ["Repeating exactly what was said", "Restating the message in your own words", "Ignoring the speaker", "Interrupting with your own story"],
+      "answer": "Restating the message in your own words",
+      "explanation": "Paraphrasing demonstrates that you have processed and understood the speaker's intent.",
+      "distractors": {
+        "Repeating exactly what was said": "This is 'parroting' and may not indicate true understanding.",
+        "Ignoring the speaker": "This is the opposite of active listening.",
+        "Interrupting with your own story": "This shifts focus away from the speaker."
+      }
+    },
+    {
+      "question": "To defend an idea objectively during a presentation, you should:",
+      "options": ["Use emotional appeals only", "Provide logical evidence and facts", "Attack the character of critics", "Refuse to take questions"],
+      "answer": "Provide logical evidence and facts",
+      "explanation": "Objectivity relies on external data rather than personal feelings or bias.",
+      "distractors": {
+        "Use emotional appeals only": "This is subjective, not objective.",
+        "Attack the character of critics": "This is an 'ad hominem' fallacy and unprofessional.",
+        "Refuse to take questions": "Defending an idea requires engaging with feedback."
+      }
+    },
+    {
+      "question": "What is the primary purpose of a 'call to action' in a persuasive presentation?",
+      "options": ["To end the speech quickly", "To tell the audience exactly what to do next", "To summarize history", "To introduce the speaker"],
+      "answer": "To tell the audience exactly what to do next",
+      "explanation": "A call to action motivates the audience to implement the ideas presented.",
+      "distractors": {
+        "To end the speech quickly": "A conclusion may be short, but the call to action has a specific persuasive goal.",
+        "To summarize history": "Summaries provide context but don't drive action.",
+        "To introduce the speaker": "This happens at the beginning."
+      }
+    },
+    {
+      "question": "During the editing process of a business report, what is the main goal?",
+      "options": ["Adding more pages", "Ensuring clarity and conciseness", "Increasing the font size", "Using complex vocabulary"],
+      "answer": "Ensuring clarity and conciseness",
+      "explanation": "Editing removes unnecessary 'fluff' and ensures the message is easy for the reader to digest.",
+      "distractors": {
+        "Adding more pages": "Effective reports value brevity over length.",
+        "Increasing the font size": "This is a formatting choice, not an editing goal.",
+        "Using complex vocabulary": "Simple language is usually better for business clarity."
+      }
+    },
+    {
+      "question": "Which communication channel is best for delivering an urgent, time-sensitive instruction?",
+      "options": ["A formal letter", "A monthly newsletter", "A phone call or instant message", "A bulletin board"],
+      "answer": "A phone call or instant message",
+      "explanation": "Urgent messages require immediate two-way communication channels.",
+      "distractors": {
+        "A formal letter": "Too slow for urgent matters.",
+        "A monthly newsletter": "Used for non-urgent general updates.",
+        "A bulletin board": "Relies on the recipient happening to see it."
+      }
+    },
+    {
+      "question": "When handling difficult customers over the phone, 'enunciation' refers to:",
+      "options": ["How loud you speak", "How clearly you pronounce words", "The pitch of your voice", "The length of the call"],
+      "answer": "How clearly you pronounce words",
+      "explanation": "Clear enunciation prevents misunderstandings, especially when the caller is stressed.",
+      "distractors": {
+        "How loud you speak": "This is volume.",
+        "The pitch of your voice": "This is inflection/tone.",
+        "The length of the call": "This is duration."
+      }
+    },
+    {
+      "question": "What should you do immediately after receiving complex oral instructions?",
+      "options": ["Start working immediately", "Write them down and verify understanding", "Guess the parts you missed", "Wait for someone else to do it"],
+      "answer": "Write them down and verify understanding",
+      "explanation": "Verification ensures accuracy and prevents costly mistakes later.",
+      "distractors": {
+        "Start working immediately": "Risk-heavy if the instructions were misunderstood.",
+        "Guess the parts you missed": "High likelihood of error.",
+        "Wait for someone else to do it": "Avoids responsibility."
+      }
+    },
+    {
+      "question": "Which of the following is an example of nonverbal communication?",
+      "options": ["Writing an email", "Eye contact", "Speaking clearly", "A radio advertisement"],
+      "answer": "Eye contact",
+      "explanation": "Nonverbal communication includes gestures, facial expressions, and posture.",
+      "distractors": {
+        "Writing an email": "Verbal communication (written).",
+        "Speaking clearly": "Verbal communication (oral).",
+        "A radio advertisement": "Verbal communication."
+      }
+    },
+    {
+      "question": "An effective visual aid for a meeting should be:",
+      "options": ["Extremely detailed with small text", "Simple and easy to read from a distance", "Flashy with distracting animations", "Used only at the end of the meeting"],
+      "answer": "Simple and easy to read from a distance",
+      "explanation": "Visual aids should support the speaker's points without distracting the audience.",
+      "distractors": {
+        "Extremely detailed with small text": "Causes the audience to stop listening to the speaker to read.",
+        "Flashy with distracting animations": "Distracts from the actual content.",
+        "Used only at the end of the meeting": "Visuals should reinforce points as they are made."
+      }
+    },
+    {
+      "question": "What is the primary purpose of a transmittal letter?",
+      "options": ["To fire an employee", "To accompany and explain a larger document", "To advertise a new product", "To invite guests to a party"],
+      "answer": "To accompany and explain a larger document",
+      "explanation": "A transmittal letter introduces the reader to the report or document they are receiving.",
+      "distractors": {
+        "To fire an employee": "This would be a termination letter.",
+        "To advertise a new product": "This is a sales letter.",
+        "To invite guests to a party": "This is an invitation."
+      }
+    },
+    {
+      "question": "Building positive customer relationships leads to:",
+      "options": ["Customer loyalty and repeat business", "Higher marketing costs per person", "Negative word-of-mouth", "Decreased employee morale"],
+      "answer": "Customer loyalty and repeat business",
+      "explanation": "Satisfied customers are more likely to return and recommend the business to others.",
+      "distractors": {
+        "Higher marketing costs per person": "Retaining customers is usually cheaper than acquiring new ones.",
+        "Negative word-of-mouth": "Good relationships lead to positive word-of-mouth.",
+        "Decreased employee morale": "Happy customers generally make employees' jobs easier."
+      }
+    },
+    {
+      "question": "In hospitality, a 'Moment of Truth' occurs whenever:",
+      "options": ["The manager counts the money", "A guest interacts with any aspect of the business", "The business files its taxes", "A competitor opens nearby"],
+      "answer": "A guest interacts with any aspect of the business",
+      "explanation": "Moments of Truth are critical points where guests form an opinion about the quality of service.",
+      "distractors": {
+        "The manager counts the money": "Internal financial process.",
+        "The business files its taxes": "Compliance process.",
+        "A competitor opens nearby": "External market factor."
+      }
+    },
+    {
+      "question": "When a guest is angry, the first step in diffusing the situation is usually:",
+      "options": ["Argue back", "Listen and empathize", "Call the police immediately", "Offer a free stay without listening"],
+      "answer": "Listen and empathize",
+      "explanation": "Acknowledging the guest's feelings often lowers their anger level so a solution can be found.",
+      "distractors": {
+        "Argue back": "Escalates the conflict.",
+        "Call the police immediately": "Only necessary if there is a safety threat.",
+        "Offer a free stay without listening": "May solve the financial loss but not the underlying service failure."
+      }
+    },
+    {
+      "question": "Which of these is a common personnel-related complaint from guests?",
+      "options": ["The weather was rainy", "A staff member was rude", "The hotel was located downtown", "The flight arrived on time"],
+      "answer": "A staff member was rude",
+      "explanation": "Personnel-related complaints specifically focus on the behavior and attitude of employees.",
+      "distractors": {
+        "The weather was rainy": "Environment-related, not personnel.",
+        "The hotel was located downtown": "Location-related.",
+        "The flight arrived on time": "This is a positive outcome, not a complaint."
+      }
+    },
+    {
+      "question": "How should a business policy be explained to a customer?",
+      "options": ["As a personal rule of the employee", "Clearly, with a focus on the benefit to the guest or safety", "In a defensive tone", "By blaming the government"],
+      "answer": "Clearly, with a focus on the benefit to the guest or safety",
+      "explanation": "Explaining the 'why' behind a policy (e.g., safety) helps customers accept it.",
+      "distractors": {
+        "As a personal rule of the employee": "Diminishes the employee's authority.",
+        "In a defensive tone": "Makes the customer feel attacked.",
+        "By blaming the government": "Unprofessional and usually irrelevant."
+      }
+    },
+    {
+      "question": "Probing questions are used in customer service to:",
+      "options": ["Confuse the guest", "Get more detailed information about their needs", "Talk about yourself", "End the conversation"],
+      "answer": "Get more detailed information about their needs",
+      "explanation": "Probing helps uncover the root cause of a problem or the specifics of a request.",
+      "distractors": {
+        "Confuse the guest": "Counterproductive to service.",
+        "Talk about yourself": "Shifts focus away from the guest.",
+        "End the conversation": "Probing usually extends the conversation to find clarity."
+      }
+    },
+    {
+      "question": "Reinforcing a service orientation through communication means:",
+      "options": ["Always saying 'No' first", "Using language that focuses on helping the guest", "Focusing on internal problems", "Ignoring customer feedback"],
+      "answer": "Using language that focuses on helping the guest",
+      "explanation": "A service orientation prioritizes the guest's experience in every interaction.",
+      "distractors": {
+        "Always saying 'No' first": "Lacks service orientation.",
+        "Focusing on internal problems": "Guests should not be burdened with internal issues.",
+        "Ignoring customer feedback": "Feedback is essential for improving service."
+      }
+    },
+    {
+      "question": "How does 'call-ahead seating' benefit both the restaurant and the guest?",
+      "options": ["It guarantees a table immediately upon arrival", "It manages expectations and reduces physical wait time in the lobby", "It allows the restaurant to charge more", "It eliminates the need for servers"],
+      "answer": "It manages expectations and reduces physical wait time in the lobby",
+      "explanation": "It allows guests to wait elsewhere, making the actual arrival experience smoother.",
+      "distractors": {
+        "It guarantees a table immediately": "Usually, it just puts the guest on the list earlier; it is not a reservation.",
+        "It allows the restaurant to charge more": "It is typically a free service.",
+        "It eliminates the need for servers": "Seating does not affect the need for service."
+      }
+    },
+    {
+      "question": "Which technology allows guests to skip the front desk at a hotel?",
+      "options": ["Digital key and mobile check-in", "Rotary phones", "Fax machines", "Pneumatic tubes"],
+      "answer": "Digital key and mobile check-in",
+      "explanation": "Modern hospitality tech allows guests to check in via app and unlock rooms with their phones.",
+      "distractors": {
+        "Rotary phones": "Outdated communication tech.",
+        "Fax machines": "Outdated document tech.",
+        "Pneumatic tubes": "Outdated physical delivery tech."
+      }
+    },
+    {
+      "question": "Ethics in CRM (Customer Relationship Management) largely involves:",
+      "options": ["Selling guest data to the highest bidder", "Protecting guest privacy and personal data", "Charging hidden fees", "Deleting all guest records daily"],
+      "answer": "Protecting guest privacy and personal data",
+      "explanation": "Ethical CRM requires building trust through data security and transparency.",
+      "distractors": {
+        "Selling guest data": "Unethical and often illegal.",
+        "Charging hidden fees": "Unethical financial practice.",
+        "Deleting all guest records daily": "Impractical for relationship building."
+      }
+    },
+    {
+      "question": "Which of these is an example of an economic service?",
+      "options": ["A bag of potato chips", "A hotel room stay", "A physical toothbrush", "A souvenir t-shirt"],
+      "answer": "A hotel room stay",
+      "explanation": "A service is an intangible activity or benefit provided to a consumer.",
+      "distractors": {
+        "A bag of potato chips": "An economic good (tangible).",
+        "A physical toothbrush": "An economic good.",
+        "A souvenir t-shirt": "An economic good."
+      }
+    },
+    {
+      "question": "Storing cold items in a refrigerator provides what type of utility?",
+      "options": ["Time Utility", "Place Utility", "Form Utility", "Possession Utility"],
+      "answer": "Time Utility",
+      "explanation": "Time utility involves making products available when they are needed; refrigeration allows items to be used later.",
+      "distractors": {
+        "Place Utility": "Making items available where they are needed.",
+        "Form Utility": "Changing the shape/features of a product.",
+        "Possession Utility": "Helping the consumer own the product (e.g., credit)."
+      }
+    },
+    {
+      "question": "If the supply of hotel rooms remains the same but demand increases, what usually happens to prices?",
+      "options": ["Prices decrease", "Prices stay exactly the same", "Prices increase", "The hotel goes out of business"],
+      "answer": "Prices increase",
+      "explanation": "Higher demand for a limited supply allows businesses to charge higher rates.",
+      "distractors": {
+        "Prices decrease": "This happens when supply exceeds demand.",
+        "Prices stay exactly the same": "Market forces usually drive price changes.",
+        "The hotel goes out of business": "Increased demand is usually a sign of health."
+      }
+    },
+    {
+      "question": "How does competition among airlines benefit the consumer?",
+      "options": ["Higher ticket prices", "Fewer flight options", "Improved service and lower prices", "Less innovation"],
+      "answer": "Improved service and lower prices",
+      "explanation": "Competition forces companies to improve their offerings to attract customers from rivals.",
+      "distractors": {
+        "Higher ticket prices": "Competition usually drives prices down.",
+        "Fewer flight options": "Competition usually increases variety.",
+        "Less innovation": "Competitors must innovate to stay ahead."
+      }
+    },
+    {
+      "question": "One way businesses contribute to society is by:",
+      "options": ["Avoiding all taxes", "Providing jobs for the community", "Polluting local rivers", "Eliminating competition"],
+      "answer": "Providing jobs for the community",
+      "explanation": "Employment is a key economic contribution of businesses to their local areas.",
+      "distractors": {
+        "Avoiding all taxes": "Businesses pay taxes that fund public services.",
+        "Polluting local rivers": "This is a negative externality.",
+        "Eliminating competition": "This harms the market and consumers."
+      }
+    },
+    {
+      "question": "How do social and cultural impacts like religion affect international tourism?",
+      "options": ["They have no impact on business", "They influence food offerings and operating hours", "They only affect travelers, not hotels", "They make tourism impossible"],
+      "answer": "They influence food offerings and operating hours",
+      "explanation": "Businesses must adapt to local customs (e.g., Halal food, Sunday closures) to be successful globally.",
+      "distractors": {
+        "They have no impact": "Culture is a primary driver of tourism behavior.",
+        "They only affect travelers": "Service providers must adapt to traveler needs.",
+        "They make tourism impossible": "Tourism thrives on cultural exchange."
+      }
+    },
+    {
+      "question": "When inflation is high, what typically happens to consumer spending on luxury vacations?",
+      "options": ["It increases", "It stays the same", "It decreases", "People stop traveling entirely"],
+      "answer": "It decreases",
+      "explanation": "Inflation reduces purchasing power, leading people to cut back on non-essential 'luxury' items.",
+      "distractors": {
+        "It increases": "Higher costs usually deter spending.",
+        "It stays the same": "Most consumers adjust their budgets.",
+        "People stop traveling": "Travel might decrease but rarely stops entirely."
+      }
+    },
+    {
+      "question": "The phase of the business cycle where the economy is growing is called:",
+      "options": ["Recession", "Expansion", "Depression", "Trough"],
+      "answer": "Expansion",
+      "explanation": "Expansion is characterized by rising GDP, more jobs, and increased spending.",
+      "distractors": {
+        "Recession": "A period of economic decline.",
+        "Depression": "A severe, long-term recession.",
+        "Trough": "The lowest point before a recovery."
+      }
+    },
+    {
+      "question": "Measuring productivity in a hotel usually involves looking at:",
+      "options": ["The total number of staff", "The ratio of output (rooms cleaned) to input (hours worked)", "The color of the carpet", "The name of the hotel"],
+      "answer": "The ratio of output (rooms cleaned) to input (hours worked)",
+      "explanation": "Productivity measures how efficiently resources are turned into results.",
+      "distractors": {
+        "The total number of staff": "This is just head count, not efficiency.",
+        "The color of the carpet": "Irrelevant to productivity measurement.",
+        "The name of the hotel": "Irrelevant to operational efficiency."
+      }
+    },
+    {
+      "question": "The 'profit motive' is the desire to:",
+      "options": ["Lose money", "Make money", "Avoid work", "Close the business"],
+      "answer": "Make money",
+      "explanation": "In a private enterprise system, the goal of earning a profit encourages investment and effort.",
+      "distractors": {
+        "Lose money": "The opposite of the profit motive.",
+        "Avoid work": "Earning profit usually requires significant work.",
+        "Close the business": "The motive is to stay open and grow."
+      }
+    },
+    {
+      "question": "Self-awareness in emotional intelligence involves:",
+      "options": ["Ignoring your feelings", "Recognizing your own strengths and weaknesses", "Judging others harshly", "Changing your personality daily"],
+      "answer": "Recognizing your own strengths and weaknesses",
+      "explanation": "Understanding your own emotional state and capabilities is the first step of EI.",
+      "distractors": {
+        "Ignoring your feelings": "This is the lack of self-awareness.",
+        "Judging others": "This is social judgment, not self-awareness.",
+        "Changing your personality": "Awareness does not mean constant identity shifts."
+      }
+    },
+    {
+      "question": "Why is self-control important in a high-pressure kitchen environment?",
+      "options": ["To hide from work", "To prevent stress from affecting teamwork and safety", "To make others do your job", "To avoid talking to the chef"],
+      "answer": "To prevent stress from affecting teamwork and safety",
+      "explanation": "Emotional outbursts can lead to accidents and poor communication in busy environments.",
+      "distractors": {
+        "To hide from work": "Irrelevant to self-control.",
+        "To make others do your job": "This is a lack of responsibility.",
+        "To avoid talking to the chef": "Communication is necessary."
+      }
+    },
+    {
+      "question": "Demonstrating empathy toward a coworker means:",
+      "options": ["Doing their work for them", "Understanding and sharing their feelings", "Telling them they are wrong", "Reporting them to HR"],
+      "answer": "Understanding and sharing their feelings",
+      "explanation": "Empathy helps build supportive professional relationships.",
+      "distractors": {
+        "Doing their work for them": "This is enabling, not necessarily empathy.",
+        "Telling them they are wrong": "This is judgment.",
+        "Reporting them to HR": "This is a disciplinary action."
+      }
+    },
+    {
+      "question": "Consensus building in a team means:",
+      "options": ["Everyone agrees to support the final decision", "The leader decides everything", "The team votes and the losers leave", "Avoiding any decisions"],
+      "answer": "Everyone agrees to support the final decision",
+      "explanation": "Consensus requires collaboration until a solution is found that everyone can live with.",
+      "distractors": {
+        "The leader decides": "This is an autocratic style.",
+        "The losers leave": "This destroys team morale.",
+        "Avoiding decisions": "Indecisiveness is not consensus."
+      }
+    },
+    {
+      "question": "Assertive behavior is characterized by:",
+      "options": ["Standing up for your rights while respecting others", "Attacking others to get your way", "Letting everyone walk over you", "Staying silent during conflict"],
+      "answer": "Standing up for your rights while respecting others",
+      "explanation": "Assertiveness is the healthy middle ground between aggression and passivity.",
+      "distractors": {
+        "Attacking others": "This is aggressive behavior.",
+        "Letting everyone walk over you": "This is passive behavior.",
+        "Staying silent": "This is passive behavior."
+      }
+    },
+    {
+      "question": "Why is avoiding stereotypes crucial in the tourism industry?",
+      "options": ["To save time", "To provide personalized and respectful service", "To follow a script", "To avoid all conversation"],
+      "answer": "To provide personalized and respectful service",
+      "explanation": "Treating every guest as an individual ensures their specific needs are met.",
+      "distractors": {
+        "To save time": "Stereotyping might seem 'fast' but leads to errors.",
+        "To follow a script": "Scripts can sometimes feel like stereotyping.",
+        "To avoid all conversation": "Service requires interaction."
+      }
+    },
+    {
+      "question": "An example of ethical behavior in business is:",
+      "options": ["Keeping a lost wallet found in a room", "Reporting a safety violation", "Lying about a hotel's amenities", "Overcharging a guest who seems rich"],
+      "answer": "Reporting a safety violation",
+      "explanation": "Integrity involves doing the right thing for the well-being of others, even if it's inconvenient.",
+      "distractors": {
+        "Keeping a lost wallet": "Theft (unethical).",
+        "Lying about amenities": "Deception (unethical).",
+        "Overcharging a guest": "Price gouging (unethical)."
+      }
+    },
+    {
+      "question": "Good leaders inspire others primarily by:",
+      "options": ["Using fear and threats", "Setting a positive example", "Doing nothing", "Ignoring team feedback"],
+      "answer": "Setting a positive example",
+      "explanation": "Leading by example builds trust and respect among team members.",
+      "distractors": {
+        "Using fear": "Leads to high turnover and low morale.",
+        "Doing nothing": "Lacks leadership.",
+        "Ignoring feedback": "Alienates the team."
+      }
+    },
+    {
+      "question": "Why is adaptability a key trait in hospitality?",
+      "options": ["Things never change", "Plans and guest needs change constantly", "To avoid learning new skills", "To stay in one job forever"],
+      "answer": "Plans and guest needs change constantly",
+      "explanation": "The industry is dynamic; professionals must be able to pivot when issues arise.",
+      "distractors": {
+        "Things never change": "Incorrect; hospitality is very fluid.",
+        "To avoid learning": "Adaptability requires constant learning.",
+        "To stay in one job": "Adaptability helps career growth across many roles."
+      }
+    },
+    {
+      "question": "Objective negotiation focuses on:",
+      "options": ["Winning at all costs", "Using facts and fairness to reach an agreement", "Personal attacks", "Giving up immediately"],
+      "answer": "Using facts and fairness to reach an agreement",
+      "explanation": "Objective negotiation removes emotion and focuses on measurable standards.",
+      "distractors": {
+        "Winning at all costs": "Destroys long-term relationships.",
+        "Personal attacks": "Unprofessional and ineffective.",
+        "Giving up immediately": "This is capitulation, not negotiation."
+      }
+    },
+    {
+      "question": "What is the primary purpose of an Income Statement?",
+      "options": ["To list all company assets", "To show revenue and expenses over time", "To track employee attendance", "To design a new logo"],
+      "answer": "To show revenue and expenses over time",
+      "explanation": "The Income Statement (P&L) tells a business if it made a profit or a loss during a specific period.",
+      "distractors": {
+        "List all assets": "This is a Balance Sheet.",
+        "Track attendance": "This is an HR function.",
+        "Design a logo": "This is a marketing function."
+      }
+    },
+    {
+      "question": "In a business budget, 'Income' refers to:",
+      "options": ["Money flowing out", "Money flowing in", "Money the owner keeps for personal use", "The cost of rent"],
+      "answer": "Money flowing in",
+      "explanation": "Income (or Revenue) is the total amount of money generated by business activities.",
+      "distractors": {
+        "Money flowing out": "This is an expense.",
+        "Owner keeps": "This is personal draw or net profit.",
+        "Cost of rent": "This is a fixed expense."
+      }
+    },
+    {
+      "question": "What is a 'Zero-based' budget?",
+      "options": ["Starting with last year's numbers", "Starting every period with $0 and justifying every expense", "A budget with no limits", "A budget for a business with no money"],
+      "answer": "Starting every period with $0 and justifying every expense",
+      "explanation": "Zero-based budgeting prevents 'budget creep' by requiring proof of need for every dollar.",
+      "distractors": {
+        "Starting with last year": "This is traditional or incremental budgeting.",
+        "No limits": "All budgets have limits.",
+        "Business with no money": "All businesses need budgets regardless of cash levels."
+      }
+    },
+    {
+      "question": "Why is tracking COGS (Cost of Goods Sold) important for a restaurant?",
+      "options": ["To see the color of the food", "To monitor the direct costs of the food being sold", "To pay the electricity bill", "To choose a restaurant name"],
+      "answer": "To monitor the direct costs of the food being sold",
+      "explanation": "COGS helps managers understand the efficiency of their kitchen and food purchasing.",
+      "distractors": {
+        "Color of food": "Irrelevant to finance.",
+        "Electricity bill": "This is an operating expense/utility, not COGS.",
+        "Choose a name": "Irrelevant to COGS."
+      }
+    },
+    {
+      "question": "Lenders check financial records to ensure the business is:",
+      "options": ["Famous", "Creditworthy and able to repay the loan", "Located in a tall building", "Using a specific software"],
+      "answer": "Creditworthy and able to repay the loan",
+      "explanation": "Lenders need evidence of financial stability before risking their capital.",
+      "distractors": {
+        "Famous": "Fame does not guarantee repayment.",
+        "Tall building": "Physical location is less important than cash flow.",
+        "Specific software": "Method of recording is secondary to the actual data."
+      }
+    },
+    {
+      "question": "Gross Profit is calculated as:",
+      "options": ["Revenue minus COGS", "Revenue minus all expenses", "Total assets minus liabilities", "Total sales plus taxes"],
+      "answer": "Revenue minus COGS",
+      "explanation": "Gross profit shows the profit made before operating expenses are deducted.",
+      "distractors": {
+        "Revenue minus all expenses": "This is Net Profit.",
+        "Assets minus liabilities": "This is Equity/Net Worth.",
+        "Total sales plus taxes": "This is total receipts, not profit."
+      }
+    },
+    {
+      "question": "Which business structure finds it easiest to raise large amounts of capital?",
+      "options": ["Sole Proprietorship", "General Partnership", "Corporation", "Non-profit"],
+      "answer": "Corporation",
+      "explanation": "Corporations can issue stock to thousands of investors to raise funds.",
+      "distractors": {
+        "Sole Proprietorship": "Limited to the owner's resources/loans.",
+        "General Partnership": "Limited to the partners' resources.",
+        "Non-profit": "Relies on donations and grants."
+      }
+    },
+    {
+      "question": "Risk management in a hotel often involves buying:",
+      "options": ["More food", "Insurance", "New televisions", "Uniforms"],
+      "answer": "Insurance",
+      "explanation": "Insurance transfers the financial risk of accidents or disasters to a third party.",
+      "distractors": {
+        "More food": "This is inventory management.",
+        "New televisions": "This is a capital improvement.",
+        "Uniforms": "This is an operating expense."
+      }
+    },
+    {
+      "question": "What is an 'Occupancy Tax'?",
+      "options": ["A tax on the owner's income", "A tax paid by guests for staying in a room", "A tax on the number of windows", "A tax on employee wages"],
+      "answer": "A tax paid by guests for staying in a room",
+      "explanation": "Often called a 'bed tax,' it is usually a percentage of the room rate used for local tourism promotion.",
+      "distractors": {
+        "Owner's income": "Income tax.",
+        "Number of windows": "Historic property taxes, rarely used today.",
+        "Employee wages": "Payroll tax."
+      }
+    },
+    {
+      "question": "The 'Break-even point' is when:",
+      "options": ["The business makes a huge profit", "Total revenue equals total expenses", "The business goes bankrupt", "The owner retires"],
+      "answer": "Total revenue equals total expenses",
+      "explanation": "At the break-even point, the business has covered all costs but has not yet made a profit.",
+      "distractors": {
+        "Huge profit": "This is well beyond the break-even point.",
+        "Bankrupt": "Occurs when expenses consistently exceed revenue.",
+        "Owner retires": "A personal milestone, not a financial metric."
+      }
+    },
+    {
+      "question": "What is the primary role of HR in staff orientation?",
+      "options": ["To fire the new employee", "To introduce the employee to company culture and policies", "To cook the employee lunch", "To drive the employee home"],
+      "answer": "To introduce the employee to company culture and policies",
+      "explanation": "Orientation sets the tone for the employee's career and ensures they understand expectations.",
+      "distractors": {
+        "Fire the employee": "Orientation is for hiring, not firing.",
+        "Cook lunch": "Cafeteria staff role, not HR.",
+        "Drive home": "Personal matter, not business."
+      }
+    },
+    {
+      "question": "How do online job boards assist HR recruitment?",
+      "options": ["By making it harder to find people", "By reaching a wider pool of applicants quickly", "By eliminating the need for interviews", "By increasing paper waste"],
+      "answer": "By reaching a wider pool of applicants quickly",
+      "explanation": "Technology allows HR to post openings globally and filter candidates efficiently.",
+      "distractors": {
+        "Harder to find people": "Technology usually simplifies search.",
+        "Eliminating interviews": "Interviews are still a critical part of the process.",
+        "Increasing paper waste": "Digital boards reduce paper usage."
+      }
+    },
+    {
+      "question": "Workplace diversity and inclusion involves:",
+      "options": ["Hiring only people who look the same", "Valuing and respecting different backgrounds and perspectives", "Ignoring all differences", "Forcing everyone to have the same opinion"],
+      "answer": "Valuing and respecting different backgrounds and perspectives",
+      "explanation": "Diversity strengthens teams by bringing in a variety of ideas and experiences.",
+      "distractors": {
+        "Hiring only same people": "This is the opposite of diversity.",
+        "Ignoring differences": "Inclusion requires acknowledging and celebrating differences.",
+        "Same opinion": "Inclusion values differing viewpoints."
+      }
+    },
+    {
+      "question": "A 'counseling interview' in performance evaluation is meant to:",
+      "options": ["Punish the employee", "Identify areas for improvement and provide support", "Gossip about other staff", "Resign from the job"],
+      "answer": "Identify areas for improvement and provide support",
+      "explanation": "Counseling is a proactive way to help employees succeed and improve their performance.",
+      "distractors": {
+        "Punish": "Discipline is different from counseling.",
+        "Gossip": "Unprofessional and unethical.",
+        "Resign": "This is an exit interview or resignation."
+      }
+    },
+    {
+      "question": "Equal Opportunity laws prevent discrimination based on:",
+      "options": ["Job performance", "Race, gender, or religion", "Skill level", "Work experience"],
+      "answer": "Race, gender, or religion",
+      "explanation": "Hiring decisions must be based on merit and qualifications, not protected characteristics.",
+      "distractors": {
+        "Job performance": "Valid reason for employment decisions.",
+        "Skill level": "Valid reason for hiring.",
+        "Work experience": "Valid reason for hiring."
+      }
+    },
+    {
+      "question": "A customer database allows a hotel to:",
+      "options": ["Spam guests with unrelated ads", "Personalize the guest experience based on history", "Ignore returning guests", "Change guest names"],
+      "answer": "Personalize the guest experience based on history",
+      "explanation": "Knowing a guest's preferences (e.g., extra pillows) helps build loyalty.",
+      "distractors": {
+        "Spam guests": "Unethical use of data.",
+        "Ignore guests": "The database helps you remember them.",
+        "Change names": "Irrelevant and likely illegal."
+      }
+    },
+    {
+      "question": "What is 'Primary Research' data?",
+      "options": ["Data collected for the first time for a specific purpose", "Data found in a library book", "Data from a competitor's website", "Old data from 20 years ago"],
+      "answer": "Data collected for the first time for a specific purpose",
+      "explanation": "Surveys, focus groups, and interviews conducted by the business are primary research.",
+      "distractors": {
+        "Library book": "Secondary research.",
+        "Competitor's website": "Secondary research.",
+        "Old data": "Can be primary or secondary, but 'primary' refers to the source, not the age."
+      }
+    },
+    {
+      "question": "Protecting digital assets involves:",
+      "options": ["Leaving computers unlocked", "Using strong passwords and encryption", "Writing passwords on sticky notes", "Sharing files with everyone"],
+      "answer": "Using strong passwords and encryption",
+      "explanation": "Data security protects sensitive guest and financial information from hackers.",
+      "distractors": {
+        "Leaving unlocked": "Major security risk.",
+        "Sticky notes": "Major security risk.",
+        "Sharing files": "Risk of data leakage."
+      }
+    },
+    {
+      "question": "Website analytics can tell a business:",
+      "options": ["What guests are eating for breakfast", "Which pages on the site are most popular", "The guest's home address immediately", "The weather in the guest's city"],
+      "answer": "Which pages on the site are most popular",
+      "explanation": "Analytics help businesses understand what information travelers are looking for online.",
+      "distractors": {
+        "Eating for breakfast": "Internal operational data, not web data.",
+        "Home address": "Privacy laws prevent this without guest input.",
+        "Weather": "Irrelevant to website performance tracking."
+      }
+    },
+    {
+      "question": "The role of a Management Information System (MIS) is to:",
+      "options": ["Replace all managers", "Provide data to help managers make decisions", "Clean hotel rooms", "Print menus"],
+      "answer": "Provide data to help managers make decisions",
+      "explanation": "MIS gathers and organizes data so management can see the 'big picture' of the business.",
+      "distractors": {
+        "Replace managers": "Managers use the system to be more effective.",
+        "Clean rooms": "Housekeeping function.",
+        "Print menus": "Administrative/Marketing function."
+      }
+    },
+    {
+      "question": "The '4 P's' of marketing are:",
+      "options": ["People, Place, Profit, Power", "Product, Price, Place, Promotion", "Paper, Pen, Pencil, Print", "Pizza, Pasta, Pastry, Pudding"],
+      "answer": "Product, Price, Place, Promotion",
+      "explanation": "These four elements form the marketing mix used to reach a target market.",
+      "distractors": {
+        "People, Place, etc.": "Close, but not the standard marketing mix.",
+        "Paper, Pen, etc.": "Office supplies.",
+        "Pizza, Pasta, etc.": "Food categories."
+      }
+    },
+    {
+      "question": "Identifying a 'Target Market' involves:",
+      "options": ["Selling to everyone in the world", "Focusing on a specific group most likely to buy", "Ignoring all customers", "Choosing a market by random chance"],
+      "answer": "Focusing on a specific group most likely to buy",
+      "explanation": "Targeting allows for more efficient and effective marketing spend.",
+      "distractors": {
+        "Everyone in the world": "Mass marketing, often inefficient.",
+        "Ignoring customers": "Leads to business failure.",
+        "Random chance": "Ineffective strategy."
+      }
+    },
+    {
+      "question": "Market research helps a restaurant determine:",
+      "options": ["The owner's favorite color", "What menu items guests prefer", "The cost of the chef's car", "The history of the building"],
+      "answer": "What menu items guests prefer",
+      "explanation": "Research ensures the product meets the actual needs and wants of the market.",
+      "distractors": {
+        "Owner's favorite color": "Irrelevant to consumer demand.",
+        "Chef's car": "Private personal info.",
+        "History of building": "Might be interesting but doesn't drive menu demand."
+      }
+    },
+    {
+      "question": "The 'Brand' of a hotel includes its:",
+      "options": ["Building only", "Identity, reputation, and image", "Legal address", "Inventory of towels"],
+      "answer": "Identity, reputation, and image",
+      "explanation": "A brand is the emotional and intellectual relationship a guest has with the business.",
+      "distractors": {
+        "Building only": "This is physical property.",
+        "Legal address": "This is a compliance detail.",
+        "Inventory": "This is an operational asset."
+      }
+    },
+    {
+      "question": "How does social media impact reputation management?",
+      "options": ["It allows guests to share instant reviews", "It has no impact on business", "It makes it impossible to advertise", "It replaces the need for a website"],
+      "answer": "It allows guests to share instant reviews",
+      "explanation": "One viral negative review can significantly damage a brand's reputation.",
+      "distractors": {
+        "No impact": "Social media is a primary driver of reputation today.",
+        "Impossible to advertise": "Social media is a major advertising platform.",
+        "Replaces website": "Most businesses need both for different purposes."
+      }
+    },
+    {
+      "question": "A 'Safety Audit' is used to:",
+      "options": ["Count the number of guests", "Identify potential hazards in the workplace", "Check the hotel's social media", "Clean the lobby"],
+      "answer": "Identify potential hazards in the workplace",
+      "explanation": "Audits ensure that the business is following safety protocols and reducing risk.",
+      "distractors": {
+        "Count guests": "This is occupancy tracking.",
+        "Check social media": "This is reputation monitoring.",
+        "Clean the lobby": "This is housekeeping."
+      }
+    },
+    {
+      "question": "In an emergency evacuation, staff should prioritize:",
+      "options": ["Saving the cash drawer", "Guest safety and orderly exit", "Checking their own phones", "Finishing their work"],
+      "answer": "Guest safety and orderly exit",
+      "explanation": "Life safety is the absolute priority in any emergency procedure.",
+      "distractors": {
+        "Saving cash": "Property is secondary to life.",
+        "Checking phones": "Distraction from duty.",
+        "Finishing work": "Dangerous delay."
+      }
+    },
+    {
+      "question": "Quality control in a restaurant involves:",
+      "options": ["Serving food as fast as possible regardless of taste", "Ensuring food meets consistent standards for taste and safety", "Letting guests cook their own food", "Having no rules"],
+      "answer": "Ensuring food meets consistent standards for taste and safety",
+      "explanation": "Quality control maintains the brand promise and prevents foodborne illness.",
+      "distractors": {
+        "Fast as possible": "Speed without quality leads to failure.",
+        "Guests cook": "This is a specific niche, not general quality control.",
+        "No rules": "Leads to chaos and unsafe conditions."
+      }
+    },
+    {
+      "question": "Supply chain management involves:",
+      "options": ["Doing everything yourself", "Managing the flow of goods from vendors to the business", "Selling products to competitors", "Ignoring vendor relationships"],
+      "answer": "Managing the flow of goods from vendors to the business",
+      "explanation": "Effective supply chains ensure that a hotel has the linens and food it needs to operate.",
+      "distractors": {
+        "Everything yourself": "Inefficient for large businesses.",
+        "Selling to competitors": "Usually counter-productive.",
+        "Ignoring relationships": "Leads to supply disruptions."
+      }
+    },
+    {
+      "question": "Antitrust considerations in purchasing prevent:",
+      "options": ["Buying from more than one vendor", "Collusion or unfair price-fixing among suppliers", "Paying for goods with credit", "Buying local products"],
+      "answer": "Collusion or unfair price-fixing among suppliers",
+      "explanation": "Ethical purchasing requires fair competition in the marketplace.",
+      "distractors": {
+        "More than one vendor": "Actually encouraged to ensure supply.",
+        "Paying with credit": "Standard financial practice.",
+        "Buying local": "Often encouraged for sustainability."
+      }
+    },
+    {
+      "question": "Managing inventory levels prevents 'stock-outs,' which are:",
+      "options": ["Having too much of a product", "Running out of a necessary item", "Selling a product at a high price", "Organizing the warehouse"],
+      "answer": "Running out of a necessary item",
+      "explanation": "Stock-outs lead to guest dissatisfaction (e.g., no towels or a missing menu item).",
+      "distractors": {
+        "Too much product": "This is overstocking.",
+        "Selling high price": "This is premium pricing.",
+        "Organizing": "This is warehouse management."
+      }
+    },
+    {
+      "question": "Which area of a hotel is considered 'back of house'?",
+      "options": ["The lobby", "The restaurant dining room", "The laundry facility", "The front desk"],
+      "answer": "The laundry facility",
+      "explanation": "Back of house areas are operational spaces generally not seen by guests.",
+      "distractors": {
+        "Lobby": "Front of house.",
+        "Dining room": "Front of house.",
+        "Front desk": "Front of house."
+      }
+    },
+    {
+      "question": "A Property Management System (PMS) is used to:",
+      "options": ["Mow the lawn", "Manage room bookings and guest billing", "Hire new employees", "Write recipes"],
+      "answer": "Manage room bookings and guest billing",
+      "explanation": "PMS is the central software that runs the front-desk and reservation operations.",
+      "distractors": {
+        "Mow lawn": "Landscaping/Maintenance.",
+        "Hire employees": "HR software.",
+        "Write recipes": "Kitchen management software."
+      }
+    },
+    {
+      "question": "A 'Green Initiative' in a hotel might include:",
+      "options": ["Painting all walls green", "A towel reuse program to save water", "Leaving all lights on 24/7", "Using more plastic"],
+      "answer": "A towel reuse program to save water",
+      "explanation": "Sustainability initiatives reduce the environmental footprint of hospitality operations.",
+      "distractors": {
+        "Painting walls": "Literal, but not environmental.",
+        "Lights on": "Wasteful of energy.",
+        "More plastic": "Harmful to the environment."
+      }
+    },
+    {
+      "question": "Preventative maintenance involves:",
+      "options": ["Fixing things only after they break", "Regularly servicing equipment to prevent breakdowns", "Buying new things every week", "Ignoring machine noises"],
+      "answer": "Regularly servicing equipment to prevent breakdowns",
+      "explanation": "It is cheaper to maintain an HVAC system than to replace it after it fails.",
+      "distractors": {
+        "Fixing after break": "Reactive maintenance.",
+        "Buying new every week": "Wasteful and unnecessary.",
+        "Ignoring noises": "Leads to major failures."
+      }
+    },
+    {
+      "question": "Which of these is a career in the tourism segment?",
+      "options": ["Travel Agent", "Brain Surgeon", "Construction Worker", "Farmer"],
+      "answer": "Travel Agent",
+      "explanation": "Tourism focuses on the movement of people for leisure or business.",
+      "distractors": {
+        "Brain Surgeon": "Medical segment.",
+        "Construction Worker": "Trades segment.",
+        "Farmer": "Agricultural segment."
+      }
+    },
+    {
+      "question": "Professional grooming standards in hospitality are important because:",
+      "options": ["They help staff look more expensive", "They project an image of cleanliness and professionalism to guests", "They are required by law in all cases", "They make uniforms uncomfortable"],
+      "answer": "They project an image of cleanliness and professionalism to guests",
+      "explanation": "Appearance is part of the 'service package' a guest buys.",
+      "distractors": {
+        "Look expensive": "Cleanliness is more important than cost.",
+        "Required by law": "Usually company policy, not law.",
+        "Make uniforms uncomfortable": "Standards aim for a neat look, not discomfort."
+      }
+    },
+    {
+      "question": "DECA and AHLA are examples of:",
+      "options": ["Social media platforms", "Professional organizations", "Types of hotels", "Government agencies"],
+      "answer": "Professional organizations",
+      "explanation": "These organizations provide networking and development for industry professionals.",
+      "distractors": {
+        "Social media": "They may use social media, but they are associations.",
+        "Types of hotels": "They represent hotels, not a type.",
+        "Government agencies": "They are non-governmental/non-profit."
+      }
+    },
+    {
+      "question": "What is the benefit of setting 'SMART' goals?",
+      "options": ["They are impossible to achieve", "They provide clear, measurable targets", "They don't have a deadline", "They are only for managers"],
+      "answer": "They provide clear, measurable targets",
+      "explanation": "Specific, Measurable, Achievable, Relevant, and Time-bound goals drive performance.",
+      "distractors": {
+        "Impossible to achieve": "A in SMART stands for Achievable.",
+        "No deadline": "T stands for Time-bound.",
+        "Only for managers": "Applicable to all roles."
+      }
+    },
+    {
+      "question": "In a hotel's 'Chain of Command,' who does a server usually report to?",
+      "options": ["The General Manager", "The Restaurant Manager or Supervisor", "The Guest", "The Laundry Staff"],
+      "answer": "The Restaurant Manager or Supervisor",
+      "explanation": "The chain of command defines the flow of authority and responsibility.",
+      "distractors": {
+        "General Manager": "Too high up the chain for daily reporting.",
+        "The Guest": "Guests are served, not reported to.",
+        "Laundry Staff": "Different department."
+      }
+    },
+    {
+      "question": "A 'Functional' organizational structure groups employees by:",
+      "options": ["Their specific skills or tasks (e.g., Marketing, Accounting)", "The city they live in", "Their favorite food", "Random assignment"],
+      "answer": "Their specific skills or tasks (e.g., Marketing, Accounting)",
+      "explanation": "Grouping by function allows for specialization and clear expertise within departments.",
+      "distractors": {
+        "City": "Geographic structure.",
+        "Favorite food": "Not a professional grouping.",
+        "Random": "Inefficient for management."
+      }
+    },
+    {
+      "question": "The 'Directing' function of management involves:",
+      "options": ["Writing the budget", "Motivating and guiding employees toward goals", "Hiring staff", "Buying furniture"],
+      "answer": "Motivating and guiding employees toward goals",
+      "explanation": "Directing is the 'action' phase where leaders influence staff to perform tasks.",
+      "distractors": {
+        "Writing budget": "Planning function.",
+        "Hiring staff": "Staffing function.",
+        "Buying furniture": "Organizing/Purchasing function."
+      }
+    },
+    {
+      "question": "A business's 'Vision Statement' describes:",
+      "options": ["What the business did last year", "What the business wants to become in the future", "The daily lunch special", "The list of all employees"],
+      "answer": "What the business wants to become in the future",
+      "explanation": "The vision provides long-term inspiration and direction.",
+      "distractors": {
+        "Last year": "Historical report.",
+        "Lunch special": "Operational detail.",
+        "Employee list": "Staff directory."
+      }
+    },
+    {
+      "question": "In a SWOT analysis, what does the 'T' stand for?",
+      "options": ["Target", "Threats", "Time", "Task"],
+      "answer": "Threats",
+      "explanation": "Threats are external factors that could harm the business (e.g., a new competitor).",
+      "distractors": {
+        "Target": "Marketing term.",
+        "Time": "Efficiency term.",
+        "Task": "Project management term."
+      }
+    },
+    {
+      "question": "Organizing work tasks involves:",
+      "options": ["Doing all the work alone", "Assigning roles and resources to achieve goals", "Ignoring the schedule", "Letting everyone decide their own job every day"],
+      "answer": "Assigning roles and resources to achieve goals",
+      "explanation": "Organizing ensures that the right people are in the right place with the right tools.",
+      "distractors": {
+        "Alone": "Lack of delegation.",
+        "Ignoring schedule": "Leads to chaos.",
+        "Decide own job": "Lack of structure."
+      }
+    },
+    {
+      "question": "How do you calculate the ADR (Average Daily Rate)?",
+      "options": ["Total Revenue / Total Rooms Available", "Total Room Revenue / Number of Rooms Sold", "Total Guests / Total Staff", "Total Profit / Total Days"],
+      "answer": "Total Room Revenue / Number of Rooms Sold",
+      "explanation": "ADR measures the average price paid for rooms sold on a specific day.",
+      "distractors": {
+        "Revenue / Available": "This is RevPAR.",
+        "Guests / Staff": "Staffing ratio.",
+        "Profit / Days": "Average daily profit."
+      }
+    },
+    {
+      "question": "A 'Boutique Hotel' is typically characterized by:",
+      "options": ["Thousands of rooms", "Unique style and personalized service", "Very low prices with no service", "Being located only in airports"],
+      "answer": "Unique style and personalized service",
+      "explanation": "Boutique hotels focus on design and a high-end, intimate guest experience.",
+      "distractors": {
+        "Thousands of rooms": "Convention or Mega-hotel.",
+        "Low price/No service": "Economy or Hostel.",
+        "Airports only": "Airport hotel."
+      }
+    },
+    {
+      "question": "A Quick-Serve Restaurant (QSR) is best known for:",
+      "options": ["Fine dining and white tablecloths", "Speed and limited menus", "3-hour meal times", "Expensive wine lists"],
+      "answer": "Speed and limited menus",
+      "explanation": "QSRs (Fast food) focus on efficiency and high volume.",
+      "distractors": {
+        "Fine dining": "Full-service segment.",
+        "3-hour meals": "Leisurely full-service.",
+        "Expensive wine": "Upscale dining segment."
+      }
+    },
+    {
+      "question": "What is a Global Distribution System (GDS)?",
+      "options": ["A map of the world", "A network that allows travel agents to book flights and hotels", "A way to ship luggage", "A social media site"],
+      "answer": "A network that allows travel agents to book flights and hotels",
+      "explanation": "GDS connects travel providers with sellers like agents and websites.",
+      "distractors": {
+        "Map": "Navigation tool.",
+        "Ship luggage": "Logistics service.",
+        "Social media": "Social platform."
+      }
+    },
+    {
+      "question": "ADA compliance in public spaces requires:",
+      "options": ["Free food for everyone", "Removing barriers to access for people with disabilities", "Painting everything bright blue", "Charging extra for wheelchair users"],
+      "answer": "Removing barriers to access for people with disabilities",
+      "explanation": "This includes ramps, wide doorways, and accessible restrooms.",
+      "distractors": {
+        "Free food": "Not a requirement of ADA.",
+        "Bright blue": "Not an ADA requirement.",
+        "Charging extra": "Illegal under ADA."
+      }
+    }
+  ]
+}

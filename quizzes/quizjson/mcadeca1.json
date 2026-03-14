@@ -1,0 +1,1203 @@
+[
+
+{
+"id": 101,
+"question": "What is the primary goal of 'Brand Positioning'?",
+"options": ["To maximize the number of products in a line", "To create a specific image of a product in the customer's mind", "To lower the cost of production", "To eliminate all competitors from the market"],
+"answer": "To create a specific image of a product in the customer's mind",
+"explanation": "Positioning is the strategy of making a brand stand out by associating it with a specific benefit or vibe.",
+"distractors": {
+"Maximize products": "Refers to product depth.",
+"Lower cost": "Refers to operational efficiency.",
+"Eliminate competitors": "Refers to a monopoly."
+}
+},
+{
+"id": 102,
+"question": "Which type of utility is created by a store staying open on Christmas Eve for last-minute shoppers?",
+"options": ["Form utility", "Place utility", "Time utility", "Possession utility"],
+"answer": "Time utility",
+"explanation": "Time utility is created by having products available when customers want them.",
+"distractors": {
+"Form": "Changing raw materials into goods.",
+"Place": "Having a product where customers can buy it.",
+"Possession": "The exchange of a product for money."
+}
+},
+{
+"id": 103,
+"question": "A company that sells its products through its own website and its own retail stores is using:",
+"options": ["Indirect distribution", "Direct distribution", "Wholesale distribution", "Level-three distribution"],
+"answer": "Direct distribution",
+"explanation": "Direct distribution occurs when the producer sells directly to the final consumer without intermediaries.",
+"distractors": {
+"Indirect": "Involves middle-men like wholesalers.",
+"Wholesale": "Involves selling in bulk to retailers.",
+"Level-three": "A specific multi-tiered indirect channel."
+}
+},
+{
+"id": 104,
+"question": "In a 'Command Economy', who primarily answers the three basic economic questions?",
+"options": ["Consumers", "Business owners", "The government", "International trade partners"],
+"answer": "The government",
+"explanation": "In a command system, a central authority (government) makes all economic decisions.",
+"distractors": {
+"Consumers": "Drive a Market Economy.",
+"Business owners": "Drive a Capitalist system.",
+"Trade partners": "Affect an open economy but don't 'command' it."
+}
+},
+{
+"id": 105,
+"question": "Which of the following is an example of 'Psychographic Segmentation'?",
+"options": ["Targeting people living in urban areas", "Targeting people who value environmental sustainability", "Targeting women aged 18-24", "Targeting people who buy coffee every morning"],
+"answer": "Targeting people who value environmental sustainability",
+"explanation": "Psychographics involve grouping people by their values, interests, and lifestyles.",
+"distractors": {
+"Urban areas": "Geographic segmentation.",
+"Women 18-24": "Demographic segmentation.",
+"Morning coffee": "Behavioral segmentation."
+}
+},
+{
+"id": 106,
+"question": "What is 'Price Skimming'?",
+"options": ["Setting a low price to enter a new market", "Setting a high price for a new, unique product", "Matching the competitor's price exactly", "Selling a product below cost to attract customers"],
+"answer": "Setting a high price for a new, unique product",
+"explanation": "Skimming involves charging a high price initially to 'skim' the top of the market before lowering it later.",
+"distractors": {
+"Low price": "Penetration pricing.",
+"Match competitor": "Status quo pricing.",
+"Below cost": "Loss leader pricing."
+}
+},
+{
+"id": 107,
+"question": "The 'Robinson-Patman Act' was designed to prevent:",
+"options": ["Deceptive advertising", "Unsafe products", "Price discrimination", "Monopolies"],
+"answer": "Price discrimination",
+"explanation": "It prohibits charging different prices to different resellers to protect fair competition.",
+"distractors": {
+"Deceptive ads": "Wheeler-Lea Act.",
+"Unsafe products": "Consumer Product Safety Act.",
+"Monopolies": "Sherman Antitrust Act."
+}
+},
+{
+"id": 108,
+"question": "A 'SWOT Analysis' evaluates a company's internal Strengths, internal Weaknesses, and external:",
+"options": ["Options and Timing", "Operations and Teams", "Opportunities and Threats", "Objectives and Targets"],
+"answer": "Opportunities and Threats",
+"explanation": "Opportunities and Threats are the external factors in the environment that a business must respond to.",
+"distractors": {
+"Options": "N/A.",
+"Operations": "Internal factor.",
+"Objectives": "Part of a marketing plan, not SWOT."
+}
+},
+{
+"id": 109,
+"question": "Which of the 4 Ps is most closely related to 'Public Relations'?",
+"options": ["Product", "Price", "Place", "Promotion"],
+"answer": "Promotion",
+"explanation": "Promotion includes advertising, personal selling, sales promotion, and public relations.",
+"distractors": {
+"Product": "Physical features/benefits.",
+"Price": "Value exchange.",
+"Place": "Distribution logistics."
+}
+},
+{
+"id": 110,
+"question": "What is the primary difference between a 'Wholesaler' and a 'Retailer'?",
+"options": ["Wholesalers sell to producers; Retailers sell to consumers", "Wholesalers sell to retailers; Retailers sell to final consumers", "Wholesalers manufacture goods; Retailers store them", "Wholesalers set prices; Retailers only follow them"],
+"answer": "Wholesalers sell to retailers; Retailers sell to final consumers",
+"explanation": "Wholesalers act as intermediaries in the middle of the channel, while retailers are the final link to the consumer.",
+"distractors": {
+"To producers": "Backward in the channel.",
+"Manufacture": "That is the Producer's role.",
+"Set prices": "Both levels set their own markups."
+}
+},
+{
+"id": 111,
+"question": "An 'Exclusive Distribution' strategy is most likely used for:",
+"options": ["Soft drinks", "Luxury cars", "Fast food", "Office supplies"],
+"answer": "Luxury cars",
+"explanation": "Exclusive distribution limits outlets to maintain high-end brand prestige.",
+"distractors": {
+"Soft drinks": "Intensive distribution.",
+"Fast food": "Selective distribution (franchising).",
+"Office supplies": "Intensive distribution."
+}
+},
+{
+"id": 112,
+"question": "The total value of all goods and services produced within a country's borders in a year is:",
+"options": ["Gross National Product", "Gross Domestic Product", "Consumer Price Index", "Standard of Living"],
+"answer": "Gross Domestic Product",
+"explanation": "GDP is the standard measure of a country's economic output and health.",
+"distractors": {
+"GNP": "Includes income from citizens abroad.",
+"CPI": "Measures inflation/prices.",
+"Standard of Living": "Measures quality of life."
+}
+},
+{
+"id": 113,
+"question": "A company's 'Product Mix' refers to:",
+"options": ["The total number of units in inventory", "The various stages of a product's life", "All the different products a company makes or sells", "The ingredients used in a single product"],
+"answer": "All the different products a company makes or sells",
+"explanation": "Product mix represents the full breadth and depth of a company's offerings.",
+"distractors": {
+"Inventory": "Stock levels.",
+"Stages": "Product Life Cycle.",
+"Ingredients": "Product formulation."
+}
+},
+{
+"id": 114,
+"question": "Which function of marketing involves gathering data about competitors and customers?",
+"options": ["Market-Information Management", "Product/Service Management", "Pricing", "Selling"],
+"answer": "Market-Information Management",
+"explanation": "This function involves research and data analysis to make better business decisions.",
+"distractors": {
+"Product Management": "Managing the lifecycle.",
+"Pricing": "Determining value.",
+"Selling": "Closing the transaction."
+}
+},
+{
+"id": 115,
+"question": "What is 'Institutional Promotion'?",
+"options": ["Promoting a specific high-end product", "Promoting the company's image and reputation", "Targeting schools and government buildings", "Selling products to large institutions only"],
+"answer": "Promoting the company's image and reputation",
+"explanation": "Unlike product promotion, institutional promotion focuses on the brand's social responsibility or reliability.",
+"distractors": {
+"Specific product": "Product promotion.",
+"Schools/Gov": "Segment targeting.",
+"Large institutions": "B2B marketing."
+}
+},
+{
+"id": 116,
+"question": "A 'Markup' is determined by adding a percentage to the:",
+"options": ["Retail price", "Cost of the item", "Competitor's price", "Fixed expenses"],
+"answer": "Cost of the item",
+"explanation": "Markup is the amount added to the cost to arrive at the final selling price.",
+"distractors": {
+"Retail price": "The result of the markup.",
+"Competitor price": "Used for status-quo pricing.",
+"Fixed expenses": "Used to calculate break-even, not per-unit markup."
+}
+},
+{
+"id": 117,
+"question": "Which of the following is a 'Direct Channel' of distribution?",
+"options": ["Producer to Wholesaler to Retailer to Consumer", "Producer to Retailer to Consumer", "Producer to Consumer", "Wholesaler to Retailer to Consumer"],
+"answer": "Producer to Consumer",
+"explanation": "A direct channel has zero intermediaries between the maker and the buyer.",
+"distractors": {
+"W to R to C": "Indirect channel.",
+"P to R to C": "Indirect channel.",
+"P to W to R to C": "Extended indirect channel."
+}
+},
+{
+"id": 118,
+"question": "In the 'AIDA' model, what must a marketer do first?",
+"options": ["Create Desire", "Gain Attention", "Stimulate Interest", "Encourage Action"],
+"answer": "Gain Attention",
+"explanation": "The funnel starts with Attention, followed by Interest, Desire, and finally Action.",
+"distractors": {
+"Desire": "Third step.",
+"Interest": "Second step.",
+"Action": "Final step."
+}
+},
+{
+"id": 119,
+"question": "A 'Loss Leader' is used to:",
+"options": ["Make a huge profit on a single item", "Get customers into the store to buy other items", "Clear out old inventory during a liquidation", "Test if a high price will be accepted by the market"],
+"answer": "Get customers into the store to buy other items",
+"explanation": "Businesses take a loss on one popular item to increase overall store traffic.",
+"distractors": {
+"Huge profit": "Premium pricing.",
+"Clear inventory": "Markdown.",
+"Test high price": "Skimming."
+}
+},
+{
+"id": 120,
+"question": "What is 'Ethical' behavior in marketing?",
+"options": ["Following only the laws that are strictly enforced", "Doing what is right, even if it isn't legally required", "Maximizing profit at all costs to shareholders", "Matching the deceptive tactics of a competitor"],
+"answer": "Doing what is right, even if it isn't legally required",
+"explanation": "Ethics go beyond legality to include moral principles and social responsibility.",
+"distractors": {
+"Strictly enforced": "Legal compliance only.",
+"Profit at all costs": "Unethical shortcutting.",
+"Matching deception": "Unethical behavior."
+}
+},
+{
+"id": 121,
+"question": "A 'Trade Character' is a brand mark that:",
+"options": ["Has a human or lifelike quality", "Is only used for trading on the stock market", "Is shared by multiple competing companies", "Can only be seen on digital advertisements"],
+"answer": "Has a human or lifelike quality",
+"explanation": "Examples include Tony the Tiger or the Geico Gecko.",
+"distractors": {
+"Stock market": "Trading symbol.",
+"Shared": "Generic brand.",
+"Digital only": "Web asset."
+}
+},
+{
+"id": 122,
+"question": "Which economic system is characterized by 'Private Property' and 'Competition'?",
+"options": ["Socialism", "Communism", "Capitalism", "Traditionalism"],
+"answer": "Capitalism",
+"explanation": "Capitalism (Market Economy) thrives on private ownership and the drive to compete for customers.",
+"distractors": {
+"Socialism": "Mix of private/public.",
+"Communism": "State ownership.",
+"Traditionalism": "Based on history/custom."
+}
+},
+{
+"id": 123,
+"question": "What is 'Qualitative' research?",
+"options": ["Research based on numbers and statistics", "Research based on opinions, feelings, and discussions", "Research that only looks at the quality of a product", "Research conducted through large-scale mail surveys"],
+"answer": "Research based on opinions, feelings, and discussions",
+"explanation": "Qualitative research (like focus groups) explores the 'why' behind consumer behavior.",
+"distractors": {
+"Numbers": "Quantitative research.",
+"Quality only": "Product testing.",
+"Mail surveys": "Quantitative method."
+}
+},
+{
+"id": 124,
+"question": "The 'Break-Even Point' occurs when:",
+"options": ["Total revenue equals total costs", "Total profit is maximized", "Variable costs are zero", "The product is first introduced to the market"],
+"answer": "Total revenue equals total costs",
+"explanation": "At break-even, the business has covered all expenses but has not yet made a profit.",
+"distractors": {
+"Profit maximized": "Optimization point.",
+"Variable zero": "Impossible in production.",
+"Intro stage": "Usually results in a loss due to high marketing costs."
+}
+},
+{
+"id": 125,
+"question": "Which law protects original works of authorship like books, songs, and software?",
+"options": ["Patent", "Trademark", "Copyright", "Trade Secret"],
+"answer": "Copyright",
+"explanation": "Copyright protects creative expression and artistic works.",
+"distractors": {
+"Patent": "Protects inventions.",
+"Trademark": "Protects brand symbols.",
+"Trade Secret": "Protects confidential business info."
+}
+},
+{
+"id": 126,
+"question": "What is 'Behavioral Segmentation'?",
+"options": ["Grouping by where people live", "Grouping by personality traits", "Grouping by product usage and loyalty", "Grouping by age and income"],
+"answer": "Grouping by product usage and loyalty",
+"explanation": "Behavioral segmentation looks at 'how' customers interact with a product.",
+"distractors": {
+"Where people live": "Geographics.",
+"Personality": "Psychographics.",
+"Age/Income": "Demographics."
+}
+},
+{
+"id": 127,
+"question": "A 'Sales Promotion' is usually a:",
+"options": ["Long-term strategy to build brand image", "Short-term incentive to encourage immediate purchase", "Personal conversation with a customer", "Press release sent to a local newspaper"],
+"answer": "Short-term incentive to encourage immediate purchase",
+"explanation": "Coupons, BOGO deals, and contests are all short-term sales promotions.",
+"distractors": {
+"Long-term image": "Public Relations.",
+"Personal conversation": "Personal Selling.",
+"Press release": "Publicity."
+}
+},
+{
+"id": 128,
+"question": "What is 'Interdependence' in a global economy?",
+"options": ["Each country produces everything it needs alone", "Countries rely on each other for resources and goods", "The government controls all international trade", "A country bans all imports from other nations"],
+"answer": "Countries rely on each other for resources and goods",
+"explanation": "No country is completely self-sufficient; trade allows for specialization and variety.",
+"distractors": {
+"Everything alone": "Self-sufficiency.",
+"Gov control": "Protectionism.",
+"Bans imports": "Embargo."
+}
+},
+{
+"id": 129,
+"question": "Which stage of the 'Product Life Cycle' involves heavy spending on advertising to build awareness?",
+"options": ["Introduction", "Growth", "Maturity", "Decline"],
+"answer": "Introduction",
+"explanation": "The goal in the introduction stage is to educate the market and encourage trial.",
+"distractors": {
+"Growth": "Goal is to gain market share.",
+"Maturity": "Goal is to defend market share.",
+"Decline": "Goal is to minimize costs."
+}
+},
+{
+"id": 130,
+"question": "A 'Markup' based on retail price is called:",
+"options": ["Profit margin", "Cost-plus pricing", "Unit pricing", "Odd-even pricing"],
+"answer": "Profit margin",
+"explanation": "Margin is calculated as a percentage of the final selling price.",
+"distractors": {
+"Cost-plus": "Markup based on cost.",
+"Unit pricing": "Shows cost per ounce/lb.",
+"Odd-even": "Psychological pricing."
+}
+},
+{
+"id": 131,
+"question": "What is 'Primary Data'?",
+"options": ["Data that is collected for the first time for a specific problem", "Data that already exists in a database", "Data that is shared between competitors", "Data that only looks at a company's profits"],
+"answer": "Data that is collected for the first time for a specific problem",
+"explanation": "Primary research involves original collection through surveys, focus groups, or observation.",
+"distractors": {
+"Already exists": "Secondary data.",
+"Shared": "Syndicated data.",
+"Profits": "Financial data."
+}
+},
+{
+"id": 132,
+"question": "In a 'Market Economy', what determines the price of goods?",
+"options": ["The central planning committee", "Tradition and heritage", "The interaction of supply and demand", "The cost of labor only"],
+"answer": "The interaction of supply and demand",
+"explanation": "Prices fluctuate based on how many people want an item versus how much of it is available.",
+"distractors": {
+"Central planning": "Command Economy.",
+"Tradition": "Traditional Economy.",
+"Labor only": "Labor Theory of Value."
+}
+},
+{
+"id": 133,
+"question": "Which of the following is a 'Public Relations' activity?",
+"options": ["Running a TV commercial for a new burger", "Cold-calling potential clients", "Sending a press release about a charity event", "Giving a 20% discount coupon to shoppers"],
+"answer": "Sending a press release about a charity event",
+"explanation": "PR aims to create positive publicity and manage the brand's public image.",
+"distractors": {
+"TV commercial": "Advertising.",
+"Cold-calling": "Personal Selling.",
+"Coupon": "Sales Promotion."
+}
+},
+{
+"id": 134,
+"question": "What is 'Possession Utility'?",
+"options": ["Making a product easy to buy (e.g., accepting credit cards)", "Making a product available at a convenient location", "Making a product in a size the customer wants", "Making a product available during a holiday"],
+"answer": "Making a product easy to buy (e.g., accepting credit cards)",
+"explanation": "Possession utility facilitates the transfer of ownership from the seller to the buyer.",
+"distractors": {
+"Location": "Place utility.",
+"Size": "Form utility.",
+"Holiday": "Time utility."
+}
+},
+{
+"id": 135,
+"question": "A 'Brand Extension' occurs when a company:",
+"options": ["Increases the price of its main product", "Uses an existing brand name for a new product category", "Adds more colors to an existing product", "Changes its logo to look more modern"],
+"answer": "Uses an existing brand name for a new product category",
+"explanation": "Example: A car company starting to sell branded luggage.",
+"distractors": {
+"Increase price": "Premium positioning.",
+"More colors": "Product line depth.",
+"Change logo": "Rebranding."
+}
+},
+{
+"id": 136,
+"question": "The 'Scarcity' problem exists because:",
+"options": ["Governments refuse to print enough money", "Human wants are unlimited while resources are limited", "Companies purposefully hide products to raise prices", "Technology is not advanced enough to produce goods"],
+"answer": "Human wants are unlimited while resources are limited",
+"explanation": "Scarcity is the fundamental economic problem facing all societies.",
+"distractors": {
+"Print money": "Causes inflation.",
+"Hide products": "Artificial scarcity.",
+"Technology": "Affects productivity but doesn't eliminate scarcity."
+}
+},
+{
+"id": 137,
+"question": "What is 'Direct Mail'?",
+"options": ["Advertisements sent to a specific home or business address", "Emails sent to a mass list of subscribers", "Ads that appear on social media feeds", "Personal letters from a CEO to a celebrity"],
+"answer": "Advertisements sent to a specific home or business address",
+"explanation": "Direct mail is a physical promotional tool sent through the postal service.",
+"distractors": {
+"Emails": "Email marketing.",
+"Social media": "Social media ads.",
+"Personal letters": "N/A."
+}
+},
+{
+"id": 138,
+"question": "Which function of marketing involves the actual movement and storage of goods?",
+"options": ["Pricing", "Channel Management", "Selling", "Product Management"],
+"answer": "Channel Management",
+"explanation": "Also known as distribution, this function handles logistics and the flow of goods.",
+"distractors": {
+"Pricing": "Value setting.",
+"Selling": "Personal interaction.",
+"Product Management": "Design and strategy."
+}
+},
+{
+"id": 139,
+"question": "A 'Product Line' is a group of products that are:",
+"options": ["Sold at the exact same price", "Made by the same competitor", "Closely related in function or target market", "Distributed only in the same city"],
+"answer": "Closely related in function or target market",
+"explanation": "Example: A line of different shampoos by the same brand.",
+"distractors": {
+"Same price": "Price point.",
+"Competitor": "Competitive set.",
+"Same city": "Geographic cluster."
+}
+},
+{
+"id": 140,
+"question": "What is a 'Business Cycle'?",
+"options": ["The time it takes to manufacture a product", "The movement of the economy between expansion and recession", "The process of hiring and firing employees", "The daily routine of a store manager"],
+"answer": "The movement of the economy between expansion and recession",
+"explanation": "It includes stages like expansion, peak, contraction (recession), and trough.",
+"distractors": {
+"Manufacture": "Production cycle.",
+"Hiring/Firing": "HR cycle.",
+"Daily routine": "Operations."
+}
+},
+{
+"id": 141,
+"question": "Which of the following is an 'External' source of secondary data?",
+"options": ["The company's past sales reports", "A government census report", "Customer feedback forms from last month", "Employee payroll records"],
+"answer": "A government census report",
+"explanation": "External data comes from sources outside the organization.",
+"distractors": {
+"Sales reports": "Internal data.",
+"Feedback forms": "Internal data.",
+"Payroll": "Internal data."
+}
+},
+{
+"id": 142,
+"question": "A 'Target Market' is:",
+"options": ["Everyone who can see an advertisement", "The specific group a business wants to turn into customers", "The city where a business is located", "Only the people who have already bought a product"],
+"answer": "The specific group a business wants to turn into customers",
+"explanation": "Marketers focus their 4 Ps on this specific group to be more efficient.",
+"distractors": {
+"Everyone": "Mass market.",
+"City": "Geographic area.",
+"Previous buyers": "Customer base."
+}
+},
+{
+"id": 143,
+"question": "What is 'Personal Selling'?",
+"options": ["Any form of paid non-personal communication", "Direct communication between a salesperson and a customer", "Setting up a booth at a fair with no staff", "Writing a blog post about a product"],
+"answer": "Direct communication between a salesperson and a customer",
+"explanation": "It is a two-way flow of communication intended to influence a purchase.",
+"distractors": {
+"Paid non-personal": "Advertising.",
+"Booth no staff": "Display/Promotion.",
+"Blog post": "Content marketing."
+}
+},
+{
+"id": 144,
+"question": "Which economic utility is increased by 'Free Shipping'?",
+"options": ["Possession utility", "Form utility", "Geographic utility", "Standard utility"],
+"answer": "Possession utility",
+"explanation": "Lowering the barrier to ownership (cost/effort) increases possession utility.",
+"distractors": {
+"Form": "Physical changes.",
+"Geographic": "Not a standard utility.",
+"Standard": "N/A."
+}
+},
+{
+"id": 145,
+"question": "A 'Markup' percentage based on cost is 100%. If an item costs $10, what is the retail price?",
+"options": ["$10", "$15", "$20", "$100"],
+"answer": "$20",
+"explanation": "100% of $10 is $10. Adding that to the cost ($10 + $10) equals $20.",
+"distractors": {
+"$10": "Zero markup.",
+"$15": "50% markup.",
+"$100": "900% markup."
+}
+},
+{
+"id": 146,
+"question": "What is 'Inflation'?",
+"options": ["A decrease in the price of most goods", "An increase in the buying power of money", "A general rise in prices across the economy", "A period of high employment and low growth"],
+"answer": "A general rise in prices across the economy",
+"explanation": "Inflation reduces the purchasing power of each unit of currency.",
+"distractors": {
+"Decrease price": "Deflation.",
+"Increase buying power": "Deflation.",
+"High employment": "Expansion."
+}
+},
+{
+"id": 147,
+"question": "Which of the following is a 'Trade Character'?",
+"options": ["The Apple logo", "The Pillsbury Doughboy", "The Nike Swoosh", "The Coca-Cola script name"],
+"answer": "The Pillsbury Doughboy",
+"explanation": "A trade character is a lifelike representation of a brand.",
+"distractors": {
+"Apple logo": "Brand mark.",
+"Swoosh": "Brand mark.",
+"Coke script": "Brand name/Wordmark."
+}
+},
+{
+"id": 148,
+"question": "The 'Promotion' function is designed to:",
+"options": ["Inform, persuade, or remind customers about a product", "Store goods in a warehouse", "Design the packaging of a new product", "Determine the cost of materials"],
+"answer": "Inform, persuade, or remind customers about a product",
+"explanation": "These are the three primary objectives of any promotional effort.",
+"distractors": {
+"Store goods": "Channel Management.",
+"Design packaging": "Product Management.",
+"Determine cost": "Finance/Accounting."
+}
+},
+{
+"id": 149,
+"question": "What is 'Market Share'?",
+"options": ["The total number of stores a company owns", "The percentage of total sales in a market held by one company", "The amount of money a company has in the bank", "The value of a company's stock on the market"],
+"answer": "The percentage of total sales in a market held by one company",
+"explanation": "It is a measure of how competitive a company is compared to others in its industry.",
+"distractors": {
+"Number of stores": "Retail footprint.",
+"Money in bank": "Capital.",
+"Stock value": "Market capitalization."
+}
+},
+{
+"id": 150,
+"question": "A 'Specialty Store' usually has a:",
+"options": ["Wide and deep product mix", "Narrow and deep product mix", "Wide and shallow product mix", "Narrow and shallow product mix"],
+"answer": "Narrow and deep product mix",
+"explanation": "Specialty stores focus on one category (narrow) but have many variations (deep) of those items.",
+"distractors": {
+"Wide/Deep": "Department store.",
+"Wide/Shallow": "Convenience store.",
+"Narrow/Shallow": "Kiosk."
+}
+},
+{
+"id": 151,
+"question": "Which stage of the 'Product Life Cycle' is usually characterized by the highest level of profit?",
+"options": ["Introduction", "Growth", "Maturity", "Decline"],
+"answer": "Maturity",
+"explanation": "While sales grow fastest in Growth, the most profit is often made in Maturity after R&D and initial marketing costs are recouped.",
+"distractors": {
+"Introduction": "Often negative profit.",
+"Growth": "High costs to gain share.",
+"Decline": "Shrinking margins."
+}
+},
+{
+"id": 152,
+"question": "What is 'Place Utility'?",
+"options": ["Having a product available where customers want it", "Changing the physical shape of a product", "Allowing customers to pay with a mobile app", "Making sure the store is open late at night"],
+"answer": "Having a product available where customers want it",
+"explanation": "Place utility is about the convenience of location and distribution.",
+"distractors": {
+"Shape": "Form utility.",
+"Mobile app": "Possession utility.",
+"Late night": "Time utility."
+}
+},
+{
+"id": 153,
+"question": "A 'Slogan' is a:",
+"options": ["Visual symbol for a brand", "Short and catchy phrase used in advertising", "The legal name of a corporation", "The physical packaging of a product"],
+"answer": "Short and catchy phrase used in advertising",
+"explanation": "Slogans help reinforce brand identity and memorability (e.g., 'Just Do It').",
+"distractors": {
+"Visual symbol": "Logo.",
+"Legal name": "Trade name.",
+"Packaging": "Product feature."
+}
+},
+{
+"id": 154,
+"question": "What is 'Consumer Spending'?",
+"options": ["Money spent by the government on infrastructure", "Money spent by individuals on goods and services", "Money spent by businesses on new machinery", "Money lost to theft and shoplifting"],
+"answer": "Money spent by individuals on goods and services",
+"explanation": "Consumer spending is a major driver of the GDP in many economies.",
+"distractors": {
+"Government spending": "Fiscal policy.",
+"Business spending": "Investment.",
+"Money lost": "Shrinkage."
+}
+},
+{
+"id": 155,
+"question": "Which pricing strategy involves setting a price very low to drive out competitors?",
+"options": ["Price skimming", "Predatory pricing", "Psychological pricing", "Odd-even pricing"],
+"answer": "Predatory pricing",
+"explanation": "Predatory pricing is often illegal because it aims to create a monopoly by harming competition.",
+"distractors": {
+"Skimming": "Initial high price.",
+"Psychological": "Emotional triggers.",
+"Odd-even": "$9.99 vs $10.00."
+}
+},
+{
+"id": 156,
+"question": "A 'Focus Group' is a form of:",
+"options": ["Secondary research", "Quantitative research", "Qualitative research", "Institutional research"],
+"answer": "Qualitative research",
+"explanation": "It relies on open-ended discussion to gather deep insights into consumer thoughts.",
+"distractors": {
+"Secondary": "Focus groups are primary.",
+"Quantitative": "Focus groups don't produce statistics.",
+"Institutional": "Promotion type, not research."
+}
+},
+{
+"id": 157,
+"question": "What is 'Product Depth'?",
+"options": ["The number of different product lines a company carries", "The number of versions of each product in a line", "The physical thickness of the product packaging", "How far a company will go to satisfy a customer"],
+"answer": "The number of versions of each product in a line",
+"explanation": "Depth refers to variations like sizes, flavors, or models within a single line.",
+"distractors": {
+"Number of lines": "Product width.",
+"Thickness": "Logistics measurement.",
+"How far": "Customer service level."
+}
+},
+{
+"id": 158,
+"question": "Which function of marketing involves determining how much to charge for a product?",
+"options": ["Promotion", "Pricing", "Selling", "Market-Info Management"],
+"answer": "Pricing",
+"explanation": "The pricing function balances company profit needs with consumer value perceptions.",
+"distractors": {
+"Promotion": "Informing/Persuading.",
+"Selling": "Transactional.",
+"Market-Info": "Gathering data."
+}
+},
+{
+"id": 159,
+"question": "What is a 'Trade Secret'?",
+"options": ["A patent that has expired", "A confidential business formula or process", "The name of a company's largest client", "A hidden fee charged to international traders"],
+"answer": "A confidential business formula or process",
+"explanation": "Example: The formula for Coca-Cola or the KFC spice blend.",
+"distractors": {
+"Expired patent": "Public domain.",
+"Client name": "N/A.",
+"Hidden fee": "Nontariff barrier."
+}
+},
+{
+"id": 160,
+"question": "A 'Franchise' is an agreement where:",
+"options": ["Two companies merge to form one", "A person buys the right to use a brand's business model", "The government takes over a failing private business", "A business sells all its assets to pay off debts"],
+"answer": "A person buys the right to use a brand's business model",
+"explanation": "The franchisee pays fees and royalties to use the franchisor's name and systems.",
+"distractors": {
+"Merge": "Merger.",
+"Gov take over": "Nationalization.",
+"Sell assets": "Liquidation."
+}
+},
+{
+"id": 161,
+"question": "What is 'Demographic Segmentation'?",
+"options": ["Segmenting by physical personality", "Segmenting by measurable statistics like age and gender", "Segmenting by city or zip code", "Segmenting by how much a customer likes a brand"],
+"answer": "Segmenting by measurable statistics like age and gender",
+"explanation": "Demographics are objective, factual data points about a population.",
+"distractors": {
+"Personality": "Psychographics.",
+"City/Zip": "Geographics.",
+"Likes brand": "Behavioral."
+}
+},
+{
+"id": 162,
+"question": "A 'Press Release' is a tool used in:",
+"options": ["Direct marketing", "Public relations", "Personal selling", "Pricing strategy"],
+"answer": "Public relations",
+"explanation": "It is a written statement sent to the media to announce something newsworthy.",
+"distractors": {
+"Direct": "Mail/Email.",
+"Personal selling": "One-on-one.",
+"Pricing": "Value setting."
+}
+},
+{
+"id": 163,
+"question": "What is 'Discretionary Income'?",
+"options": ["Money left over after paying taxes", "Money left over after paying for basic necessities", "The total amount on a paycheck before taxes", "Money saved specifically for retirement"],
+"answer": "Money left over after paying for basic necessities",
+"explanation": "Marketers of luxury goods target discretionary income.",
+"distractors": {
+"After taxes": "Disposable income.",
+"Before taxes": "Gross income.",
+"Retirement": "Savings/Investment."
+}
+},
+{
+"id": 164,
+"question": "Which of the following is an example of 'Suggestion Selling'?",
+"options": ["Asking a customer if they found everything okay", "Asking a customer if they would like fries with their burger", "Asking a customer for their email address", "Asking a customer to fill out a survey"],
+"answer": "Asking a customer if they would like fries with their burger",
+"explanation": "Suggestion selling offers related or additional items to increase the sale value.",
+"distractors": {
+"Found everything": "Customer service.",
+"Email": "Data collection.",
+"Survey": "Market research."
+}
+},
+{
+"id": 165,
+"question": "What is 'Product/Service Management'?",
+"options": ["Storing products in a warehouse", "Developing, maintaining, and improving a product mix", "Hiring people to sell products in a store", "Setting the retail price for a new service"],
+"answer": "Developing, maintaining, and improving a product mix",
+"explanation": "This function handles everything from new product ideas to deleting old ones.",
+"distractors": {
+"Storing": "Logistics.",
+"Hiring": "Human Resources.",
+"Setting price": "Pricing function."
+}
+},
+{
+"id": 166,
+"question": "An 'Opportunity' in a SWOT analysis is:",
+"options": ["A weakness that a company has fixed", "An external factor that could benefit the company", "A internal strength that the company is proud of", "A competitor that is doing better than you"],
+"answer": "An external factor that could benefit the company",
+"explanation": "Example: A new law that makes it easier for you to export your products.",
+"distractors": {
+"Fixed weakness": "Strengthening.",
+"Internal strength": "Strength.",
+"Competitor": "Threat."
+}
+},
+{
+"id": 167,
+"question": "What is 'Social Responsibility' in business?",
+"options": ["Being social with your employees", "The obligation to benefit society as a whole", "Following only the laws that help you make money", "Making sure every advertisement is on social media"],
+"answer": "The obligation to benefit society as a whole",
+"explanation": "Corporate Social Responsibility (CSR) includes environmental and ethical commitments.",
+"distractors": {
+"Social with employees": "Company culture.",
+"Laws only": "Legalism.",
+"Social media": "Digital marketing."
+}
+},
+{
+"id": 168,
+"question": "A 'Markup' of 25% on an item that costs $80 results in a price of:",
+"options": ["$20", "$80", "$100", "$105"],
+"answer": "$100",
+"explanation": "25% of $80 is $20. $80 + $20 = $100.",
+"distractors": {
+"$20": "The markup amount, not the price.",
+"$80": "The cost.",
+"$105": "Calculated incorrectly."
+}
+},
+{
+"id": 169,
+"question": "Which of the 4 Ps is most concerned with 'Warehousing'?",
+"options": ["Product", "Price", "Place", "Promotion"],
+"answer": "Place",
+"explanation": "Place (Distribution) involves the storage and movement of inventory.",
+"distractors": {
+"Product": "Features.",
+"Price": "Value.",
+"Promotion": "Communication."
+}
+},
+{
+"id": 170,
+"question": "What is 'Bait-and-Switch'?",
+"options": ["A fishing supply store's promotional event", "Advertising a low price to lure customers in, then pushing a more expensive item", "Offering a free gift with every purchase", "Switching from one brand of inventory to another"],
+"answer": "Advertising a low price to lure customers in, then pushing a more expensive item",
+"explanation": "This is a deceptive and often illegal pricing/promotional tactic.",
+"distractors": {
+"Fishing supply": "Literal interpretation.",
+"Free gift": "Premium promotion.",
+"Switching inventory": "Procurement."
+}
+},
+{
+"id": 171,
+"question": "Which economic system relies most on 'Government Planning'?",
+"options": ["Capitalism", "Command Economy", "Mixed Economy", "Traditional Economy"],
+"answer": "Command Economy",
+"explanation": "The government makes all major economic decisions in a command system.",
+"distractors": {
+"Capitalism": "Relies on markets.",
+"Mixed": "Relies on both gov and markets.",
+"Traditional": "Relies on customs."
+}
+},
+{
+"id": 172,
+"question": "What is 'Secondary Data'?",
+"options": ["Data that is less important than primary data", "Data that has already been collected for another purpose", "Data that is only collected by small businesses", "Data that is incorrect or outdated"],
+"answer": "Data that has already been collected for another purpose",
+"explanation": "Secondary data is often cheaper and faster to obtain than primary data.",
+"distractors": {
+"Less important": "Can be equally important.",
+"Small businesses": "Used by all businesses.",
+"Incorrect": "Can be very accurate."
+}
+},
+{
+"id": 173,
+"question": "A 'Brand Name' is the part of the brand that:",
+"options": ["Can be seen but not spoken", "Can be spoken (words, letters, or numbers)", "Is legally registered for exclusive use", "Represents a lifelike person or animal"],
+"answer": "Can be spoken (words, letters, or numbers)",
+"explanation": "Example: 'Coca-Cola' is the brand name.",
+"distractors": {
+"Seen not spoken": "Brand mark.",
+"Legally registered": "Trademark.",
+"Lifelike": "Trade character."
+}
+},
+{
+"id": 174,
+"question": "What is 'Inseparability' in services?",
+"options": ["The service cannot be touched or seen before purchase", "The service is produced and consumed at the same time", "The service quality varies from one employee to another", "The service cannot be stored for later use"],
+"answer": "The service is produced and consumed at the same time",
+"explanation": "You cannot separate a haircut from the barber performing it.",
+"distractors": {
+"Cannot be touched": "Intangibility.",
+"Varies": "Variability/Heterogeneity.",
+"Cannot be stored": "Perishability."
+}
+},
+{
+"id": 175,
+"question": "The 'Marketing Mix' is another name for:",
+"options": ["The 4 Ps", "A SWOT analysis", "A focus group", "The product lifecycle"],
+"answer": "The 4 Ps",
+"explanation": "Product, Price, Place, and Promotion make up the marketing mix.",
+"distractors": {
+"SWOT": "Strategic tool.",
+"Focus group": "Research tool.",
+"Lifecycle": "Strategic concept."
+}
+},
+{
+"id": 176,
+"question": "What is 'Market-Information Management'?",
+"options": ["Hiring managers for a supermarket", "Organizing and analyzing data to make marketing decisions", "Setting up the physical layout of a store", "Printing flyers for a sales event"],
+"answer": "Organizing and analyzing data to make marketing decisions",
+"explanation": "This function turns data into useful information for the company.",
+"distractors": {
+"Hiring": "HR.",
+"Layout": "Visual merchandising.",
+"Printing flyers": "Promotion."
+}
+},
+{
+"id": 177,
+"question": "A 'Recession' is defined as a period of:",
+"options": ["High inflation and high growth", "Low unemployment and high consumer spending", "Economic decline for at least six months", "Rapid increase in the stock market"],
+"answer": "Economic decline for at least six months",
+"explanation": "Technically, two consecutive quarters of negative GDP growth.",
+"distractors": {
+"High inflation": "Overheating.",
+"Low unemployment": "Expansion.",
+"Stock market": "Bull market."
+}
+},
+{
+"id": 178,
+"question": "Which utility is created by 'Manufacturing'?",
+"options": ["Form utility", "Place utility", "Time utility", "Possession utility"],
+"answer": "Form utility",
+"explanation": "Form utility is the value added by changing the physical state of something.",
+"distractors": {
+"Place": "Logistics.",
+"Time": "Scheduling.",
+"Possession": "Finance/Sales."
+}
+},
+{
+"id": 179,
+"question": "What is 'Odd-Even Pricing'?",
+"options": ["Charging more for odd-numbered days", "Setting prices that end in odd or even numbers to influence perception", "Giving a discount to every second customer", "Pricing products based on their weight"],
+"answer": "Setting prices that end in odd or even numbers to influence perception",
+"explanation": "Odd prices ($9.99) suggest a bargain; even prices ($100.00) suggest quality.",
+"distractors": {
+"Odd days": "N/A.",
+"Every second customer": "Sales promotion.",
+"Weight": "Unit pricing."
+}
+},
+{
+"id": 180,
+"question": "A 'Trademark' is:",
+"options": ["A brand name or mark that has legal protection", "A secret ingredient in a product", "A way of shipping goods internationally", "The total value of a company's sales"],
+"answer": "A brand name or mark that has legal protection",
+"explanation": "Trademarks prevent others from using similar names/marks that would confuse consumers.",
+"distractors": {
+"Secret ingredient": "Trade secret.",
+"Shipping": "Logistics.",
+"Sales value": "Revenue."
+}
+},
+{
+"id": 181,
+"question": "What is 'Geographic Segmentation'?",
+"options": ["Grouping people by their hobbies", "Grouping people by where they live or work", "Grouping people by their level of education", "Grouping people by their loyalty to a brand"],
+"answer": "Grouping people by where they live or work",
+"explanation": "Includes city, state, country, or climate region.",
+"distractors": {
+"Hobbies": "Psychographics.",
+"Education": "Demographics.",
+"Loyalty": "Behavioral."
+}
+},
+{
+"id": 182,
+"question": "Which of the following is a 'Direct' promotional activity?",
+"options": ["A billboard on a highway", "A personalized email with a coupon", "A sponsorship of a sports stadium", "A news story about a product"],
+"answer": "A personalized email with a coupon",
+"explanation": "Direct marketing targets specific individuals without intermediaries.",
+"distractors": {
+"Billboard": "Mass advertising.",
+"Sponsorship": "Institutional/Publicity.",
+"News story": "Publicity."
+}
+},
+{
+"id": 183,
+"question": "What is 'Profit'?",
+"options": ["The total amount of money a business collects", "The money left over after all expenses are paid", "The cost of manufacturing a product", "The amount of taxes a business owes"],
+"answer": "The money left over after all expenses are paid",
+"explanation": "Profit = Total Revenue - Total Expenses.",
+"distractors": {
+"Total collected": "Revenue.",
+"Cost to make": "Cost of Goods Sold.",
+"Taxes": "Liability."
+}
+},
+{
+"id": 184,
+"question": "Which function of marketing involves managing the relationship with the customer?",
+"options": ["Pricing", "Selling", "Product Management", "Channel Management"],
+"answer": "Selling",
+"explanation": "Selling involves the person-to-person interaction to satisfy needs and complete a sale.",
+"distractors": {
+"Pricing": "Finance focused.",
+"Product Management": "Strategic focused.",
+"Channel Management": "Logistics focused."
+}
+},
+{
+"id": 185,
+"question": "What is 'Elastic Demand'?",
+"options": ["When a change in price has little effect on demand", "When a small change in price causes a large change in demand", "When the supply of a product is unlimited", "When a product can be stretched to fit different markets"],
+"answer": "When a small change in price causes a large change in demand",
+"explanation": "Luxuries usually have elastic demand; if the price goes up, people stop buying quickly.",
+"distractors": {
+"Little effect": "Inelastic demand.",
+"Unlimited supply": "Perfectly elastic supply.",
+"Stretched": "Product adaptation."
+}
+},
+{
+"id": 186,
+"question": "A 'Sole Proprietorship' is a business owned by:",
+"options": ["One person", "Two or more people", "Many stockholders", "The government"],
+"answer": "One person",
+"explanation": "It is the simplest form of business ownership, where the owner has total control and total liability.",
+"distractors": {
+"Two or more": "Partnership.",
+"Stockholders": "Corporation.",
+"Government": "Public entity."
+}
+},
+{
+"id": 187,
+"question": "What is 'Product Width'?",
+"options": ["The number of different product lines a company offers", "The physical width of a store's aisles", "The number of items within a single product line", "The time it takes for a product to travel across the country"],
+"answer": "The number of different product lines a company offers",
+"explanation": "Width (Breadth) is about the variety of categories a company competes in.",
+"distractors": {
+"Aisles": "Store design.",
+"Within a line": "Product depth.",
+"Travel time": "Lead time."
+}
+},
+{
+"id": 188,
+"question": "A 'Logo' is technically a:",
+"options": ["Brand mark", "Brand name", "Slogan", "Trade character"],
+"answer": "Brand mark",
+"explanation": "A logo is the visual symbol or design that identifies the brand.",
+"distractors": {
+"Brand name": "The spoken word.",
+"Slogan": "The catchy phrase.",
+"Trade character": "The lifelike mascot."
+}
+},
+{
+"id": 189,
+"question": "What is 'Marketing Research'?",
+"options": ["Searching for a new job in marketing", "The systematic collection and analysis of data about a market", "Hiring a new marketing manager", "A meeting where the marketing team discusses their weekend"],
+"answer": "The systematic collection and analysis of data about a market",
+"explanation": "Market research helps reduce risk in business decision-making.",
+"distractors": {
+"Job search": "N/A.",
+"Hiring": "HR.",
+"Meeting": "Internal communication."
+}
+},
+{
+"id": 190,
+"question": "Which stage of the 'Product Life Cycle' involves dropping sales and profits?",
+"options": ["Introduction", "Growth", "Maturity", "Decline"],
+"answer": "Decline",
+"explanation": "In the decline stage, the product is often phased out or sold to a niche market.",
+"distractors": {
+"Introduction": "Low sales, low profit.",
+"Growth": "Rising sales, rising profit.",
+"Maturity": "Stable sales, peak profit."
+}
+},
+{
+"id": 191,
+"question": "What is 'Mixed Economy'?",
+"options": ["A mix of different products in a store", "An economy with both private and government involvement", "A country that exports as much as it imports", "A system where everyone has the same income"],
+"answer": "An economy with both private and government involvement",
+"explanation": "Most modern economies (like the US) are mixed, combining free market principles with government regulation.",
+"distractors": {
+"Product mix": "Marketing term.",
+"Exports/Imports": "Balance of trade.",
+"Same income": "Egalitarianism."
+}
+},
+{
+"id": 192,
+"question": "A 'Discount' is a:",
+"options": ["Reduction in the original price of a product", "Increase in the price to cover shipping", "Fee charged for using a credit card", "Tax added to the final sale"],
+"answer": "Reduction in the original price of a product",
+"explanation": "Discounts are used to move inventory, reward loyalty, or encourage bulk buying.",
+"distractors": {
+"Increase": "Surcharge.",
+"Fee": "Transaction fee.",
+"Tax": "Sales tax."
+}
+},
+{
+"id": 193,
+"question": "What is 'Institutional Advertising'?",
+"options": ["Advertising a specific brand of cereal", "Advertising designed to create a positive image of the company", "Advertising that only appears in schools or hospitals", "Advertising that is paid for by the government"],
+"answer": "Advertising designed to create a positive image of the company",
+"explanation": "It builds the 'corporate brand' rather than selling a specific item.",
+"distractors": {
+"Cereal": "Product advertising.",
+"Schools": "Segmented advertising.",
+"Government": "Public service announcement."
+}
+},
+{
+"id": 194,
+"question": "Which of the 4 Ps involves 'Warehousing' and 'Transportation'?",
+"options": ["Product", "Price", "Place", "Promotion"],
+"answer": "Place",
+"explanation": "Place is synonymous with distribution and logistics.",
+"distractors": {
+"Product": "Physical goods.",
+"Price": "Strategy.",
+"Promotion": "Advertising."
+}
+},
+{
+"id": 195,
+"question": "What is 'Psychographics'?",
+"options": ["The study of a person's physical health", "Segmenting a market by lifestyle and values", "Determining the price of psychological therapy", "The number of people living in a specific area"],
+"answer": "Segmenting a market by lifestyle and values",
+"explanation": "Psychographics get 'inside the head' of the consumer.",
+"distractors": {
+"Health": "Medical data.",
+"Therapy price": "Pricing.",
+"Area population": "Geographics."
+}
+},
+{
+"id": 196,
+"question": "A 'Markup' based on cost is 50%. If the cost is $20, what is the price?",
+"options": ["$10", "$20", "$30", "$40"],
+"answer": "$30",
+"explanation": "50% of $20 is $10. Adding that to the cost ($20 + $10) gives $30.",
+"distractors": {
+"$10": "The markup amount.",
+"$20": "The cost.",
+"$40": "100% markup."
+}
+},
+{
+"id": 197,
+"question": "What is 'Direct Competition'?",
+"options": ["Two businesses selling very different products", "Two businesses selling similar products to the same customers", "A business competing against itself", "A company that has no competitors"],
+"answer": "Two businesses selling similar products to the same customers",
+"explanation": "Example: McDonald's and Burger King.",
+"distractors": {
+"Different products": "Indirect competition.",
+"Against itself": "Cannibalization.",
+"No competitors": "Monopoly."
+}
+},
+{
+"id": 198,
+"question": "Which function of marketing involves the person-to-person interaction?",
+"options": ["Pricing", "Promotion", "Selling", "Product Management"],
+"answer": "Selling",
+"explanation": "Selling is the 'face' of marketing where individual needs are met.",
+"distractors": {
+"Pricing": "Number based.",
+"Promotion": "Mass communication.",
+"Product Management": "Design based."
+}
+},
+{
+"id": 199,
+"question": "What is 'Brand Loyalty'?",
+"options": ["When a company only sells one brand", "When a customer consistently buys from the same brand", "When a company fires all its competitors", "When a brand is legally allowed to operate"],
+"answer": "When a customer consistently buys from the same brand",
+"explanation": "Loyalty reduces marketing costs because repeat customers are easier to keep than new ones are to find.",
+"distractors": {
+"One brand": "Exclusive store.",
+"Fires competitors": "Anticompetitive.",
+"Legally allowed": "Licensing."
+}
+},
+{
+"id": 200,
+"question": "Which role provides vital insight for risk assessments in a company?",
+"options": ["External PR firms", "Front-line staff members", "Financial auditors only", "Government inspectors only"],
+"answer": "Front-line staff members",
+"explanation": "Front-line staff (like security or cashiers) see daily operational risks first-hand.",
+"distractors": {
+"PR firms": "Focus on reputation, not daily operational risk.",
+"Auditors only": "Focus on financial risk.",
+"Government only": "Focus on compliance risk."
+}
+}
+]

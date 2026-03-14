@@ -1,0 +1,1669 @@
+{
+"title": "DECA Finance Cluster Exam",
+"questions": [
+{
+"question": "Which of the following acts primarily focuses on protecting the privacy of consumer financial information by requiring financial institutions to explain their information-sharing practices?",
+"options": [
+"Sarbanes-Oxley Act",
+"Gramm-Leach-Bliley Act",
+"Glass-Steagall Act",
+"Federal Reserve Act"
+],
+"answer": "Gramm-Leach-Bliley Act",
+"explanation": "The Gramm-Leach-Bliley Act (GLBA) requires financial institutions to provide consumers with a privacy notice and limits the sharing of nonpublic personal information.",
+"distractors": {
+"Sarbanes-Oxley Act": "Focuses on corporate governance and financial disclosure to prevent accounting fraud.",
+"Glass-Steagall Act": "Historically separated commercial and investment banking (mostly repealed by GLBA).",
+"Federal Reserve Act": "Established the central banking system of the U.S."
+}
+},
+{
+"question": "A business organized as a separate legal entity owned by stockholders is known as a:",
+"options": [
+"Sole Proprietorship",
+"General Partnership",
+"Corporation",
+"Limited Liability Partnership"
+],
+"answer": "Corporation",
+"explanation": "A corporation is a legal entity distinct from its owners, providing limited liability and the ability to raise capital through stock.",
+"distractors": {
+"Sole Proprietorship": "A business owned and run by one person with no legal distinction between the owner and the business.",
+"General Partnership": "An arrangement where two or more people agree to share in all assets, profits, and liabilities.",
+"Limited Liability Partnership": "A partnership in which some or all partners have limited liabilities, but it is not a 'separate entity' in the same way a corporation is."
+}
+},
+{
+"question": "Which SQL statement is used to extract data from a specific table in a database?",
+"options": [
+"UPDATE",
+"INSERT",
+"SELECT",
+"DROP"
+],
+"answer": "SELECT",
+"explanation": "The SELECT statement is used in SQL to query or retrieve data from a database table.",
+"distractors": {
+"UPDATE": "Used to modify existing records in a table.",
+"INSERT": "Used to add new records to a table.",
+"DROP": "Used to delete an entire table or database."
+}
+},
+{
+"question": "What is the primary purpose of a cost accounting budget?",
+"options": [
+"To determine the company's stock price",
+"To control and monitor finances",
+"To calculate the personal income tax of employees",
+"To predict international exchange rates"
+],
+"answer": "To control and monitor finances",
+"explanation": "Cost accounting budgets are internal tools used by management to project revenue and expenses to maintain control over the firm's financial health.",
+"distractors": {
+"To determine the company's stock price": "Stock price is determined by market supply and demand, not an internal budget.",
+"To calculate the personal income tax of employees": "This is a payroll or personal finance function, not a business cost budget.",
+"To predict international exchange rates": "This is a macroeconomic forecasting activity."
+}
+},
+{
+"question": "If a financial advisor fails to act in the best interest of their client, they have likely violated their:",
+"options": [
+"Right of Subrogation",
+"Fiduciary Duty",
+"Statute of Frauds",
+"Power of Attorney"
+],
+"answer": "Fiduciary Duty",
+"explanation": "Fiduciary duty is a legal obligation of one party to act in the best interest of another.",
+"distractors": {
+"Right of Subrogation": "An insurer's right to pursue a third party that caused a loss to the insured.",
+"Statute of Frauds": "A legal concept requiring certain contracts to be in writing.",
+"Power of Attorney": "A legal document giving one person the power to act for another."
+}
+},
+{
+"question": "In the accounting equation, Assets = Liabilities + ______.",
+"options": [
+"Revenue",
+"Expenses",
+"Owner's Equity",
+"Net Income"
+],
+"answer": "Owner's Equity",
+"explanation": "The fundamental accounting equation balances what a company owns (assets) against what it owes (liabilities) and the residual interest of the owners (equity).",
+"distractors": {
+"Revenue": "The total amount of money brought in, which eventually flows into equity but isn't the primary component of the equation.",
+"Expenses": "Costs incurred, which reduce equity.",
+"Net Income": "Profit (Revenue - Expenses), which is added to retained earnings in equity."
+}
+},
+{
+"question": "Which of the following is considered a 'non-deposit' financial institution?",
+"options": [
+"Commercial Bank",
+"Credit Union",
+"Insurance Company",
+"Savings and Loan Association"
+],
+"answer": "Insurance Company",
+"explanation": "Insurance companies provide services in exchange for premiums rather than accepting deposits like traditional banks.",
+"distractors": {
+"Commercial Bank": "Primary function is accepting deposits and making loans.",
+"Credit Union": "A member-owned financial cooperative that accepts deposits.",
+"Savings and Loan Association": "Specializes in accepting savings deposits and making mortgage loans."
+}
+},
+{
+"question": "The 'Time Value of Money' concept suggests that:",
+"options": [
+"Money loses value over time due to storage costs",
+"A dollar today is worth more than a dollar tomorrow",
+"Interest rates always decrease over time",
+"Investments should only be made for the long term"
+],
+"answer": "A dollar today is worth more than a dollar tomorrow",
+"explanation": "Money available now is worth more than the same amount in the future due to its potential earning capacity (interest).",
+"distractors": {
+"Money loses value over time due to storage costs": "While inflation reduces purchasing power, the TVM concept is about earning potential.",
+"Interest rates always decrease over time": "Interest rates fluctuate based on market conditions and central bank policy.",
+"Investments should only be made for the long term": "TVM applies to all timeframes, regardless of investment duration."
+}
+},
+{
+"question": "A 'Heat-map' in financial data visualization is most effective for:",
+"options": [
+"Showing a chronological sequence of events",
+"Representing the magnitude of data points through color",
+"Defining the organizational structure of a bank",
+"Listing the names of all stockholders"
+],
+"answer": "Representing the magnitude of data points through color",
+"explanation": "Heat-maps use color gradients to show areas of high or low activity, such as stock market performance across different sectors.",
+"distractors": {
+"Showing a chronological sequence of events": "A timeline or Gantt chart is better for this.",
+"Defining the organizational structure of a bank": "An organizational chart is used for this.",
+"Listing the names of all stockholders": "A simple list or table is more appropriate."
+}
+},
+{
+"question": "What is the primary goal of the Federal Reserve's 'Monetary Policy'?",
+"options": [
+"To set the federal budget for infrastructure",
+"To influence the economy by managing the money supply and interest rates",
+"To audit individual tax returns",
+"To manage the marketing campaigns of commercial banks"
+],
+"answer": "To influence the economy by managing the money supply and interest rates",
+"explanation": "The Fed uses tools like the federal funds rate and open market operations to promote maximum employment and stable prices.",
+"distractors": {
+"To set the federal budget for infrastructure": "This is 'Fiscal Policy' performed by Congress/Executive branch.",
+"To audit individual tax returns": "This is the responsibility of the IRS.",
+"To manage the marketing campaigns of commercial banks": "Banks manage their own private marketing."
+}
+},
+{
+"question": "Which of the following is a 'Pure Risk'?",
+"options": [
+"Investing in a new startup",
+"Buying shares of a mutual fund",
+"The possibility of a warehouse fire",
+"Gambling at a casino"
+],
+"answer": "The possibility of a warehouse fire",
+"explanation": "Pure risk involves only the chance of loss or no loss, with no possibility of gain (insurable risk).",
+"distractors": {
+"Investing in a new startup": "This is speculative risk (possibility of gain or loss).",
+"Buying shares of a mutual fund": "This is speculative risk.",
+"Gambling at a casino": "This is speculative risk."
+}
+},
+{
+"question": "In CRM, 'Data Mining' is often used to:",
+"options": [
+"Physically extract minerals from the earth",
+"Identify patterns and relationships in customer data",
+"Write the company's mission statement",
+"Clean the office building"
+],
+"answer": "Identify patterns and relationships in customer data",
+"explanation": "Data mining uses software to analyze large sets of data to find trends, such as which customers are most likely to buy a specific financial product.",
+"distractors": {
+"Physically extract minerals": "This is literal mining, not data mining.",
+"Write the mission statement": "This is a strategic management task.",
+"Clean the office building": "This is a maintenance task."
+}
+},
+{
+"question": "Which financial statement reports a company's financial position at a specific point in time?",
+"options": [
+"Income Statement",
+"Statement of Cash Flows",
+"Balance Sheet",
+"Retained Earnings Statement"
+],
+"answer": "Balance Sheet",
+"explanation": "The Balance Sheet provides a 'snapshot' of assets, liabilities, and equity on a specific date.",
+"distractors": {
+"Income Statement": "Shows performance over a period of time (e.g., a quarter or year).",
+"Statement of Cash Flows": "Shows cash inflows and outflows over a period of time.",
+"Retained Earnings Statement": "Shows changes in equity over a period of time."
+}
+},
+{
+"question": "What does a 'Liquidity Ratio' measure?",
+"options": [
+"The company's ability to pay short-term debts",
+"The company's total annual revenue",
+"The percentage of employees with advanced degrees",
+"The physical weight of a company's gold reserves"
+],
+"answer": "The company's ability to pay short-term debts",
+"explanation": "Liquidity ratios, like the current ratio, assess whether a company has enough liquid assets to cover its upcoming liabilities.",
+"distractors": {
+"The company's total annual revenue": "This is a raw figure from the income statement.",
+"The percentage of employees with degrees": "This is a human resources metric.",
+"The physical weight of gold": "This is not a financial ratio."
+}
+},
+{
+"question": "A professional who wants to build relationships with other local financial planners should join a:",
+"options": [
+"National trade union",
+"Local society of financial professionals",
+"International regulatory body",
+"Private social media group for gamers"
+],
+"answer": "Local society of financial professionals",
+"explanation": "Local organizations facilitate face-to-face networking and discussions on regional trends.",
+"distractors": {
+"National trade union": "Focuses on labor rights across the country, not necessarily local networking.",
+"International regulatory body": "Focuses on global standards, not local relationship building.",
+"Private social media group for gamers": "Not relevant to professional development in finance."
+}
+},
+{
+"question": "Which of the following is an example of an 'Operating Activity' on the Statement of Cash Flows?",
+"options": [
+"Selling a piece of manufacturing equipment",
+"Issuing new shares of stock",
+"Collecting cash from customers for services rendered",
+"Taking out a long-term bank loan"
+],
+"answer": "Collecting cash from customers for services rendered",
+"explanation": "Operating activities are the core business functions that generate revenue and expenses.",
+"distractors": {
+"Selling equipment": "This is an Investing Activity.",
+"Issuing stock": "This is a Financing Activity.",
+"Taking out a loan": "This is a Financing Activity."
+}
+},
+{
+"question": "The Sarbanes-Oxley Act was passed primarily in response to:",
+"options": [
+"The Great Depression",
+"Major corporate accounting scandals (e.g., Enron, WorldCom)",
+"The invention of the internet",
+"A sudden increase in international trade"
+],
+"answer": "Major corporate accounting scandals (e.g., Enron, WorldCom)",
+"explanation": "SOX was designed to improve corporate responsibility and financial disclosures after massive fraud cases in the early 2000s.",
+"distractors": {
+"The Great Depression": "Led to the Securities Acts of 1933 and 1934, not SOX.",
+"Invention of the internet": "Influenced many laws, but not the specific driver for SOX.",
+"Increase in trade": "Relates more to trade agreements like NAFTA/USMCA."
+}
+},
+{
+"question": "In economics, 'Capital' as a factor of production refers to:",
+"options": [
+"The city where the government is located",
+"The skills and knowledge of the workforce",
+"Man-made goods used to produce other goods (e.g., machinery)",
+"Natural resources found in the environment"
+],
+"answer": "Man-made goods used to produce other goods (e.g., machinery)",
+"explanation": "Economic capital includes tools, buildings, and equipment used in the production process.",
+"distractors": {
+"Government city": "This is a political definition of capital.",
+"Skills of workforce": "This is 'Human Capital' or 'Labor'.",
+"Natural resources": "This is the 'Land' factor of production."
+}
+},
+{
+"question": "Which of these is a characteristic of a 'Hedge Fund'?",
+"options": [
+"Available to all retail investors with no minimum deposit",
+"Highly regulated by the government like savings accounts",
+"Typically open only to accredited or high-net-worth investors",
+"Guarantees a 100% return on investment every year"
+],
+"answer": "Typically open only to accredited or high-net-worth investors",
+"explanation": "Hedge funds are private investment partnerships that use complex strategies and are generally restricted to sophisticated investors.",
+"distractors": {
+"Available to all": "This describes Mutual Funds, not Hedge Funds.",
+"Highly regulated like savings": "Hedge funds have significantly less regulation than retail banking products.",
+"Guarantees 100% return": "No investment can guarantee such returns; hedge funds carry high risk."
+}
+},
+{
+"question": "What is the result of 'Inflation' on a consumer's purchasing power?",
+"options": [
+"It increases the amount of goods one can buy with a dollar",
+"It decreases the amount of goods one can buy with a dollar",
+"It has no effect on purchasing power",
+"It makes all products free of charge"
+],
+"answer": "It decreases the amount of goods one can buy with a dollar",
+"explanation": "Inflation is the general increase in prices, meaning each unit of currency buys fewer goods and services.",
+"distractors": {
+"Increases goods bought": "This would be deflation.",
+"No effect": "Inflation directly erodes the value of money.",
+"Makes products free": "This is impossible in an economic system."
+}
+},
+{
+"question": "Which of the following best describes 'Business Ethics'?",
+"options": [
+"Doing whatever is necessary to maximize short-term profit",
+"The application of moral standards to business behavior",
+"A set of laws that are strictly enforced by the police",
+"The study of how to manipulate consumers into buying products"
+],
+"answer": "The application of moral standards to business behavior",
+"explanation": "Business ethics involves choosing actions that are not only legal but also right, fair, and honest.",
+"distractors": {
+"Maximize short-term profit": "This often conflicts with ethical behavior.",
+"Strictly enforced laws": "Ethics often go beyond what is legally required.",
+"Manipulate consumers": "This is generally considered unethical behavior."
+}
+},
+{
+"question": "An 'Opportunity Cost' is best defined as:",
+"options": [
+"The total monetary cost of an item",
+"The value of the next best alternative given up",
+"The discount received for a bulk purchase",
+"The cost of labor in a production process"
+],
+"answer": "The value of the next best alternative given up",
+"explanation": "Whenever a choice is made, the benefit of the alternative that was not chosen is the opportunity cost.",
+"distractors": {
+"Total monetary cost": "This is the explicit cost.",
+"Discount received": "This is a price reduction.",
+"Cost of labor": "This is a production expense."
+}
+},
+{
+"question": "When a company uses 'Environmental Scanning,' it is looking for:",
+"options": [
+"Pollution in local rivers",
+"External threats and opportunities in the marketplace",
+"The temperature inside the office building",
+"A way to recycle old paper"
+],
+"answer": "External threats and opportunities in the marketplace",
+"explanation": "Environmental scanning involves monitoring external factors like economic trends, technology, and competition to inform strategy.",
+"distractors": {
+"Pollution": "This is environmental science, not business scanning.",
+"Temperature": "This is building management.",
+"Recycle paper": "This is sustainability/waste management."
+}
+},
+{
+"question": "Which of the following is a 'Direct Distribution' channel?",
+"options": [
+"Manufacturer to Wholesaler to Retailer to Consumer",
+"Manufacturer to Retailer to Consumer",
+"Manufacturer to Consumer",
+"Manufacturer to Agent to Wholesaler to Retailer to Consumer"
+],
+"answer": "Manufacturer to Consumer",
+"explanation": "Direct distribution occurs when the producer sells directly to the end user without intermediaries.",
+"distractors": {
+"To Retailer to Consumer": "This is an indirect channel with one intermediary.",
+"To Wholesaler to Retailer": "This is a traditional indirect channel.",
+"To Agent to Wholesaler": "This is a complex indirect channel."
+}
+},
+{
+"question": "What is the function of 'Middle Management'?",
+"options": [
+"Setting the overall long-term direction for the entire company",
+"Supervising entry-level employees on a daily basis",
+"Implementing the goals set by top management and overseeing departments",
+"Cleaning and maintaining the facility"
+],
+"answer": "Implementing the goals set by top management and overseeing departments",
+"explanation": "Middle managers (like department heads) bridge the gap between executive strategy and daily operations.",
+"distractors": {
+"Setting long-term direction": "This is the role of Top/Executive Management.",
+"Supervising daily": "This is the role of First-line or Supervisory Management.",
+"Maintaining facility": "This is an operations/maintenance task."
+}
+},
+{
+"question": "Which type of investment represents ownership in a company?",
+"options": [
+"Corporate Bond",
+"Common Stock",
+"Certificate of Deposit (CD)",
+"Treasury Note"
+],
+"answer": "Common Stock",
+"explanation": "Stockholders own a portion of the corporation and have a claim on its assets and earnings.",
+"distractors": {
+"Corporate Bond": "This is a debt instrument (the investor is a lender, not an owner).",
+"Certificate of Deposit": "This is a bank savings product.",
+"Treasury Note": "This is a government debt instrument."
+}
+},
+{
+"question": "A 'Bear Market' is characterized by:",
+"options": [
+"Rising stock prices and investor optimism",
+"Falling stock prices and investor pessimism",
+"Prices that stay exactly the same for years",
+"A sudden increase in the price of honey"
+],
+"answer": "Falling stock prices and investor pessimism",
+"explanation": "A bear market is defined by a sustained decline in market prices, often 20% or more.",
+"distractors": {
+"Rising prices": "This is a 'Bull Market'.",
+"Prices stay same": "This is a stagnant or 'flat' market.",
+"Price of honey": "Not a financial term (though related to literal bears)."
+}
+},
+{
+"question": "What is 'Gross Domestic Product' (GDP)?",
+"options": [
+"The total amount of debt owed by a government",
+"The total value of all goods and services produced within a country in a year",
+"The number of people currently unemployed",
+"The total amount of money in the world"
+],
+"answer": "The total value of all goods and services produced within a country in a year",
+"explanation": "GDP is the primary measure of a nation's economic output and health.",
+"distractors": {
+"Total debt": "This is the national debt.",
+"Number unemployed": "This is the unemployment level.",
+"Money in the world": "This is the global money supply."
+}
+},
+{
+"question": "In a database, what is a 'Primary Key'?",
+"options": [
+"The most expensive piece of software used",
+"A unique identifier for each record in a table",
+"The password used to log in",
+"A backup copy of the data"
+],
+"answer": "A unique identifier for each record in a table",
+"explanation": "A primary key ensures that every row in a table is unique and can be easily retrieved.",
+"distractors": {
+"Expensive software": "Not a database term.",
+"Password": "This is an authentication credential.",
+"Backup copy": "This is redundancy/data protection."
+}
+},
+{
+"question": "Which of the following is a 'Variable Expense' for a business?",
+"options": [
+"Monthly rent for the office",
+"Cost of raw materials for production",
+"The CEO's annual salary",
+"Property taxes"
+],
+"answer": "Cost of raw materials for production",
+"explanation": "Variable expenses change in direct proportion to the volume of goods or services produced.",
+"distractors": {
+"Monthly rent": "This is a Fixed Expense.",
+"CEO salary": "This is generally a Fixed Expense.",
+"Property taxes": "This is a Fixed Expense."
+}
+},
+{
+"question": "Which marketing function involves determining the best way to get products to customers?",
+"options": [
+"Pricing",
+"Promotion",
+"Channel Management (Distribution)",
+"Product/Service Management"
+],
+"answer": "Channel Management (Distribution)",
+"explanation": "Channel management deals with the movement of goods through the supply chain to the final user.",
+"distractors": {
+"Pricing": "Determining the value or cost of the product.",
+"Promotion": "Communicating with customers about the product.",
+"Product/Service Management": "Developing and improving the product itself."
+}
+},
+{
+"question": "What is the main goal of 'Diversification' in an investment portfolio?",
+"options": [
+"To put all your money into one high-performing stock",
+"To reduce risk by spreading investments across different assets",
+"To pay the highest possible fees to a broker",
+"To avoid paying any taxes ever"
+],
+"answer": "To reduce risk by spreading investments across different assets",
+"explanation": "Diversification helps ensure that a loss in one area doesn't ruin the entire portfolio.",
+"distractors": {
+"One high-performing stock": "This is the opposite of diversification (concentration).",
+"Pay highest fees": "Investors aim to minimize fees.",
+"Avoid all taxes": "While tax-efficient strategies exist, diversification's primary goal is risk reduction."
+}
+},
+{
+"question": "Which type of law deals with disputes between individuals or organizations?",
+"options": [
+"Criminal Law",
+"Civil Law",
+"Military Law",
+"Constitutional Law"
+],
+"answer": "Civil Law",
+"explanation": "Civil law covers non-criminal matters like contracts, property, and personal injury.",
+"distractors": {
+"Criminal Law": "Deals with crimes and punishment for acts against the state/society.",
+"Military Law": "Governs members of the armed forces.",
+"Constitutional Law": "Deals with the interpretation and implementation of the Constitution."
+}
+},
+{
+"question": "What does 'ROI' stand for in finance?",
+"options": [
+"Rate of Interest",
+"Return on Investment",
+"Revenue over Income",
+"Risk of Inflation"
+],
+"answer": "Return on Investment",
+"explanation": "ROI is a performance measure used to evaluate the efficiency or profitability of an investment.",
+"distractors": {
+"Rate of Interest": "This is the cost of borrowing money.",
+"Revenue over Income": "Not a standard financial term.",
+"Risk of Inflation": "A type of market risk."
+}
+},
+{
+"question": "A 'Patent' protects which of the following?",
+"options": [
+"A catchy song title",
+"A new and useful invention",
+"A company's logo",
+"A novel written by an author"
+],
+"answer": "A new and useful invention",
+"explanation": "Patents grant inventors exclusive rights to their inventions for a set period.",
+"distractors": {
+"Song title": "Titles are usually not protected; the song itself is protected by Copyright.",
+"Company logo": "Protected by a Trademark.",
+"Novel": "Protected by a Copyright."
+}
+},
+{
+"question": "Which of these is a 'Fixed Asset'?",
+"options": [
+"Cash in the register",
+"Inventory waiting to be sold",
+"A company-owned delivery truck",
+"Accounts Receivable"
+],
+"answer": "A company-owned delivery truck",
+"explanation": "Fixed assets (or long-term assets) are physical assets used in operations for more than one year.",
+"distractors": {
+"Cash": "This is a Current Asset.",
+"Inventory": "This is a Current Asset.",
+"Accounts Receivable": "This is a Current Asset."
+}
+},
+{
+"question": "The 'Law of Demand' states that as price increases:",
+"options": [
+"Quantity demanded increases",
+"Quantity demanded decreases",
+"Quantity supplied decreases",
+"Demand stays exactly the same"
+],
+"answer": "Quantity demanded decreases",
+"explanation": "There is an inverse relationship between price and quantity demanded; as things get more expensive, people buy less.",
+"distractors": {
+"Quantity demanded increases": "This would violate the Law of Demand.",
+"Quantity supplied decreases": "This relates to the Law of Supply.",
+"Demand stays the same": "Only true for perfectly inelastic goods."
+}
+},
+{
+"question": "What is 'Whistleblowing'?",
+"options": [
+"Starting a game at a sports event",
+"An employee reporting illegal or unethical activity within their company",
+"A type of marketing used to attract attention",
+"A way to communicate in a noisy factory"
+],
+"answer": "An employee reporting illegal or unethical activity within their company",
+"explanation": "Whistleblowers are protected by various laws to encourage the reporting of corporate wrongdoing.",
+"distractors": {
+"Starting a game": "Literal meaning, not the business term.",
+"Marketing type": "Whistleblowing is internal/legal, not promotional.",
+"Noisy factory": "Not a business term."
+}
+},
+{
+"question": "Which of the following is a 'Liabilities' account on a balance sheet?",
+"options": [
+"Supplies",
+"Land",
+"Notes Payable",
+"Prepaid Insurance"
+],
+"answer": "Notes Payable",
+"explanation": "Payable accounts represent money the business owes to others.",
+"distractors": {
+"Supplies": "This is an Asset.",
+"Land": "This is an Asset.",
+"Prepaid Insurance": "This is an Asset (it provides future benefit)."
+}
+},
+{
+"question": "What is the primary purpose of 'Collateral' in a loan?",
+"options": [
+"To make the loan more expensive for the borrower",
+"To provide the lender with an asset they can seize if the loan isn't repaid",
+"To ensure the borrower gets a free gift with their loan",
+"To decrease the lender's tax liability"
+],
+"answer": "To provide the lender with an asset they can seize if the loan isn't repaid",
+"explanation": "Collateral reduces the lender's risk by securing the loan against a physical asset like a house or car.",
+"distractors": {
+"Make loan more expensive": "Collateral often results in lower interest rates because it reduces risk.",
+"Free gift": "Collateral is a requirement, not a bonus.",
+"Decrease tax": "Collateral doesn't directly impact tax liability."
+}
+},
+{
+"question": "In a 'Market Economy,' who primarily answers the basic economic questions?",
+"options": [
+"The Government",
+"Individual consumers and producers",
+"Tradition and customs",
+"The King or Queen"
+],
+"answer": "Individual consumers and producers",
+"explanation": "In a market economy, decisions are made through the interaction of buyers and sellers.",
+"distractors": {
+"The Government": "Characteristic of a 'Command Economy'.",
+"Tradition": "Characteristic of a 'Traditional Economy'.",
+"King or Queen": "Characteristic of an Absolute Monarchy or specific command systems."
+}
+},
+{
+"question": "Which financial ratio is calculated by dividing Current Assets by Current Liabilities?",
+"options": [
+"Debt-to-Equity Ratio",
+"Current Ratio",
+"Return on Assets",
+"Inventory Turnover"
+],
+"answer": "Current Ratio",
+"explanation": "The current ratio is a standard measure of a company's short-term liquidity.",
+"distractors": {
+"Debt-to-Equity Ratio": "Total Liabilities divided by Total Equity.",
+"Return on Assets": "Net Income divided by Total Assets.",
+"Inventory Turnover": "Cost of Goods Sold divided by Average Inventory."
+}
+},
+{
+"question": "What is 'Auditing'?",
+"options": [
+"The process of hiring new employees",
+"An independent examination of financial records to ensure accuracy",
+"A marketing technique for social media",
+"The physical construction of a bank building"
+],
+"answer": "An independent examination of financial records to ensure accuracy",
+"explanation": "Audits provide stakeholders with confidence that a company's financial statements are presented fairly.",
+"distractors": {
+"Hiring employees": "This is Recruitment/HR.",
+"Marketing technique": "Auditing is an accounting/finance function.",
+"Construction": "This is engineering/operations."
+}
+},
+{
+"question": "Which of the following is a 'Limited Resource' in economics?",
+"options": [
+"Wants and needs",
+"Time",
+"The number of times you can click a button",
+"Air (in most business contexts)"
+],
+"answer": "Time",
+"explanation": "Time is the ultimate scarce resource; it cannot be created or recovered.",
+"distractors": {
+"Wants and needs": "These are considered unlimited in economic theory.",
+"Click a button": "Not a fundamental economic resource.",
+"Air": "Usually considered a 'free good' unless discussing pollution/compressed air."
+}
+},
+{
+"question": "A 'Mutual Fund' is best described as:",
+"options": [
+"A single stock that never loses value",
+"A pool of money from many investors used to buy a variety of stocks and bonds",
+"A loan made directly to a local small business",
+"A bank account that pays 0% interest"
+],
+"answer": "A pool of money from many investors used to buy a variety of stocks and bonds",
+"explanation": "Mutual funds offer instant diversification and professional management for retail investors.",
+"distractors": {
+"Single stock": "Mutual funds contain many different securities.",
+"Direct loan": "This would be a private placement or direct lending.",
+"Bank account": "Mutual funds are investment products, not simple bank accounts."
+}
+},
+{
+"question": "What is 'Working Capital'?",
+"options": [
+"The total value of all employees in the building",
+"Current Assets minus Current Liabilities",
+"The money used to build the company headquarters",
+"The amount of profit a company makes in 10 years"
+],
+"answer": "Current Assets minus Current Liabilities",
+"explanation": "Working capital measures a company's operational liquidity and short-term financial health.",
+"distractors": {
+"Total value of employees": "This is Human Capital.",
+"Building headquarters": "This is Capital Expenditure (CapEx).",
+"Profit in 10 years": "This is a long-term earnings projection."
+}
+},
+{
+"question": "Which part of a business plan describes the target market and competition?",
+"options": [
+"Financial Plan",
+"Executive Summary",
+"Market Analysis",
+"Operations Plan"
+],
+"answer": "Market Analysis",
+"explanation": "The market analysis section details the industry outlook, target customers, and competitor strengths/weaknesses.",
+"distractors": {
+"Financial Plan": "Details revenue, expenses, and funding requirements.",
+"Executive Summary": "A high-level overview of the entire plan.",
+"Operations Plan": "Details how the business will run daily."
+}
+},
+{
+"question": "In a 'Limited Partnership,' the limited partners:",
+"options": [
+"Have unlimited personal liability for business debts",
+"Manage the daily operations of the business",
+"Are only liable for the amount they invested",
+"Must be related to the general partner"
+],
+"answer": "Are only liable for the amount they invested",
+"explanation": "Limited partners provide capital but have no management control and limited liability.",
+"distractors": {
+"Unlimited liability": "This applies only to General Partners.",
+"Manage daily operations": "Managing usually triggers unlimited liability for partners.",
+"Must be related": "Partnerships are based on contracts, not family ties."
+}
+},
+{
+"question": "What is the primary risk of 'Credit'?",
+"options": [
+"Having too much cash on hand",
+"The risk that the borrower will not pay back the loan",
+"That interest rates will drop to 0%",
+"That the bank will give you a higher credit limit"
+],
+"answer": "The risk that the borrower will not pay back the loan",
+"explanation": "This is known as 'Default Risk' or 'Credit Risk'.",
+"distractors": {
+"Too much cash": "This is a liquidity management issue, not a credit risk.",
+"Rates drop to 0%": "This is interest rate risk, not credit risk.",
+"Higher limit": "This is usually considered a benefit for the borrower, not a primary risk."
+}
+},
+{
+"question": "Which of the following is a 'Direct Tax'?",
+"options": [
+"Sales Tax",
+"Income Tax",
+"Value Added Tax (VAT)",
+"Excise Tax"
+],
+"answer": "Income Tax",
+"explanation": "Direct taxes are paid directly by the individual or organization to the government (like income or property tax).",
+"distractors": {
+"Sales Tax": "An indirect tax collected by a retailer.",
+"VAT": "An indirect tax collected at each stage of production.",
+"Excise Tax": "An indirect tax on specific goods like fuel or tobacco."
+}
+},
+{
+"question": "What is 'Embargo'?",
+"options": [
+"A tax on imported goods",
+"A limit on the quantity of goods that can be imported",
+"A complete ban on trade with a specific country",
+"A government subsidy for exports"
+],
+"answer": "A complete ban on trade with a specific country",
+"explanation": "Embargoes are often used as political tools to pressure other nations.",
+"distractors": {
+"Tax": "This is a 'Tariff'.",
+"Quantity limit": "This is a 'Quota'.",
+"Subsidy": "A government payment to support a domestic industry."
+}
+},
+{
+"question": "What is 'Net Worth'?",
+"options": [
+"Total Assets plus Total Liabilities",
+"Total Assets minus Total Liabilities",
+"The total amount of cash in a bank account",
+"The annual salary of an individual"
+],
+"answer": "Total Assets minus Total Liabilities",
+"explanation": "Net worth (or equity) represents the actual value of an individual or business after all debts are paid.",
+"distractors": {
+"Assets plus Liabilities": "This doesn't represent any standard financial metric.",
+"Cash in bank": "This is just one type of asset.",
+"Annual salary": "This is income, not net worth."
+}
+},
+{
+"question": "Which of the following describes a 'Secondary Market'?",
+"options": [
+"Where investors buy shares directly from a company (IPO)",
+"Where investors buy and sell securities from each other (e.g., NYSE)",
+"Where used cars are sold",
+"Where government bonds are first issued"
+],
+"answer": "Where investors buy and sell securities from each other (e.g., NYSE)",
+"explanation": "In the secondary market, the issuing company does not receive money from the transactions.",
+"distractors": {
+"Buy shares directly": "This is the 'Primary Market'.",
+"Used cars": "While technically a secondary market for goods, it's not the financial term used for securities.",
+"Bonds first issued": "This is the 'Primary Market'."
+}
+},
+{
+"question": "What is the 'Accounting Cycle'?",
+"options": [
+"The physical rotation of accountants in an office",
+"A series of steps for identifying, recording, and summarizing transactions",
+"The process of shredding old financial documents",
+"The time it takes to print a paycheck"
+],
+"answer": "A series of steps for identifying, recording, and summarizing transactions",
+"explanation": "The cycle ensures that financial data is processed consistently and accurately every period.",
+"distractors": {
+"Physical rotation": "Not a professional term.",
+"Shredding documents": "This is records management/destruction.",
+"Print paycheck": "This is a payroll task."
+}
+},
+{
+"question": "Which 'Instructional Area' covers the study of supply and demand?",
+"options": [
+"Business Law",
+"Economics",
+"Emotional Intelligence",
+"Information Management"
+],
+"answer": "Economics",
+"explanation": "Microeconomics specifically focuses on the interaction of individual consumers and firms through supply and demand.",
+"distractors": {
+"Business Law": "Deals with legal frameworks.",
+"Emotional Intelligence": "Deals with self-awareness and relationships.",
+"Information Management": "Deals with data and technology systems."
+}
+},
+{
+"question": "A 'T-Account' is a visual representation of:",
+"options": [
+"A company's organizational hierarchy",
+"The debits and credits in a single ledger account",
+"The layout of a tea shop",
+"The schedule for an employee's workday"
+],
+"answer": "The debits and credits in a single ledger account",
+"explanation": "T-accounts are used by accountants to track the balance and changes in specific accounts.",
+"distractors": {
+"Organizational hierarchy": "Represented by an Org Chart.",
+"Tea shop": "Literal distractor.",
+"Schedule": "Represented by a calendar or Gantt chart."
+}
+},
+{
+"question": "What is 'Social Responsibility' in business?",
+"options": [
+"The obligation of a business to contribute to society",
+"The requirement to post on social media every day",
+"The duty to attend company parties",
+"The process of hiring friends and family"
+],
+"answer": "The obligation of a business to contribute to society",
+"explanation": "Corporate Social Responsibility (CSR) involves considering the impact of business decisions on the community and environment.",
+"distractors": {
+"Post on social media": "This is social media marketing.",
+"Company parties": "This is employee engagement/socializing.",
+"Hiring friends": "This is nepotism."
+}
+},
+{
+"question": "Which type of insurance covers damage to a business's physical property (e.g., building, equipment)?",
+"options": [
+"Liability Insurance",
+"Property Insurance",
+"Workers' Compensation",
+"Life Insurance"
+],
+"answer": "Property Insurance",
+"explanation": "Property insurance protects against losses from fire, theft, and natural disasters.",
+"distractors": {
+"Liability Insurance": "Protects against legal claims if the business causes harm to others.",
+"Workers' Compensation": "Covers medical costs for employees injured on the job.",
+"Life Insurance": "Pays a beneficiary upon the death of the insured."
+}
+},
+{
+"question": "What is a 'Dividend'?",
+"options": [
+"A mathematical operation",
+"A portion of a company's profit paid to shareholders",
+"The fee charged by a bank for a bounced check",
+"The total value of a company's debt"
+],
+"answer": "A portion of a company's profit paid to shareholders",
+"explanation": "Dividends are a way for companies to share their success with the people who own their stock.",
+"distractors": {
+"Mathematical operation": "The literal meaning of the word in math, but not the financial meaning.",
+"Bounced check fee": "This is an 'Overdraft Fee'.",
+"Total debt": "This is 'Total Liabilities'."
+}
+},
+{
+"question": "Which of the following is a 'Secondary Source' of information?",
+"options": [
+"An original diary entry",
+"A newspaper article summarizing a research study",
+"A direct interview with a CEO",
+"An eyewitness account of an event"
+],
+"answer": "A newspaper article summarizing a research study",
+"explanation": "Secondary sources interpret or summarize primary sources (original data/accounts).",
+"distractors": {
+"Diary entry": "Primary Source.",
+"Direct interview": "Primary Source.",
+"Eyewitness account": "Primary Source."
+}
+},
+{
+"question": "In the 'PDCA' cycle for process improvement, what does 'P' stand for?",
+"options": [
+"Produce",
+"Plan",
+"Profit",
+"Purchase"
+],
+"answer": "Plan",
+"explanation": "PDCA stands for Plan-Do-Check-Act, a standard model for continuous improvement.",
+"distractors": {
+"Produce": "Related to 'Do'.",
+"Profit": "A result of improvement, but not a step in the cycle.",
+"Purchase": "A business activity, but not part of PDCA."
+}
+},
+{
+"question": "Which financial market is used for short-term borrowing and lending (usually less than a year)?",
+"options": [
+"Capital Market",
+"Money Market",
+"Commodity Market",
+"Real Estate Market"
+],
+"answer": "Money Market",
+"explanation": "The money market deals with highly liquid, short-term instruments like T-bills and commercial paper.",
+"distractors": {
+"Capital Market": "Used for long-term financing (stocks and bonds).",
+"Commodity Market": "Used for trading raw materials (gold, oil).",
+"Real Estate Market": "Used for trading property."
+}
+},
+{
+"question": "What is 'Ethical Data Mining'?",
+"options": [
+"Stealing data from competitors",
+"Collecting and analyzing data while respecting privacy and legal boundaries",
+"Selling customer passwords to the highest bidder",
+"Deleting all company records to hide mistakes"
+],
+"answer": "Collecting and analyzing data while respecting privacy and legal boundaries",
+"explanation": "Ethics in data mining involves transparency, consent, and data security.",
+"distractors": {
+"Stealing data": "Illegal and unethical.",
+"Selling passwords": "A major security breach and highly unethical.",
+"Deleting records": "Illegal (obstruction of justice/fraud)."
+}
+},
+{
+"question": "Which of these is a 'Liability' for a bank?",
+"options": [
+"A loan they made to a customer",
+"The building they own",
+"A customer's savings account deposit",
+"The furniture in the lobby"
+],
+"answer": "A customer's savings account deposit",
+"explanation": "Deposits are liabilities for banks because the bank owes that money back to the customer.",
+"distractors": {
+"Loan to customer": "This is an Asset for the bank (the customer owes the bank).",
+"Building": "This is an Asset.",
+"Furniture": "This is an Asset."
+}
+},
+{
+"question": "What is the 'Spread' in banking?",
+"options": [
+"The difference between the interest rate paid to depositors and the rate charged to borrowers",
+"The amount of jam put on a bagel in the breakroom",
+"The total number of branches a bank has",
+"The physical distance between two teller windows"
+],
+"answer": "The difference between the interest rate paid to depositors and the rate charged to borrowers",
+"explanation": "The spread is a primary way banks generate profit.",
+"distractors": {
+"Jam on a bagel": "Literal distractor.",
+"Number of branches": "Scale of operations.",
+"Physical distance": "Not a financial term."
+}
+},
+{
+"question": "Which document authorizes a person to act on behalf of another in legal or financial matters?",
+"options": [
+"Birth Certificate",
+"Power of Attorney",
+"Social Security Card",
+"Driver's License"
+],
+"answer": "Power of Attorney",
+"explanation": "Power of Attorney is a crucial legal tool for financial management if a person becomes incapacitated.",
+"distractors": {
+"Birth Certificate": "Proof of identity/birth.",
+"Social Security Card": "Tax/Identification number.",
+"Driver's License": "Identification/Permission to drive."
+}
+},
+{
+"question": "What is 'Compound Interest'?",
+"options": [
+"Interest calculated only on the principal amount",
+"Interest calculated on the principal AND the accumulated interest",
+"A penalty for paying a loan early",
+"The interest rate charged by a pawn shop"
+],
+"answer": "Interest calculated on the principal AND the accumulated interest",
+"explanation": "Compounding allows wealth to grow much faster over time compared to simple interest.",
+"distractors": {
+"Interest on principal only": "This is 'Simple Interest'.",
+"Penalty": "This is a 'Prepayment Penalty'.",
+"Pawn shop rate": "Usually just a very high simple interest rate."
+}
+},
+{
+"question": "Which of the following is a 'Direct Competitor' to a local pizza shop?",
+"options": [
+"A local burger joint",
+"Another pizza shop in the same neighborhood",
+"A grocery store selling frozen pizzas",
+"A high-end steakhouse"
+],
+"answer": "Another pizza shop in the same neighborhood",
+"explanation": "Direct competitors offer the same product to the same target market.",
+"distractors": {
+"Burger joint": "Indirect Competitor (different food, same need for dinner).",
+"Grocery store": "Indirect Competitor (different format/convenience).",
+"Steakhouse": "Indirect Competitor (different price point/experience)."
+}
+},
+{
+"question": "What is 'Phishing'?",
+"options": [
+"A relaxing hobby involving a boat and a lake",
+"A fraudulent attempt to obtain sensitive information by disguised electronic communication",
+"The process of finding a new job",
+"A way to organize a computer's file system"
+],
+"answer": "A fraudulent attempt to obtain sensitive information by disguised electronic communication",
+"explanation": "Phishing is a major cybersecurity threat in the financial services industry.",
+"distractors": {
+"Relaxing hobby": "This is 'Fishing'.",
+"Finding a job": "This is 'Job Hunting'.",
+"Organize files": "This is 'File Management'."
+}
+},
+{
+"question": "Which type of stock gives owners the right to vote on company matters?",
+"options": [
+"Preferred Stock",
+"Common Stock",
+"Bond Stock",
+"Penny Stock"
+],
+"answer": "Common Stock",
+"explanation": "Common stockholders typically receive one vote per share owned.",
+"distractors": {
+"Preferred Stock": "Usually doesn't have voting rights but has priority for dividends.",
+"Bond Stock": "Bonds are not stock (they are debt).",
+"Penny Stock": "High-risk, low-priced common stock (it has votes, but isn't defined by that trait)."
+}
+},
+{
+"question": "What is 'Insider Trading'?",
+"options": [
+"Trading stocks inside a physical building",
+"Buying or selling stocks based on non-public, material information",
+"Trading stocks during the lunch hour",
+"A legal way to make money for employees"
+],
+"answer": "Buying or selling stocks based on non-public, material information",
+"explanation": "Insider trading is illegal because it gives some investors an unfair advantage over the general public.",
+"distractors": {
+"Inside a building": "Most trading is electronic today.",
+"Lunch hour": "Trading happens all day during market hours.",
+"Legal way": "It is strictly illegal."
+}
+},
+{
+"question": "In a 'Balance Sheet,' total assets must always equal:",
+"options": [
+"Total Revenue",
+"Total Liabilities + Owner's Equity",
+"Total Net Income",
+"Total Expenses"
+],
+"answer": "Total Liabilities + Owner's Equity",
+"explanation": "This equality is why it is called a 'Balance' sheet.",
+"distractors": {
+"Total Revenue": "Found on the Income Statement.",
+"Total Net Income": "Found on the Income Statement.",
+"Total Expenses": "Found on the Income Statement."
+}
+},
+{
+"question": "What is 'Brand Equity'?",
+"options": [
+"The amount of money a company spent on its logo",
+"The commercial value that derives from consumer perception of the brand name",
+"The number of stores a brand has",
+"The legal paperwork required to start a brand"
+],
+"answer": "The commercial value that derives from consumer perception of the brand name",
+"explanation": "Strong brand equity allows companies to charge premium prices and ensures customer loyalty.",
+"distractors": {
+"Money on logo": "This is a marketing expense.",
+"Number of stores": "This is 'Market Penetration'.",
+"Legal paperwork": "This is 'Incorporation' or 'Registration'."
+}
+},
+{
+"question": "Which of these is a 'Current Liability'?",
+"options": [
+"A 30-year mortgage",
+"Accounts Payable (due in 30 days)",
+"The company's logo",
+"A long-term bond issue"
+],
+"answer": "Accounts Payable (due in 30 days)",
+"explanation": "Current liabilities are debts that must be paid within one year.",
+"distractors": {
+"30-year mortgage": "Long-term Liability.",
+"Company logo": "Intangible Asset.",
+"Long-term bond": "Long-term Liability."
+}
+},
+{
+"question": "What is the primary function of the 'SEC' (Securities and Exchange Commission)?",
+"options": [
+"To protect investors and maintain fair, orderly markets",
+"To set the interest rates for the country",
+"To manage the military",
+"To design the national currency"
+],
+"answer": "To protect investors and maintain fair, orderly markets",
+"explanation": "The SEC regulates the stock market and ensures companies provide honest information to investors.",
+"distractors": {
+"Set interest rates": "Role of the Federal Reserve.",
+"Manage military": "Role of the Department of Defense.",
+"Design currency": "Role of the U.S. Treasury/Bureau of Engraving and Printing."
+}
+},
+{
+"question": "What is 'Human Capital'?",
+"options": [
+"The amount of cash a person has in their wallet",
+"The skills, knowledge, and experience possessed by an individual",
+"The number of computers in an office",
+"The total population of a city"
+],
+"answer": "The skills, knowledge, and experience possessed by an individual",
+"explanation": "Investing in human capital (through education and training) increases productivity.",
+"distractors": {
+"Cash in wallet": "Personal liquid asset.",
+"Number of computers": "Physical Capital.",
+"Total population": "Demographics."
+}
+},
+{
+"question": "Which of the following is an example of 'Collusion'?",
+"options": [
+"Two companies merging to become more efficient",
+"Competitors secretly agreeing to set high prices together",
+"A company lowering its prices to attract more customers",
+"An employee working overtime"
+],
+"answer": "Competitors secretly agreeing to set high prices together",
+"explanation": "Collusion (such as price-fixing) is illegal because it harms consumers and prevents competition.",
+"distractors": {
+"Merging": "Usually legal (unless it creates a monopoly).",
+"Lowering prices": "Normal competitive behavior.",
+"Working overtime": "Normal employment behavior."
+}
+},
+{
+"question": "What is 'Depreciation'?",
+"options": [
+"The process of an asset gaining value over time",
+"The systematic reduction in the recorded cost of a physical asset over its useful life",
+"A feeling of sadness among employees",
+"The cost of printing a new catalog"
+],
+"answer": "The systematic reduction in the recorded cost of a physical asset over its useful life",
+"explanation": "Depreciation accounts for the 'wear and tear' on assets like machinery or vehicles.",
+"distractors": {
+"Gaining value": "This is 'Appreciation'.",
+"Sadness": "This is 'Depression' (mental health) or an economic depression.",
+"Printing cost": "An operational expense."
+}
+},
+{
+"question": "Which of these is a 'Commodity'?",
+"options": [
+"A high-end sports car",
+"A gallon of crude oil",
+"A custom-tailored suit",
+"An iPhone"
+],
+"answer": "A gallon of crude oil",
+"explanation": "Commodities are basic goods that are interchangeable with other goods of the same type (e.g., gold, wheat, oil).",
+"distractors": {
+"Sports car": "Differentiated luxury product.",
+"Custom suit": "Personalized service/product.",
+"iPhone": "Branded technology product."
+}
+},
+{
+"question": "What is 'Credit Scoring'?",
+"options": [
+"A game played by bank tellers",
+"A statistical analysis to determine a person's creditworthiness",
+"The process of counting the money in a vault",
+"A way to rank the best-looking credit cards"
+],
+"answer": "A statistical analysis to determine a person's creditworthiness",
+"explanation": "Credit scores (like FICO) help lenders decide whether to grant a loan and what interest rate to charge.",
+"distractors": {
+"Game": "Not a professional term.",
+"Counting money": "Vault balancing.",
+"Ranking looks": "Not a financial process."
+}
+},
+{
+"question": "In 'SWOT Analysis,' what do the 'S' and 'W' stand for?",
+"options": [
+"Sales and Wages",
+"Strengths and Weaknesses",
+"Strategy and Wisdom",
+"Security and Wealth"
+],
+"answer": "Strengths and Weaknesses",
+"explanation": "SWOT stands for Strengths, Weaknesses, Opportunities, and Threats.",
+"distractors": {
+"Sales and Wages": "Financial metrics.",
+"Strategy and Wisdom": "Management qualities.",
+"Security and Wealth": "Financial goals."
+}
+},
+{
+"question": "Which of the following is a 'Direct Expense' of a sales department?",
+"options": [
+"Sales commissions",
+"The company's overall electricity bill",
+"Rent for the corporate headquarters",
+"The CEO's private jet maintenance"
+],
+"answer": "Sales commissions",
+"explanation": "Direct expenses can be traced specifically to a particular department or product.",
+"distractors": {
+"Electricity": "Indirect/Overhead expense.",
+"Rent": "Indirect/Overhead expense.",
+"Jet maintenance": "Corporate overhead."
+}
+},
+{
+"question": "What is 'Compliance' in a financial context?",
+"options": [
+"Agreeing with everything a coworker says",
+"Following the laws, regulations, and rules set by the government",
+"A type of bank account with no fees",
+"The process of finishing a task on time"
+],
+"answer": "Following the laws, regulations, and rules set by the government",
+"explanation": "Compliance departments ensure a firm doesn't break laws like the Patriot Act or SOX.",
+"distractors": {
+"Agreeing": "This is 'Conformity'.",
+"No-fee account": "A marketing feature.",
+"Finishing on time": "Efficiency/Punctuality."
+}
+},
+{
+"question": "Which of these is a 'Long-term Liability'?",
+"options": [
+"Electricity bill for next month",
+"A 15-year mortgage on an office building",
+"Wages owed to employees for last week",
+"A 30-day loan from a supplier"
+],
+"answer": "A 15-year mortgage on an office building",
+"explanation": "Long-term liabilities are debts due more than one year in the future.",
+"distractors": {
+"Electricity bill": "Current Liability.",
+"Wages": "Current Liability (Accrued Expense).",
+"30-day loan": "Current Liability."
+}
+},
+{
+"question": "What is the result of 'Deflation'?",
+"options": [
+"A general increase in prices",
+"A general decrease in prices",
+"No change in prices",
+"The value of money stays exactly the same"
+],
+"answer": "A general decrease in prices",
+"explanation": "Deflation increases the purchasing power of money but can lead to lower economic activity.",
+"distractors": {
+"Increase": "This is Inflation.",
+"No change": "Stagnation.",
+"Stays exactly same": "Impossible in a dynamic economy."
+}
+},
+{
+"question": "What is an 'Invoice'?",
+"options": [
+"A receipt for a personal purchase",
+"A request for payment from a seller to a buyer",
+"A physical piece of money",
+"A list of a company's employees"
+],
+"answer": "A request for payment from a seller to a buyer",
+"explanation": "Invoices detail the items sold, prices, and terms of payment.",
+"distractors": {
+"Receipt": "Proof that payment has already been made.",
+"Piece of money": "Currency.",
+"List of employees": "Employee Directory/Payroll list."
+}
+},
+{
+"question": "Which of these is a characteristic of a 'Sole Proprietorship'?",
+"options": [
+"Owned by two or more people",
+"The owner has unlimited personal liability",
+"Double taxation on profits",
+"The business lives forever even if the owner dies"
+],
+"answer": "The owner has unlimited personal liability",
+"explanation": "In a sole proprietorship, the owner is personally responsible for all business debts and legal issues.",
+"distractors": {
+"Two or more people": "This is a Partnership.",
+"Double taxation": "This applies to C-Corporations.",
+"Lives forever": "Sole proprietorships typically end when the owner dies."
+}
+},
+{
+"question": "What is 'Market Share'?",
+"options": [
+"A literal share of a supermarket",
+"The percentage of total sales in an industry generated by a specific company",
+"The number of stock shares a company has issued",
+"The physical size of a marketplace"
+],
+"answer": "The percentage of total sales in an industry generated by a specific company",
+"explanation": "Companies strive to increase market share to gain more influence and profit.",
+"distractors": {
+"Literal share": "Literal distractor.",
+"Number of shares": "Outstanding Shares.",
+"Physical size": "Market area."
+}
+},
+{
+"question": "Which of the following is a 'Public' company?",
+"options": [
+"A small local bakery owned by one person",
+"A company whose shares are traded on a stock exchange",
+"A business that only sells to the government",
+"A nonprofit organization"
+],
+"answer": "A company whose shares are traded on a stock exchange",
+"explanation": "Public companies must disclose financial info and follow SEC regulations.",
+"distractors": {
+"Bakery": "Private business.",
+"Sells to government": "A government contractor (can be private or public).",
+"Nonprofit": "An organization focused on a mission, not profit for shareholders."
+}
+},
+{
+"question": "What is the 'Prime Rate'?",
+"options": [
+"The interest rate banks charge their most creditworthy customers",
+"The cost of a 'Prime' subscription for shipping",
+"The highest possible interest rate a bank can charge",
+"The rate at which the sun sets"
+],
+"answer": "The interest rate banks charge their most creditworthy customers",
+"explanation": "The prime rate is often used as a base for other interest rates like credit cards and home equity loans.",
+"distractors": {
+"Subscription": "Literal distractor.",
+"Highest possible": "This would be a 'Usury' limit.",
+"Sun sets": "Not a financial term."
+}
+},
+{
+"question": "Which of these is a 'Revenue' account?",
+"options": [
+"Accounts Receivable",
+"Sales",
+"Cash",
+"Inventory"
+],
+"answer": "Sales",
+"explanation": "Revenue accounts track the money coming into the business from its operations.",
+"distractors": {
+"Accounts Receivable": "This is an Asset (money owed to us).",
+"Cash": "This is an Asset.",
+"Inventory": "This is an Asset."
+}
+},
+{
+"question": "What is 'Fiscal Policy'?",
+"options": [
+"Management of the money supply by the central bank",
+"The use of government spending and taxation to influence the economy",
+"A policy about how employees should dress",
+"The rules for a local library"
+],
+"answer": "The use of government spending and taxation to influence the economy",
+"explanation": "Fiscal policy is determined by Congress and the President.",
+"distractors": {
+"Money supply management": "This is 'Monetary Policy'.",
+"Employee dress": "This is 'Corporate Policy/Dress Code'.",
+"Library rules": "Local government policy."
+}
+},
+{
+"question": "What is a 'Fallen Angel' in finance?",
+"options": [
+"A mythological creature",
+"A bond that was once investment-grade but has been downgraded to junk status",
+"A company that has never made a profit",
+"A bank that went bankrupt 100 years ago"
+],
+"answer": "A bond that was once investment-grade but has been downgraded to junk status",
+"explanation": "Fallen angels often offer high yields but carry significant risk.",
+"distractors": {
+"Mythological creature": "Literal meaning.",
+"Never made profit": "Often called a 'Zombie Company'.",
+"Bankrupt 100 years ago": "Historical footnote."
+}
+},
+{
+"question": "Which type of chart is best for showing percentages of a whole?",
+"options": [
+"Line Graph",
+"Bar Chart",
+"Pie Chart",
+"Scatter Plot"
+],
+"answer": "Pie Chart",
+"explanation": "Pie charts visually represent how a total is divided into parts (e.g., market share).",
+"distractors": {
+"Line Graph": "Best for trends over time.",
+"Bar Chart": "Best for comparing different categories.",
+"Scatter Plot": "Best for showing correlation between two variables."
+}
+},
+{
+"question": "What is 'Benchmarking'?",
+"options": [
+"Sitting on a bench during a break",
+"Comparing a company's performance metrics to industry bests or competitors",
+"Marking a piece of wood with a pencil",
+"The process of cleaning a workshop bench"
+],
+"answer": "Comparing a company's performance metrics to industry bests or competitors",
+"explanation": "Benchmarking helps companies identify areas for improvement.",
+"distractors": {
+"Sitting": "Literal distractor.",
+"Marking wood": "Literal distractor.",
+"Cleaning bench": "Maintenance task."
+}
+},
+{
+"question": "In 'Capital Budgeting,' what does 'NPV' stand for?",
+"options": [
+"Next Possible Value",
+"Net Present Value",
+"No Positive Variation",
+"New Profit Volume"
+],
+"answer": "Net Present Value",
+"explanation": "NPV is a method of evaluating the profitability of an investment by comparing the present value of cash inflows to outflows.",
+"distractors": {
+"Next Possible Value": "Not a financial term.",
+"No Positive Variation": "Not a financial term.",
+"New Profit Volume": "Not a financial term."
+}
+},
+{
+"question": "Which of these is a 'Natural Monopoly'?",
+"options": [
+"A tech company with a unique app",
+"A local utility company (like water or electricity)",
+"A popular brand of soft drink",
+"A chain of coffee shops"
+],
+"answer": "A local utility company (like water or electricity)",
+"explanation": "A natural monopoly occurs when it is most efficient for a single firm to provide a service due to high infrastructure costs.",
+"distractors": {
+"Tech company": "Competitive/Differentiated market.",
+"Soft drink": "Oligopoly/Competitive market.",
+"Coffee shops": "Monopolistic competition."
+}
+},
+{
+"question": "What is 'Inventory Turnover'?",
+"options": [
+"Turning boxes over to check for damage",
+"How many times a company has sold and replaced its inventory during a specific period",
+"The physical movement of items from the back of the store to the front",
+"Throwing away expired products"
+],
+"answer": "How many times a company has sold and replaced its inventory during a specific period",
+"explanation": "A high inventory turnover generally indicates efficient management and strong sales.",
+"distractors": {
+"Turning boxes": "Literal distractor.",
+"Physical movement": "Merchandising/Stocking.",
+"Throwing away": "Inventory write-off."
+}
+},
+{
+"question": "What is a 'Grace Period' on a credit card?",
+"options": [
+"The time when the card looks the most graceful",
+"The period during which you can pay your balance in full without being charged interest",
+"A 10-year period of no payments",
+"The time it takes for a new card to arrive in the mail"
+],
+"answer": "The period during which you can pay your balance in full without being charged interest",
+"explanation": "Grace periods usually apply only if you have no outstanding balance from the previous month.",
+"distractors": {
+"Graceful": "Literal distractor.",
+"10-year period": "No standard credit card offers this.",
+"Time for card arrival": "Shipping/Processing time."
+}
+},
+{
+"question": "Which of these is an 'Intangible Asset'?",
+"options": [
+"A computer monitor",
+"A company's reputation and brand (Goodwill)",
+"A stack of $100 bills",
+"A delivery van"
+],
+"answer": "A company's reputation and brand (Goodwill)",
+"explanation": "Intangible assets lack physical substance but have significant value (e.g., patents, trademarks, goodwill).",
+"distractors": {
+"Monitor": "Tangible Asset.",
+"Money": "Tangible/Liquid Asset.",
+"Van": "Tangible Asset."
+}
+},
+{
+"question": "What is the result of 'Monopolistic Competition'?",
+"options": [
+"Only one company exists",
+"Many companies sell similar but not identical products",
+"Products are exactly the same and price is the only factor",
+"The government sets all prices"
+],
+"answer": "Many companies sell similar but not identical products",
+"explanation": "Examples include restaurants or clothing brands where branding makes products different.",
+"distractors": {
+"One company": "Monopoly.",
+"Exactly same": "Perfect Competition.",
+"Government sets prices": "Command Economy."
+}
+},
+{
+"question": "What is 'Amortization'?",
+"options": [
+"The process of spreading out a loan into a series of fixed payments",
+"A type of medical treatment",
+"Building a fence around a business",
+"The act of hiring a new manager"
+],
+"answer": "The process of spreading out a loan into a series of fixed payments",
+"explanation": "Amortization schedules show how much of each payment goes toward interest versus principal.",
+"distractors": {
+"Medical treatment": "Not a financial term.",
+"Fence": "Construction/Security.",
+"Hiring": "HR process."
+}
+},
+{
+"question": "Which of these is a 'Direct Cost' of manufacturing a wooden table?",
+"options": [
+"The cost of the wood",
+"The salary of the company's accountant",
+"The cost of advertising on the radio",
+"The rent for the corporate office"
+],
+"answer": "The cost of the wood",
+"explanation": "Direct costs (like raw materials) can be directly attributed to the production of a specific unit.",
+"distractors": {
+"Accountant salary": "Indirect/Admin cost.",
+"Advertising": "Marketing/Selling cost.",
+"Rent": "Fixed/Overhead cost."
+}
+},
+{
+"question": "What is 'Financial Globalization'?",
+"options": [
+"Using a globe to find new banks",
+"The integration of domestic financial markets with international markets",
+"A policy that forbids trading with other countries",
+"Making sure every country uses the exact same physical coins"
+],
+"answer": "The integration of domestic financial markets with international markets",
+"explanation": "Globalization allows for the free flow of capital across borders.",
+"distractors": {
+"Using a globe": "Literal distractor.",
+"Forbids trading": "Isolationism.",
+"Same coins": "Currency union (like the Eurozone), but not the definition of globalization."
+}
+}
+]
+}

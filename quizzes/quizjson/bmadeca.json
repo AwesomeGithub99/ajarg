@@ -1,0 +1,1127 @@
+{
+  "title": "DECA Business Management and Administration Cluster Exam",
+  "questions": [
+    {
+      "question": "Which of the following is a primary characteristic of a voluntary debtor-creditor relationship?",
+      "options": ["It is enforced by a court order", "Both parties enter the agreement willingly", "The creditor is always a government entity", "The debtor has no obligation to repay"],
+      "answer": "Both parties enter the agreement willingly",
+      "explanation": "A voluntary debtor-creditor relationship occurs when both parties agree to the terms, such as taking out a bank loan or using a credit card.",
+      "distractors": {
+        "It is enforced by a court order": "This describes an involuntary relationship, such as a judgment for damages.",
+        "The creditor is always a government entity": "Creditors can be private individuals, banks, or businesses.",
+        "The debtor has no obligation to repay": "The core of the relationship is the legal and ethical obligation to repay the debt."
+      }
+    },
+    {
+      "question": "What is the primary goal of the 'Rule of Law' in a business environment?",
+      "options": ["To ensure businesses make a profit", "To provide predictability and fairness", "To eliminate all competition", "To increase government spending"],
+      "answer": "To provide predictability and fairness",
+      "explanation": "The Rule of Law ensures that legal principles are applied consistently, allowing businesses to operate with a clear understanding of rights and obligations.",
+      "distractors": {
+        "To ensure businesses make a profit": "Law provides the framework, but profit is determined by market performance.",
+        "To eliminate all competition": "Antitrust laws are actually designed to promote competition, not eliminate it.",
+        "To increase government spending": "While laws govern spending, the Rule of Law itself is about legal consistency."
+      }
+    },
+    {
+      "question": "Which type of business ownership is a legal entity that is separate from its owners and has the right to enter into contracts?",
+      "options": ["Sole proprietorship", "Partnership", "Corporation", "General partnership"],
+      "answer": "Corporation",
+      "explanation": "A corporation is a legal 'person' in the eyes of the law, separate from its shareholders, providing limited liability.",
+      "distractors": {
+        "Sole proprietorship": "The owner and business are considered the same legal entity.",
+        "Partnership": "General partners are personally liable for the business's debts.",
+        "General partnership": "This involves shared liability among partners rather than a separate legal entity."
+      }
+    },
+    {
+      "question": "In the context of administrative law, what is a 'regulation'?",
+      "options": ["A suggestion made by a CEO", "A rule created by a government agency", "A law passed by a local city council", "A private contract between two vendors"],
+      "answer": "A rule created by a government agency",
+      "explanation": "Administrative agencies (like the EPA or SEC) issue regulations that have the force of law to govern specific industries.",
+      "distractors": {
+        "A suggestion made by a CEO": "Internal company policy is not a government regulation.",
+        "A law passed by a local city council": "These are typically called ordinances.",
+        "A private contract between two vendors": "Contracts are private law, not administrative regulations."
+      }
+    },
+    {
+      "question": "When an employee shares a trade secret with a competitor, which legal concept have they likely violated?",
+      "options": ["Employment at will", "Breach of fiduciary duty", "The right to work", "Statute of limitations"],
+      "answer": "Breach of fiduciary duty",
+      "explanation": "Employees often have a fiduciary duty to act in the best interest of their employer and protect confidential information.",
+      "distractors": {
+        "Employment at will": "This refers to the ability to terminate employment for any legal reason.",
+        "The right to work": "This refers to laws preventing mandatory union membership.",
+        "Statute of limitations": "This is a time limit for filing a legal claim."
+      }
+    },
+    {
+      "question": "Which of the following is a result of a business following high ethical standards?",
+      "options": ["Increased employee turnover", "Higher risk of legal action", "Enhanced brand reputation", "Lower customer loyalty"],
+      "answer": "Enhanced brand reputation",
+      "explanation": "Ethical behavior builds trust with stakeholders, leading to a stronger and more positive brand image.",
+      "distractors": {
+        "Increased employee turnover": "Ethics generally improve morale and reduce turnover.",
+        "Higher risk of legal action": "Ethical compliance usually reduces legal risks.",
+        "Lower customer loyalty": "Customers are more likely to stay loyal to companies they trust."
+      }
+    },
+    {
+      "question": "How does a 'Whistleblower' contribute to business ethics?",
+      "options": ["By stealing company assets", "By reporting illegal or unethical activity", "By ignoring minor policy violations", "By promoting the company on social media"],
+      "answer": "By reporting illegal or unethical activity",
+      "explanation": "Whistleblowers bring internal wrongdoing to light, helping to maintain organizational integrity.",
+      "distractors": {
+        "By stealing company assets": "This is a crime, not whistleblowing.",
+        "By ignoring minor policy violations": "Ignoring issues allows unethical behavior to continue.",
+        "By promoting the company on social media": "This is marketing or PR, not an ethical safeguard."
+      }
+    },
+    {
+      "question": "What is the primary function of a customer relationship management (CRM) system?",
+      "options": ["To track physical inventory", "To manage interactions with current and potential customers", "To calculate payroll taxes", "To design new product logos"],
+      "answer": "To manage interactions with current and potential customers",
+      "explanation": "CRMs aggregate customer data to improve relationships, service, and sales retention.",
+      "distractors": {
+        "To track physical inventory": "This is the job of an Inventory Management System.",
+        "To calculate payroll taxes": "This is a function of HR or Accounting software.",
+        "To design new product logos": "This is the role of graphic design software."
+      }
+    },
+    {
+      "question": "Which communication channel is most appropriate for delivering a formal disciplinary warning to an employee?",
+      "options": ["Social media post", "Text message", "Face-to-face meeting with written follow-up", "Public announcement over the intercom"],
+      "answer": "Face-to-face meeting with written follow-up",
+      "explanation": "Formal matters require privacy, professional tone, and a clear paper trail, making direct meetings best.",
+      "distractors": {
+        "Social media post": "This violates privacy and is unprofessional.",
+        "Text message": "Texting is too informal for serious disciplinary actions.",
+        "Public announcement over the intercom": "This is humiliating and professionally inappropriate."
+      }
+    },
+    {
+      "question": "In a professional email, what is the purpose of the 'CC' field?",
+      "options": ["To hide the recipient's identity", "To send a copy to someone for informational purposes", "To indicate the email is urgent", "To attach large files"],
+      "answer": "To send a copy to someone for informational purposes",
+      "explanation": "'CC' stands for Carbon Copy; it is used to keep relevant parties informed without requiring them to act.",
+      "distractors": {
+        "To hide the recipient's identity": "This is the 'BCC' (Blind Carbon Copy) field.",
+        "To indicate the email is urgent": "Urgency is usually marked in the subject line or via flags.",
+        "To attach large files": "The attachment icon is used for files."
+      }
+    },
+    {
+      "question": "Which of the following is an example of non-verbal communication?",
+      "options": ["Writing a report", "Speaking in a meeting", "Maintaining eye contact", "Sending an email"],
+      "answer": "Maintaining eye contact",
+      "explanation": "Non-verbal communication involves body language, gestures, and facial expressions rather than words.",
+      "distractors": {
+        "Writing a report": "This is written verbal communication.",
+        "Speaking in a meeting": "This is oral verbal communication.",
+        "Sending an email": "This is written verbal communication."
+      }
+    },
+    {
+      "question": "When answering a customer's question on the telephone, a business representative should avoid:",
+      "options": ["Using the customer's name", "Using industry jargon the customer may not know", "Taking notes during the call", "Speaking clearly and at a moderate pace"],
+      "answer": "Using industry jargon the customer may not know",
+      "explanation": "Jargon can confuse customers; clear, simple language is preferred for effective service.",
+      "distractors": {
+        "Using the customer's name": "Using names personalizes the service and is recommended.",
+        "Taking notes during the call": "Note-taking helps ensure accuracy in resolving the issue.",
+        "Speaking clearly and at a moderate pace": "This is a best practice for phone communication."
+      }
+    },
+    {
+      "question": "Which of the following is a characteristic of an effective visual aid in a presentation?",
+      "options": ["Large amounts of small text", "Complex, multi-colored backgrounds", "Simple and easy to read from a distance", "Detailed spreadsheets containing 100+ cells"],
+      "answer": "Simple and easy to read from a distance",
+      "explanation": "Visual aids should supplement the speaker, not distract the audience with too much detail.",
+      "distractors": {
+        "Large amounts of small text": "This is hard to read and bores the audience.",
+        "Complex, multi-colored backgrounds": "These distract from the actual message or data.",
+        "Detailed spreadsheets containing 100+ cells": "Too much data becomes 'noise' and loses the audience."
+      }
+    },
+    {
+      "question": "In economics, 'scarcity' exists because:",
+      "options": ["Prices are too low", "Governments control all resources", "Resources are limited but wants are unlimited", "There is a surplus of luxury goods"],
+      "answer": "Resources are limited but wants are unlimited",
+      "explanation": "The fundamental economic problem is that we have finite resources to satisfy infinite human desires.",
+      "distractors": {
+        "Prices are too low": "Low prices might cause shortages, but scarcity is a permanent condition.",
+        "Governments control all resources": "Scarcity exists regardless of the political or economic system.",
+        "There is a surplus of luxury goods": "A surplus is the opposite of a shortage, but scarcity still applies to the resources used."
+      }
+    },
+    {
+      "question": "Which of the following is a 'human resource' in a business?",
+      "options": ["The company's office building", "The software used for accounting", "The skills and labor of the employees", "The cash in the bank account"],
+      "answer": "The skills and labor of the employees",
+      "explanation": "Human resources refer to the people who make up the workforce of an organization.",
+      "distractors": {
+        "The company's office building": "This is a capital resource.",
+        "The software used for accounting": "This is a technological/capital resource.",
+        "The cash in the bank account": "This is a financial resource."
+      }
+    },
+    {
+      "question": "What happens to the price of a product when demand increases and supply remains constant?",
+      "options": ["The price usually increases", "The price usually decreases", "The price remains the same", "The price becomes zero"],
+      "answer": "The price usually increases",
+      "explanation": "If more people want a product but the amount available stays the same, competition among buyers drives the price up.",
+      "distractors": {
+        "The price usually decreases": "Prices drop when supply exceeds demand, not the reverse.",
+        "The price remains the same": "Market forces typically cause prices to fluctuate with demand.",
+        "The price becomes zero": "Zero price occurs only in very rare 'free' scenarios, not from high demand."
+      }
+    },
+    {
+      "question": "What is 'Gross Domestic Product' (GDP) a measure of?",
+      "options": ["The total debt of a nation", "The total value of goods and services produced in a country", "The average income of a single citizen", "The number of businesses that failed in a year"],
+      "answer": "The total value of goods and services produced in a country",
+      "explanation": "GDP is the primary indicator of a country's economic health and size.",
+      "distractors": {
+        "The total debt of a nation": "This is the national debt, not GDP.",
+        "The average income of a single citizen": "This is GDP per capita.",
+        "The number of businesses that failed in a year": "This is the business failure rate."
+      }
+    },
+    {
+      "question": "During which phase of the business cycle is unemployment typically at its lowest?",
+      "options": ["Contraction", "Trough", "Expansion", "Peak"],
+      "answer": "Peak",
+      "explanation": "At the peak, the economy is running at full capacity, leading to the highest employment levels.",
+      "distractors": {
+        "Contraction": "This is when the economy slows down and unemployment rises.",
+        "Trough": "This is the low point where unemployment is usually high.",
+        "Expansion": "Unemployment is falling during this phase, but hasn't reached the minimum yet."
+      }
+    },
+    {
+      "question": "Which of the following is a characteristic of a 'market economy'?",
+      "options": ["Prices are set by a central government planning board", "Supply and demand determine what is produced", "All property is owned by the state", "Tradition and customs dictate economic activity"],
+      "answer": "Supply and demand determine what is produced",
+      "explanation": "In a market economy, decisions are made through the interaction of buyers and sellers in the marketplace.",
+      "distractors": {
+        "Prices are set by a central government planning board": "This describes a command economy.",
+        "All property is owned by the state": "This is typical of a communist or command system.",
+        "Tradition and customs dictate economic activity": "This describes a traditional economy."
+      }
+    },
+    {
+      "question": "What is the main purpose of the Federal Reserve (or a central bank)?",
+      "options": ["To collect income taxes from citizens", "To regulate the nation's money supply and interest rates", "To manage the marketing budgets of private companies", "To print newspapers for the public"],
+      "answer": "To regulate the nation's money supply and interest rates",
+      "explanation": "Central banks use monetary policy to manage inflation and promote economic stability.",
+      "distractors": {
+        "To collect income taxes from citizens": "This is the role of the IRS (in the USA).",
+        "To manage the marketing budgets of private companies": "Private companies manage their own budgets.",
+        "To print newspapers for the public": "Newspapers are private or state-media entities, not central bank products."
+      }
+    },
+    {
+      "question": "Which of the following is an example of an 'opportunity cost'?",
+      "options": ["The $10 you spent on a movie ticket", "The sleep you gave up to study for an exam", "The cost of gas to drive to work", "The tax you pay on a new shirt"],
+      "answer": "The sleep you gave up to study for an exam",
+      "explanation": "Opportunity cost is the value of the next best alternative given up when a choice is made.",
+      "distractors": {
+        "The $10 you spent on a movie ticket": "This is an explicit financial cost.",
+        "The cost of gas to drive to work": "This is an out-of-pocket expense.",
+        "The tax you pay on a new shirt": "This is a mandatory government fee."
+      }
+    },
+    {
+      "question": "What is the primary motive for people to start a business in a private enterprise system?",
+      "options": ["To pay taxes to the government", "To earn a profit", "To follow government regulations", "To increase national debt"],
+      "answer": "To earn a profit",
+      "explanation": "Profit motive encourages entrepreneurs to take risks and innovate in hopes of financial gain.",
+      "distractors": {
+        "To pay taxes to the government": "Taxes are a cost of doing business, not the primary motivation.",
+        "To follow government regulations": "Regulations are constraints, not goals.",
+        "To increase national debt": "No private business owner aims to increase national debt."
+      }
+    },
+    {
+      "question": "Which of the following is a trait of an 'entrepreneur'?",
+      "options": ["Avoids all risks", "Prefers to follow strict routines", "Willingness to take risks to start a new venture", "Dislikes change and innovation"],
+      "answer": "Willingness to take risks to start a new venture",
+      "explanation": "Entrepreneurs identify opportunities and accept the financial risk involved in pursuing them.",
+      "distractors": {
+        "Avoids all risks": "Risk management is key, but avoidance is impossible for an entrepreneur.",
+        "Prefers to follow strict routines": "Entrepreneurship often requires flexibility and spontaneity.",
+        "Dislikes change and innovation": "Entrepreneurs thrive on change and are usually the source of innovation."
+      }
+    },
+    {
+      "question": "Emotional intelligence involves the ability to:",
+      "options": ["Solve complex physics equations", "Recognize and manage your own and others' emotions", "Calculate compound interest in your head", "Code a website in three different languages"],
+      "answer": "Recognize and manage your own and others' emotions",
+      "explanation": "Emotional intelligence (EQ) focuses on self-awareness, empathy, and social skills.",
+      "distractors": {
+        "Solve complex physics equations": "This is a form of logical-mathematical intelligence (IQ).",
+        "Calculate compound interest in your head": "This is a technical skill (hard skill).",
+        "Code a website in three different languages": "This is a technical/computer skill."
+      }
+    },
+    {
+      "question": "A person who is 'empathetic' is able to:",
+      "options": ["Always agree with everyone", "Understand and share the feelings of another person", "Avoid all conflict in the workplace", "Persuade people to buy things they don't need"],
+      "answer": "Understand and share the feelings of another person",
+      "explanation": "Empathy is the ability to put oneself in another's shoes to understand their perspective.",
+      "distractors": {
+        "Always agree with everyone": "You can understand someone without agreeing with them.",
+        "Avoid all conflict in the workplace": "Empathy helps resolve conflict, but it doesn't always prevent it.",
+        "Persuade people to buy things they don't need": "This is often associated with manipulation, not necessarily empathy."
+      }
+    },
+    {
+      "question": "Which of the following is an example of 'self-management'?",
+      "options": ["Setting goals and prioritizing tasks", "Telling others what to do constantly", "Waiting for a manager to provide every instruction", "Blaming coworkers for mistakes"],
+      "answer": "Setting goals and prioritizing tasks",
+      "explanation": "Self-management involves taking responsibility for one's own productivity and behavior.",
+      "distractors": {
+        "Telling others what to do constantly": "This is a management or leadership activity, not self-management.",
+        "Waiting for a manager to provide every instruction": "This shows a lack of self-management/initiative.",
+        "Blaming coworkers for mistakes": "This is a lack of accountability."
+      }
+    },
+    {
+      "question": "What is the benefit of a diverse workforce?",
+      "options": ["It makes communication more difficult", "It leads to a narrower range of ideas", "It provides a wider range of perspectives and innovation", "It increases the likelihood of discrimination"],
+      "answer": "It provides a wider range of perspectives and innovation",
+      "explanation": "Diversity brings different backgrounds together, fostering creative problem-solving.",
+      "distractors": {
+        "It makes communication more difficult": "While it requires better communication skills, it's not the primary intent.",
+        "It leads to a narrower range of ideas": "Diversity explicitly widens the range of ideas.",
+        "It increases the likelihood of discrimination": "Diversity programs aim to reduce and prevent discrimination."
+      }
+    },
+    {
+      "question": "Which of the following is a 'soft skill'?",
+      "options": ["Accounting", "Data analysis", "Leadership", "Typing 80 words per minute"],
+      "answer": "Leadership",
+      "explanation": "Soft skills are interpersonal or people skills, as opposed to technical 'hard' skills.",
+      "distractors": {
+        "Accounting": "This is a hard/technical skill.",
+        "Data analysis": "This is a hard/technical skill.",
+        "Typing 80 words per minute": "This is a specific technical proficiency."
+      }
+    },
+    {
+      "question": "What is the first step in the decision-making process?",
+      "options": ["Evaluating the results", "Choosing an alternative", "Identifying the problem or opportunity", "Gathering information"],
+      "answer": "Identifying the problem or opportunity",
+      "explanation": "You cannot make a decision or find a solution until you clearly define what needs to be addressed.",
+      "distractors": {
+        "Evaluating the results": "This is the final step.",
+        "Choosing an alternative": "This happens after gathering info and evaluating options.",
+        "Gathering information": "This is the second step, after the problem is identified."
+      }
+    },
+    {
+      "question": "A consensus-building approach to group work means:",
+      "options": ["The leader makes all the decisions", "The group votes and the majority wins", "The group works until everyone can support the final decision", "Each member works independently on their own goal"],
+      "answer": "The group works until everyone can support the final decision",
+      "explanation": "Consensus is about finding a solution that all members can accept, even if it wasn't their first choice.",
+      "distractors": {
+        "The leader makes all the decisions": "This is an autocratic approach.",
+        "The group votes and the majority wins": "This is a democratic/majority-rule approach, not consensus.",
+        "Each member works independently on their own goal": "This is not teamwork or group decision-making."
+      }
+    },
+    {
+      "question": "Which of the following is a characteristic of a 'visionary' leader?",
+      "options": ["Focuses only on daily routine tasks", "Has a clear idea of where the company should be in the future", "Avoids delegating any responsibility", "Is afraid to take risks"],
+      "answer": "Has a clear idea of where the company should be in the future",
+      "explanation": "Visionary leaders inspire others by articulating a compelling future state for the organization.",
+      "distractors": {
+        "Focuses only on daily routine tasks": "This describes a manager or supervisor, not necessarily a visionary.",
+        "Avoids delegating any responsibility": "Good leaders must delegate to achieve a large vision.",
+        "Is afraid to take risks": "Visions usually require some level of calculated risk."
+      }
+    },
+    {
+      "question": "In financial terms, what is 'interest'?",
+      "options": ["The total amount of money in a bank account", "The fee paid for the use of borrowed money", "The profit a company makes after taxes", "The physical coins and bills in circulation"],
+      "answer": "The fee paid for the use of borrowed money",
+      "explanation": "Interest is the 'price' of money—borrowers pay it and lenders earn it.",
+      "distractors": {
+        "The total amount of money in a bank account": "This is the principal balance.",
+        "The profit a company makes after taxes": "This is net income.",
+        "The physical coins and bills in circulation": "This is currency."
+      }
+    },
+    {
+      "question": "What is the purpose of a 'personal budget'?",
+      "options": ["To spend as much money as possible", "To track income and expenses to reach financial goals", "To calculate the value of the stock market", "To determine how much to tip at a restaurant"],
+      "answer": "To track income and expenses to reach financial goals",
+      "explanation": "A budget helps individuals control their spending and ensure they are saving for what matters.",
+      "distractors": {
+        "To spend as much money as possible": "A budget is usually about controlling and prioritizing spending.",
+        "To calculate the value of the stock market": "Budgets are individual; stock market value is a macro calculation.",
+        "To determine how much to tip at a restaurant": "Tipping is a situational calculation, not a budget's primary purpose."
+      }
+    },
+    {
+      "question": "Which of the following is a 'variable' expense in a household budget?",
+      "options": ["Rent", "Car payment", "Grocery bill", "Insurance premium"],
+      "answer": "Grocery bill",
+      "explanation": "Variable expenses change from month to month based on usage or choice.",
+      "distractors": {
+        "Rent": "This is typically a fixed expense.",
+        "Car payment": "This is usually a fixed installment payment.",
+        "Insurance premium": "This is usually a fixed amount paid at set intervals."
+      }
+    },
+    {
+      "question": "What does it mean to 'reconcile' a bank statement?",
+      "options": ["To close the bank account forever", "To compare the bank's records with your own records to ensure accuracy", "To ask the bank for a loan", "To change the PIN on your debit card"],
+      "answer": "To compare the bank's records with your own records to ensure accuracy",
+      "explanation": "Reconciliation ensures that any errors or missing transactions are identified.",
+      "distractors": {
+        "To close the bank account forever": "This is closing an account.",
+        "To ask the bank for a loan": "This is applying for credit.",
+        "To change the PIN on your debit card": "This is a security update."
+      }
+    },
+    {
+      "question": "Investing in 'stocks' means you are:",
+      "options": ["Loaning money to the government", "Buying partial ownership in a corporation", "Putting money in a guaranteed savings account", "Purchasing physical gold bars"],
+      "answer": "Buying partial ownership in a corporation",
+      "explanation": "Stockholders own 'shares' of a company and may benefit from its growth or dividends.",
+      "distractors": {
+        "Loaning money to the government": "This describes buying bonds.",
+        "Putting money in a guaranteed savings account": "Savings accounts are bank deposits, not stock investments.",
+        "Purchasing physical gold bars": "This is a commodity investment."
+      }
+    },
+    {
+      "question": "Which of the following is a primary source of 'equity' for a business?",
+      "options": ["Bank loans", "Credit cards", "Investments by the owners", "Accounts payable"],
+      "answer": "Investments by the owners",
+      "explanation": "Equity represents the owners' claim on the assets of the business.",
+      "distractors": {
+        "Bank loans": "This is debt (liabilities).",
+        "Credit cards": "This is short-term debt (liabilities).",
+        "Accounts payable": "This is money owed to suppliers (liabilities)."
+      }
+    },
+    {
+      "question": "The 'Income Statement' shows which of the following?",
+      "options": ["Assets, liabilities, and equity at a specific point in time", "A summary of revenues and expenses over a period of time", "A list of every employee's salary", "The physical location of all company stores"],
+      "answer": "A summary of revenues and expenses over a period of time",
+      "explanation": "The income statement calculates the net profit or loss during a specific quarter or year.",
+      "distractors": {
+        "Assets, liabilities, and equity at a specific point in time": "This describes the Balance Sheet.",
+        "A list of every employee's salary": "This is a payroll report.",
+        "The physical location of all company stores": "This is a geographic or logistical list."
+      }
+    },
+    {
+      "question": "What is 'Net Income'?",
+      "options": ["Total sales before any costs", "Total sales minus total expenses", "The amount of cash in the cash register", "The total value of the company's equipment"],
+      "answer": "Total sales minus total expenses",
+      "explanation": "Net income is the 'bottom line'—what is left after all costs of doing business are subtracted from revenue.",
+      "distractors": {
+        "Total sales before any costs": "This is Gross Revenue.",
+        "The amount of cash in the cash register": "This is cash on hand.",
+        "The total value of the company's equipment": "This is a capital asset."
+      }
+    },
+    {
+      "question": "A 'Balance Sheet' follows which basic accounting equation?",
+      "options": ["Assets = Liabilities + Owner's Equity", "Revenue - Expenses = Profit", "Price x Quantity = Revenue", "Debt + Equity = Cash"],
+      "answer": "Assets = Liabilities + Owner's Equity",
+      "explanation": "The balance sheet must always balance; everything the company owns was paid for by either borrowing or the owners' money.",
+      "distractors": {
+        "Revenue - Expenses = Profit": "This is the income statement equation.",
+        "Price x Quantity = Revenue": "This is the calculation for total sales revenue.",
+        "Debt + Equity = Cash": "This is an incorrect financial relationship; debt/equity equals total assets, not just cash."
+      }
+    },
+    {
+      "question": "What is the purpose of 'financial audit'?",
+      "options": ["To help the company design new products", "To verify that financial records are accurate and follow regulations", "To interview new job candidates", "To choose the company's holiday party location"],
+      "answer": "To verify that financial records are accurate and follow regulations",
+      "explanation": "Audits provide transparency and ensure that the company is reporting its finances truthfully.",
+      "distractors": {
+        "To help the company design new products": "This is R&D.",
+        "To interview new job candidates": "This is HR recruitment.",
+        "To choose the company's holiday party location": "This is administrative or event planning."
+      }
+    },
+    {
+      "question": "What is 'Human Resources Management' (HRM)?",
+      "options": ["Managing the company's computer network", "The process of planning, staffing, and leading employees", "Creating advertisements for the company's products", "Maintaining the company's building and grounds"],
+      "answer": "The process of planning, staffing, and leading employees",
+      "explanation": "HRM focuses on the 'people' side of the business, including hiring, training, and retention.",
+      "distractors": {
+        "Managing the company's computer network": "This is IT management.",
+        "Creating advertisements for the company's products": "This is marketing.",
+        "Maintaining the company's building and grounds": "This is facilities management."
+      }
+    },
+    {
+      "question": "What is 'Employee Orientation'?",
+      "options": ["The process of firing an employee", "Introducing a new employee to the company culture and policies", "A specialized training for senior executives only", "The annual performance review"],
+      "answer": "Introducing a new employee to the company culture and policies",
+      "explanation": "Orientation helps new hires acclimate to their work environment quickly and effectively.",
+      "distractors": {
+        "The process of firing an employee": "This is termination or offboarding.",
+        "A specialized training for senior executives only": "Orientation is for all new employees.",
+        "The annual performance review": "This is performance management."
+      }
+    },
+    {
+      "question": "Which of the following is a common reason for conducting a performance appraisal?",
+      "options": ["To decide which office supplies to buy", "To provide feedback and identify areas for employee growth", "To determine the company's mission statement", "To fix a broken printer"],
+      "answer": "To provide feedback and identify areas for employee growth",
+      "explanation": "Appraisals (reviews) help employees understand how they are doing and how they can improve.",
+      "distractors": {
+        "To decide which office supplies to buy": "This is purchasing/procurement.",
+        "To determine the company's mission statement": "This is strategic planning.",
+        "To fix a broken printer": "This is maintenance/IT support."
+      }
+    },
+    {
+      "question": "In marketing, what are the '4 Ps'?",
+      "options": ["Product, Price, Place, Promotion", "People, Paper, Pens, Printers", "Planning, Production, Purchasing, Payroll", "Profit, Performance, Power, Politics"],
+      "answer": "Product, Price, Place, Promotion",
+      "explanation": "The 4 Ps represent the Marketing Mix—the core variables a business controls to reach its customers.",
+      "distractors": {
+        "People, Paper, Pens, Printers": "These are office supplies/resources.",
+        "Planning, Production, Purchasing, Payroll": "These are general business functions.",
+        "Profit, Performance, Power, Politics": "These are abstract business concepts."
+      }
+    },
+    {
+      "question": "What is 'Market Segmentation'?",
+      "options": ["Dividing the entire market into smaller groups of people with similar needs", "Selling the same product to everyone in the world", "Closing a business because it isn't profitable", "Moving a factory to a different country"],
+      "answer": "Dividing the entire market into smaller groups of people with similar needs",
+      "explanation": "Segmentation allows businesses to tailor their marketing to specific audiences (e.g., age, location, interests).",
+      "distractors": {
+        "Selling the same product to everyone in the world": "This is mass marketing.",
+        "Closing a business because it isn't profitable": "This is liquidation or exit.",
+        "Moving a factory to a different country": "This is offshoring or relocation."
+      }
+    },
+    {
+      "question": "Which of the following is a 'primary' source of marketing data?",
+      "options": ["A report from the Census Bureau", "A survey conducted by your company with its customers", "An article in a business magazine", "A competitor's website"],
+      "answer": "A survey conducted by your company with its customers",
+      "explanation": "Primary research is data collected directly by the business for a specific purpose.",
+      "distractors": {
+        "A report from the Census Bureau": "This is secondary data (already exists).",
+        "An article in a business magazine": "This is secondary data.",
+        "A competitor's website": "This is secondary data."
+      }
+    },
+    {
+      "question": "What is the goal of 'Information Management' in a business?",
+      "options": ["To delete all old emails", "To get the right information to the right people at the right time", "To prevent employees from talking to each other", "To replace all human workers with robots"],
+      "answer": "To get the right information to the right people at the right time",
+      "explanation": "Effective info management ensures data is accessible, organized, and useful for decision-making.",
+      "distractors": {
+        "To delete all old emails": "While archiving is part of it, the goal is use, not just deletion.",
+        "To prevent employees from talking to each other": "Collaboration is usually encouraged.",
+        "To replace all human workers with robots": "This is automation, not information management."
+      }
+    },
+    {
+      "question": "A 'Database' is defined as:",
+      "options": ["A physical book of records", "An organized collection of structured information or data", "A single piece of paper", "A group of people working in a warehouse"],
+      "answer": "An organized collection of structured information or data",
+      "explanation": "Databases allow for efficient storage, retrieval, and analysis of large amounts of information.",
+      "distractors": {
+        "A physical book of records": "This is a ledger or logbook, not a modern database.",
+        "A single piece of paper": "This is a document.",
+        "A group of people working in a warehouse": "This is a workforce."
+      }
+    },
+    {
+      "question": "What is the primary risk of using 'Cloud Computing' for business data?",
+      "options": ["It makes data easier to share", "Reliance on internet connectivity and third-party security", "It is always more expensive than local servers", "It reduces the need for hardware"],
+      "answer": "Reliance on internet connectivity and third-party security",
+      "explanation": "If the internet goes down or the cloud provider has a breach, the business is at risk.",
+      "distractors": {
+        "It makes data easier to share": "This is a benefit, not a risk.",
+        "It is always more expensive than local servers": "Cloud is often cheaper due to scalability.",
+        "It reduces the need for hardware": "This is a benefit."
+      }
+    },
+    {
+      "question": "Which software program is most commonly used for creating financial spreadsheets?",
+      "options": ["Microsoft Word", "Microsoft Excel", "Adobe Photoshop", "Microsoft PowerPoint"],
+      "answer": "Microsoft Excel",
+      "explanation": "Excel (and Google Sheets) is designed for calculation, data analysis, and grid-based formatting.",
+      "distractors": {
+        "Microsoft Word": "Used for word processing/documents.",
+        "Adobe Photoshop": "Used for image editing.",
+        "Microsoft PowerPoint": "Used for presentations."
+      }
+    },
+    {
+      "question": "What is 'Operations Management'?",
+      "options": ["Designing the company's logo", "The administration of business practices to create the highest level of efficiency", "Hiring and firing employees", "Investing the company's money in the stock market"],
+      "answer": "The administration of business practices to create the highest level of efficiency",
+      "explanation": "Operations is about turning inputs (labor, materials) into outputs (products) as efficiently as possible.",
+      "distractors": {
+        "Designing the company's logo": "This is marketing/branding.",
+        "Hiring and firing employees": "This is HR.",
+        "Investing the company's money in the stock market": "This is financial management."
+      }
+    },
+    {
+      "question": "In a supply chain, what is the role of a 'Wholesaler'?",
+      "options": ["To sell products directly to the final consumer", "To buy large quantities of goods and sell them to retailers", "To manufacture the raw materials", "To deliver mail to residential homes"],
+      "answer": "To buy large quantities of goods and sell them to retailers",
+      "explanation": "Wholesalers act as middlemen between manufacturers and the stores that sell to consumers.",
+      "distractors": {
+        "To sell products directly to the final consumer": "This is the role of a retailer.",
+        "To manufacture the raw materials": "This is the role of a producer or supplier.",
+        "To deliver mail to residential homes": "This is a courier or postal service."
+      }
+    },
+    {
+      "question": "What is 'Quality Control'?",
+      "options": ["Letting customers decide what the price should be", "A process through which a business seeks to ensure that product quality is maintained or improved", "Selling items that are known to be broken", "Making products as fast as possible without checking them"],
+      "answer": "A process through which a business seeks to ensure that product quality is maintained or improved",
+      "explanation": "QC involves testing and inspection to make sure products meet standards before reaching the customer.",
+      "distractors": {
+        "Letting customers decide what the price should be": "This is a pricing strategy, not quality control.",
+        "Selling items that are known to be broken": "This is unethical and likely illegal.",
+        "Making products as fast as possible without checking them": "This is the opposite of quality control."
+      }
+    },
+    {
+      "question": "Which of the following is an example of an 'internal' business risk?",
+      "options": ["A change in government tax laws", "A natural disaster like an earthquake", "Poor employee training or safety procedures", "A global economic recession"],
+      "answer": "Poor employee training or safety procedures",
+      "explanation": "Internal risks are those that originate within the organization and can be controlled by management.",
+      "distractors": {
+        "A change in government tax laws": "This is an external (political) risk.",
+        "A natural disaster like an earthquake": "This is an external (natural/environmental) risk.",
+        "A global economic recession": "This is an external (economic) risk."
+      }
+    },
+    {
+      "question": "What does 'Project Management' involve?",
+      "options": ["Managing the same daily routine tasks for 10 years", "Planning and executing a unique, temporary endeavor to achieve a goal", "Calculating the monthly payroll", "Answering the office phones"],
+      "answer": "Planning and executing a unique, temporary endeavor to achieve a goal",
+      "explanation": "Projects have a specific start and end date and a unique outcome, unlike ongoing operations.",
+      "distractors": {
+        "Managing the same daily routine tasks for 10 years": "This is operational management.",
+        "Calculating the monthly payroll": "This is an administrative/accounting routine.",
+        "Answering the office phones": "This is a daily administrative task."
+      }
+    },
+    {
+      "question": "Which of the following is a common 'Constraint' in a project?",
+      "options": ["Unlimited budget", "Infinite time", "Limited resources (time, money, people)", "Zero risks"],
+      "answer": "Limited resources (time, money, people)",
+      "explanation": "Project managers must balance the 'Triple Constraint' of Scope, Time, and Cost.",
+      "distractors": {
+        "Unlimited budget": "Budgets are almost always limited.",
+        "Infinite time": "Projects by definition have an end date.",
+        "Zero risks": "All projects involve some level of risk."
+      }
+    },
+    {
+      "question": "What is the 'Scope' of a project?",
+      "options": ["The total amount of money spent", "The specific work and deliverables required to complete the project", "The name of the project manager", "The location where the final party is held"],
+      "answer": "The specific work and deliverables required to complete the project",
+      "explanation": "Scope defines what is—and is not—included in the project work.",
+      "distractors": {
+        "The total amount of money spent": "This is the project budget/cost.",
+        "The name of the project manager": "This is a stakeholder role.",
+        "The location where the final party is held": "This is a minor logistical detail."
+      }
+    },
+    {
+      "question": "What is 'Strategic Planning'?",
+      "options": ["Planning what to eat for lunch tomorrow", "Setting long-term goals and directions for an organization", "Managing the office supply closet", "Updating a single person's calendar"],
+      "answer": "Setting long-term goals and directions for an organization",
+      "explanation": "Strategic planning involves looking at the big picture and defining how the company will compete over 3–5 years.",
+      "distractors": {
+        "Planning what to eat for lunch tomorrow": "This is personal daily planning.",
+        "Managing the office supply closet": "This is tactical/operational inventory management.",
+        "Updating a single person's calendar": "This is administrative assistance."
+      }
+    },
+    {
+      "question": "Which of the following is a function of 'Management'?",
+      "options": ["Avoiding all decisions", "Planning, Organizing, Leading, and Controlling", "Investing personal money in the lottery", "Watching television at work"],
+      "answer": "Planning, Organizing, Leading, and Controlling",
+      "explanation": "These are the four traditional pillars of management theory.",
+      "distractors": {
+        "Avoiding all decisions": "Management requires constant decision-making.",
+        "Investing personal money in the lottery": "This is personal gambling, not business management.",
+        "Watching television at work": "This is a waste of time and a lack of management."
+      }
+    },
+    {
+      "question": "What is 'Organizational Culture'?",
+      "options": ["The physical building where a company is located", "The shared values, beliefs, and behaviors of the people in a company", "The legal documents used to start a corporation", "The types of food served in the company cafeteria"],
+      "answer": "The shared values, beliefs, and behaviors of the people in a company",
+      "explanation": "Culture is 'how things are done around here' and influences employee satisfaction and performance.",
+      "distractors": {
+        "The physical building where a company is located": "This is the workplace environment or facilities.",
+        "The legal documents used to start a corporation": "These are Articles of Incorporation.",
+        "The types of food served in the company cafeteria": "This is a perk or amenity, though it may reflect culture."
+      }
+    },
+    {
+      "question": "A 'Flat' organizational structure is characterized by:",
+      "options": ["Many levels of management between executives and workers", "Very few levels of management", "A structure where nobody has a manager", "A building with only one floor"],
+      "answer": "Very few levels of management",
+      "explanation": "Flat structures promote faster communication and more employee empowerment by reducing hierarchy.",
+      "distractors": {
+        "Many levels of management between executives and workers": "This is a 'Tall' or 'Hierarchical' structure.",
+        "A structure where nobody has a manager": "This is rare and usually called 'Holacracy' or 'Flatarchies', but even those have leadership.",
+        "A building with only one floor": "Structure refers to people, not architecture."
+      }
+    },
+    {
+      "question": "What is 'Change Management'?",
+      "options": ["Replacing the light bulbs in an office", "A structured approach to transitioning individuals and teams to a new way of working", "Changing the company's bank account every week", "Swapping coworkers' desks without telling them"],
+      "answer": "A structured approach to transitioning individuals and teams to a new way of working",
+      "explanation": "Change management helps reduce resistance and ensure that new systems or strategies are adopted successfully.",
+      "distractors": {
+        "Replacing the light bulbs in an office": "This is facility maintenance.",
+        "Changing the company's bank account every week": "This would be inefficient and suspicious.",
+        "Swapping coworkers' desks without telling them": "This is a prank, not a management strategy."
+      }
+    },
+    {
+      "question": "Why do many organizational changes fail?",
+      "options": ["Because they are too easy to implement", "Because employees are not given enough support or information during the transition", "Because the company makes too much money", "Because the change was announced on a Tuesday"],
+      "answer": "Because employees are not given enough support or information during the transition",
+      "explanation": "Poor communication and lack of training are the most common killers of new initiatives.",
+      "distractors": {
+        "Because they are too easy to implement": "Easy changes usually succeed; hard ones require management.",
+        "Because the company makes too much money": "High profit usually provides resources to help changes succeed.",
+        "Because the change was announced on a Tuesday": "The day of the week is rarely the root cause of failure."
+      }
+    },
+    {
+      "question": "Which of the following is a 'Knowledge Management' activity?",
+      "options": ["Buying a new office chair", "Creating a shared wiki or document library for employee training", "Ordering lunch for the team", "Painting the office walls blue"],
+      "answer": "Creating a shared wiki or document library for employee training",
+      "explanation": "Knowledge management (KM) is about capturing, distributing, and effectively using knowledge.",
+      "distractors": {
+        "Buying a new office chair": "This is asset procurement.",
+        "Ordering lunch for the team": "This is an administrative or morale-boosting task.",
+        "Painting the office walls blue": "This is interior design."
+      }
+    },
+    {
+      "question": "What is 'Intellectual Capital'?",
+      "options": ["The money used to buy computers", "The collective knowledge and skills of an organization's employees", "The physical building owned by a university", "A special type of loan for smart people"],
+      "answer": "The collective knowledge and skills of an organization's employees",
+      "explanation": "Intellectual capital is an intangible asset that gives a company its competitive edge.",
+      "distractors": {
+        "The money used to buy computers": "This is financial/capital resource.",
+        "The physical building owned by a university": "This is real estate/infrastructure.",
+        "A special type of loan for smart people": "No such standard financial product exists."
+      }
+    },
+    {
+      "question": "What is the purpose of a 'Business Plan'?",
+      "options": ["To prove that the business has already succeeded", "To outline the goals and strategy for a new or existing business", "To hide the company's finances from the IRS", "To list the names of every customer in alphabetical order"],
+      "answer": "To outline the goals and strategy for a new or existing business",
+      "explanation": "A business plan is a roadmap used to guide the company and attract investors.",
+      "distractors": {
+        "To prove that the business has already succeeded": "A plan is forward-looking, though it may contain past data.",
+        "To hide the company's finances from the IRS": "This is illegal tax evasion.",
+        "To list the names of every customer in alphabetical order": "This is a customer directory or CRM export."
+      }
+    },
+    {
+      "question": "In a SWOT analysis, what does 'SWOT' stand for?",
+      "options": ["Sales, Work, Operations, Tasks", "Strengths, Weaknesses, Opportunities, Threats", "Sustainability, Wealth, Ownership, Taxes", "Service, Wisdom, Order, Trust"],
+      "answer": "Strengths, Weaknesses, Opportunities, Threats",
+      "explanation": "SWOT is a strategic planning tool used to evaluate a business's internal and external environment.",
+      "distractors": {
+        "Sales, Work, Operations, Tasks": "These are business activities.",
+        "Sustainability, Wealth, Ownership, Taxes": "These are business themes.",
+        "Service, Wisdom, Order, Trust": "These are values/virtues."
+      }
+    },
+    {
+      "question": "Which part of a SWOT analysis focuses on 'internal' factors?",
+      "options": ["Opportunities and Threats", "Strengths and Weaknesses", "Sales and Marketing", "Accounting and Finance"],
+      "answer": "Strengths and Weaknesses",
+      "explanation": "Strengths and Weaknesses are things the business can control internally; O and T are external market forces.",
+      "distractors": {
+        "Opportunities and Threats": "These are external factors.",
+        "Sales and Marketing": "These are departments, not SWOT categories.",
+        "Accounting and Finance": "These are departments."
+      }
+    },
+    {
+      "question": "What is 'Professional Development'?",
+      "options": ["Learning new skills to advance your career", "Buying a new suit for an interview", "Taking a vacation to relax", "Moving to a bigger house"],
+      "answer": "Learning new skills to advance your career",
+      "explanation": "PD includes workshops, degrees, or certifications that keep your skills relevant.",
+      "distractors": {
+        "Buying a new suit for an interview": "This is professional appearance/grooming.",
+        "Taking a vacation to relax": "This is personal wellness/time off.",
+        "Moving to a bigger house": "This is a personal lifestyle change."
+      }
+    },
+    {
+      "question": "Which of the following is a characteristic of a 'Proactive' person?",
+      "options": ["Waits for things to happen before taking action", "Anticipates problems and takes action before they occur", "Blames others for their failures", "Does only the minimum amount of work required"],
+      "answer": "Anticipates problems and takes action before they occur",
+      "explanation": "Proactivity involves taking initiative and being responsible for your future.",
+      "distractors": {
+        "Waits for things to happen before taking action": "This is a 'Reactive' person.",
+        "Blames others for their failures": "This is a lack of accountability.",
+        "Does only the minimum amount of work required": "This is 'Quiet Quitting' or low engagement."
+      }
+    },
+    {
+      "question": "What is 'Business Ethics'?",
+      "options": ["The laws that require businesses to pay taxes", "The study of appropriate business policies and practices regarding potentially controversial subjects", "Making as much money as possible regardless of the consequences", "Advertising products even if they don't work"],
+      "answer": "The study of appropriate business policies and practices regarding potentially controversial subjects",
+      "explanation": "Ethics guide how a company balances profit-making with its impact on society and stakeholders.",
+      "distractors": {
+        "The laws that require businesses to pay taxes": "This is tax law/legal compliance.",
+        "Making as much money as possible regardless of the consequences": "This is the 'profit at all costs' mindset, often the opposite of ethical behavior.",
+        "Advertising products even if they don't work": "This is false advertising/unethical behavior."
+      }
+    },
+    {
+      "question": "A 'Conflict of Interest' occurs when:",
+      "options": ["Two coworkers have a friendly debate about a project", "A person's private interests interfere with their professional duties", "A business has more customers than it can handle", "A company decides to close one of its locations"],
+      "answer": "A person's private interests interfere with their professional duties",
+      "explanation": "An example would be a manager hiring their own relative instead of the most qualified candidate.",
+      "distractors": {
+        "Two coworkers have a friendly debate about a project": "This is a healthy difference of opinion.",
+        "A business has more customers than it can handle": "This is a capacity/scaling issue.",
+        "A company decides to close one of its locations": "This is a business strategy decision."
+      }
+    },
+    {
+      "question": "What is 'Corporate Social Responsibility' (CSR)?",
+      "options": ["The legal requirement to have a CEO", "A business model in which companies integrate social and environmental concerns in their operations", "The responsibility to make the highest possible profit for shareholders", "Ensuring all employees attend the annual company picnic"],
+      "answer": "A business model in which companies integrate social and environmental concerns in their operations",
+      "explanation": "CSR goes beyond profit to consider the 'Triple Bottom Line': People, Planet, and Profit.",
+      "distractors": {
+        "The legal requirement to have a CEO": "This is a corporate governance requirement.",
+        "The responsibility to make the highest possible profit for shareholders": "This is 'Shareholder Primacy'.",
+        "Ensuring all employees attend the annual company picnic": "This is employee engagement/event planning."
+      }
+    },
+    {
+      "question": "Which of the following is an example of 'Sustainable' business practice?",
+      "options": ["Using as many natural resources as possible before they run out", "Reducing waste and using renewable energy sources", "Moving a factory to a place with fewer environmental laws", "Packaging products in non-recyclable plastic to save money"],
+      "answer": "Reducing waste and using renewable energy sources",
+      "explanation": "Sustainability means meeting current needs without compromising the ability of future generations to meet theirs.",
+      "distractors": {
+        "Using as many natural resources as possible before they run out": "This is the opposite of sustainability.",
+        "Moving a factory to a place with fewer environmental laws": "This is 'regulatory arbitrage' or unethical practice.",
+        "Packaging products in non-recyclable plastic to save money": "This is environmentally unfriendly."
+      }
+    },
+    {
+      "question": "In a business context, what is a 'Stakeholder'?",
+      "options": ["Only the people who own stock in the company", "Anyone who is affected by or can affect the business", "The physical stakes used to hold up a company's sign", "A person who works in the company's kitchen"],
+      "answer": "Anyone who is affected by or can affect the business",
+      "explanation": "Stakeholders include employees, customers, suppliers, the community, and shareholders.",
+      "distractors": {
+        "Only the people who own stock in the company": "These are 'Shareholders', a specific type of stakeholder.",
+        "The physical stakes used to hold up a company's sign": "This is hardware.",
+        "A person who works in the company's kitchen": "This person is a stakeholder, but the term is much broader."
+      }
+    },
+    {
+      "question": "What is the primary purpose of 'Taxes' collected by the government from businesses?",
+      "options": ["To make the business owners poor", "To fund public services like roads, schools, and safety", "To buy birthday presents for government employees", "To ensure that no new businesses are started"],
+      "answer": "To fund public services like roads, schools, and safety",
+      "explanation": "Taxes provide the infrastructure and services that allow society (and businesses) to function.",
+      "distractors": {
+        "To make the business owners poor": "While taxes are a cost, the goal is public funding.",
+        "To buy birthday presents for government employees": "This would be a misuse of public funds.",
+        "To ensure that no new businesses are started": "Governments usually want businesses to start to grow the tax base."
+      }
+    },
+    {
+      "question": "Which of the following is an 'indirect' tax?",
+      "options": ["Personal Income Tax", "Sales Tax", "Corporate Income Tax", "Property Tax paid by a homeowner"],
+      "answer": "Sales Tax",
+      "explanation": "Indirect taxes are collected by an intermediary (like a store) from the person who bears the ultimate economic burden.",
+      "distractors": {
+        "Personal Income Tax": "This is a direct tax on an individual's earnings.",
+        "Corporate Income Tax": "This is a direct tax on a company's profits.",
+        "Property Tax paid by a homeowner": "This is a direct tax on ownership."
+      }
+    },
+    {
+      "question": "What is 'Inflation'?",
+      "options": ["When prices stay the same for many years", "A general increase in prices and fall in the purchasing value of money", "When the government prints less money", "When a company hires more employees than it needs"],
+      "answer": "A general increase in prices and fall in the purchasing value of money",
+      "explanation": "Inflation means your dollar buys less today than it did yesterday.",
+      "distractors": {
+        "When prices stay the same for many years": "This is price stability.",
+        "When the government prints less money": "This might lead to deflation or lower inflation.",
+        "When a company hires more employees than it needs": "This is overstaffing/inefficiency."
+      }
+    },
+    {
+      "question": "In a 'Global' economy, businesses often 'Outsource' work. What does this mean?",
+      "options": ["Hiring more people to work in the main office", "Moving all operations to a single building", "Hiring an outside party to perform services or create goods", "Refusing to buy products from other countries"],
+      "answer": "Hiring an outside party to perform services or create goods",
+      "explanation": "Outsourcing can be done locally or internationally (offshoring) to save costs or access expertise.",
+      "distractors": {
+        "Hiring more people to work in the main office": "This is insourcing or internal hiring.",
+        "Moving all operations to a single building": "This is centralization.",
+        "Refusing to buy products from other countries": "This is protectionism or isolationism."
+      }
+    },
+    {
+      "question": "What is a 'Trade Barrier'?",
+      "options": ["A bridge that allows trucks to cross a border", "A government-imposed restriction on the flow of international goods", "A special sale where everything is half price", "The language used by people in the same industry"],
+      "answer": "A government-imposed restriction on the flow of international goods",
+      "explanation": "Examples include tariffs (taxes) and quotas (limits on quantity).",
+      "distractors": {
+        "A bridge that allows trucks to cross a border": "This is infrastructure.",
+        "A special sale where everything is half price": "This is a promotion.",
+        "The language used by people in the same industry": "This is jargon."
+      }
+    },
+    {
+      "question": "Which of the following is an example of an 'Export'?",
+      "options": ["An American company buying coffee from Brazil", "A Japanese company selling cars in the United States", "An American farmer selling corn to a company in China", "A German citizen visiting a French museum"],
+      "answer": "An American farmer selling corn to a company in China",
+      "explanation": "Exports are goods or services produced domestically and sold to other countries.",
+      "distractors": {
+        "An American company buying coffee from Brazil": "This is an import for the US.",
+        "A Japanese company selling cars in the United States": "This is an export for Japan, but an import for the US.",
+        "A German citizen visiting a French museum": "This is international tourism/service trade, but the corn example is a classic physical export."
+      }
+    },
+    {
+      "question": "What is the 'Balance of Trade'?",
+      "options": ["The difference between the value of a country's exports and its imports", "The amount of money in a person's savings account", "The weight of a ship carrying goods", "The number of hours a person works versus sleeps"],
+      "answer": "The difference between the value of a country's exports and its imports",
+      "explanation": "A trade surplus occurs when exports > imports; a trade deficit occurs when imports > exports.",
+      "distractors": {
+        "The amount of money in a person's savings account": "This is a bank balance.",
+        "The weight of a ship carrying goods": "This is displacement/tonnage.",
+        "The number of hours a person works versus sleeps": "This is work-life balance."
+      }
+    },
+    {
+      "question": "What is a 'Tariff'?",
+      "options": ["A limit on the number of products that can be imported", "A tax on imported goods", "A gift given by one country to another", "A type of fast-growing plant"],
+      "answer": "A tax on imported goods",
+      "explanation": "Tariffs make foreign goods more expensive, often to protect domestic industries.",
+      "distractors": {
+        "A limit on the number of products that can be imported": "This is a quota.",
+        "A gift given by one country to another": "This is foreign aid.",
+        "A type of fast-growing plant": "This is unrelated."
+      }
+    },
+    {
+      "question": "In a 'Command' economy, who makes the major economic decisions?",
+      "options": ["Individual consumers and businesses", "The central government", "Religious leaders exclusively", "Nature and the weather"],
+      "answer": "The central government",
+      "explanation": "In a command system (like communism), the state decides what is produced, how much, and for whom.",
+      "distractors": {
+        "Individual consumers and businesses": "This happens in a market economy.",
+        "Religious leaders exclusively": "This might happen in a theocracy, but economic systems are usually defined by state vs market.",
+        "Nature and the weather": "These affect economies but don't 'make decisions'."
+      }
+    },
+    {
+      "question": "What is the primary advantage of 'Specialization' in the workplace?",
+      "options": ["Everyone learns how to do every job in the company", "Increased efficiency as workers become experts in specific tasks", "Lower wages for all employees", "Fewer products are produced overall"],
+      "answer": "Increased efficiency as workers become experts in specific tasks",
+      "explanation": "When people focus on one task (division of labor), they get faster and better at it.",
+      "distractors": {
+        "Everyone learns how to do every job in the company": "This is 'Cross-training'.",
+        "Lower wages for all employees": "Specialists often command higher wages.",
+        "Fewer products are produced overall": "Specialization usually increases total output."
+      }
+    },
+    {
+      "question": "What is 'Productivity'?",
+      "options": ["The total amount of money a company has in the bank", "The ratio of output produced to the input used (like labor or time)", "The number of employees a company has", "The color of the products being sold"],
+      "answer": "The ratio of output produced to the input used (like labor or time)",
+      "explanation": "High productivity means getting more out of your resources.",
+      "distractors": {
+        "The total amount of money a company has in the bank": "This is liquidity/capital.",
+        "The number of employees a company has": "This is head-count.",
+        "The color of the products being sold": "This is a product attribute."
+      }
+    },
+    {
+      "question": "Which of the following is a 'Fixed' cost for a bakery?",
+      "options": ["The flour used to make bread", "The monthly rent for the shop", "The electricity used to run the ovens (if it varies by use)", "The paper bags used for packaging"],
+      "answer": "The monthly rent for the shop",
+      "explanation": "Fixed costs stay the same regardless of how many loaves of bread are sold.",
+      "distractors": {
+        "The flour used to make bread": "This is a variable cost (more bread = more flour).",
+        "The electricity used to run the ovens": "This is usually a variable/semi-variable cost.",
+        "The paper bags used for packaging": "This is a variable cost."
+      }
+    },
+    {
+      "question": "What is 'Break-even Point'?",
+      "options": ["The point where a business goes bankrupt", "The point where total revenue equals total costs", "The point where a business makes its first million dollars", "The point where a business stops selling products"],
+      "answer": "The point where total revenue equals total costs",
+      "explanation": "At break-even, the business is not losing money, but it isn't making a profit yet either.",
+      "distractors": {
+        "The point where a business goes bankrupt": "This happens when costs far exceed revenue/assets over time.",
+        "The point where a business makes its first million dollars": "This is a milestone, not a break-even point.",
+        "The point where a business stops selling products": "This is a shutdown point."
+      }
+    },
+    {
+      "question": "What is the 'Law of Diminishing Returns'?",
+      "options": ["The more you sell, the more money you lose", "As you add more of one input (like workers) to a fixed resource (like a kitchen), the extra output eventually decreases", "Prices always go down over time", "Employees become happier the longer they work"],
+      "answer": "As you add more of one input (like workers) to a fixed resource (like a kitchen), the extra output eventually decreases",
+      "explanation": "If you put 50 chefs in one small kitchen, they will get in each other's way and produce less per person.",
+      "distractors": {
+        "The more you sell, the more money you lose": "This is an unsustainable business model.",
+        "Prices always go down over time": "This is not a law and is often false (inflation).",
+        "Employees become happier the longer they work": "This is not an economic law and varies widely."
+      }
+    },
+    {
+      "question": "What is 'Supply Chain Management'?",
+      "options": ["Managing the physical metal chains used in factories", "The oversight of materials, information, and finances as they move from supplier to manufacturer to wholesaler to retailer to consumer", "Counting the number of products on a shelf", "Ordering office supplies like pens and paper"],
+      "answer": "The oversight of materials, information, and finances as they move from supplier to manufacturer to wholesaler to retailer to consumer",
+      "explanation": "SCM ensures the right products get to the right place at the right time.",
+      "distractors": {
+        "Managing the physical metal chains used in factories": "This is maintenance/equipment management.",
+        "Counting the number of products on a shelf": "This is inventory counting/auditing.",
+        "Ordering office supplies like pens and paper": "This is procurement/purchasing."
+      }
+    },
+    {
+      "question": "Which of the following is an example of an 'Intermediary' in a channel of distribution?",
+      "options": ["The manufacturer who makes the product", "The consumer who buys the product", "A wholesaler who buys from the factory and sells to stores", "The raw material provider"],
+      "answer": "A wholesaler who buys from the factory and sells to stores",
+      "explanation": "Intermediaries (middlemen) move products from producers to final users.",
+      "distractors": {
+        "The manufacturer who makes the product": "This is the producer.",
+        "The consumer who buys the product": "This is the end user.",
+        "The raw material provider": "This is the initial supplier."
+      }
+    },
+    {
+      "question": "What is 'Inventory'?",
+      "options": ["The list of all employees in a company", "The raw materials, work-in-process goods, and finished goods a business has on hand", "The total amount of debt a company owes", "The name of the company's headquarters"],
+      "answer": "The raw materials, work-in-process goods, and finished goods a business has on hand",
+      "explanation": "Inventory is an asset that is intended to be sold or used in production.",
+      "distractors": {
+        "The list of all employees in a company": "This is a directory or payroll list.",
+        "The total amount of debt a company owes": "This is liabilities/debt.",
+        "The name of the company's headquarters": "This is the physical address/location name."
+      }
+    },
+    {
+      "question": "What is 'Just-in-Time' (JIT) inventory management?",
+      "options": ["Keeping a 5-year supply of all products in a warehouse", "An inventory strategy that aligns raw-material orders from suppliers directly with production schedules", "Ordering products whenever the manager feels like it", "Buying products only after they have already been sold out for a month"],
+      "answer": "An inventory strategy that aligns raw-material orders from suppliers directly with production schedules",
+      "explanation": "JIT reduces waste and storage costs by receiving goods only as they are needed in the production process.",
+      "distractors": {
+        "Keeping a 5-year supply of all products in a warehouse": "This is the opposite of JIT (leads to high holding costs).",
+        "Ordering products whenever the manager feels like it": "This is unplanned/disorganized inventory.",
+        "Buying products only after they have already been sold out for a month": "This leads to lost sales and poor service."
+      }
+    },
+    {
+      "question": "In project management, what is a 'Milestone'?",
+      "options": ["A physical rock placed at the entrance of a building", "A significant point or event in a project", "The total cost of the project", "The daily lunch break for the project team"],
+      "answer": "A significant point or event in a project",
+      "explanation": "Milestones help track progress and celebrate the completion of major phases.",
+      "distractors": {
+        "A physical rock placed at the entrance of a building": "This is landscaping.",
+        "The total cost of the project": "This is the budget.",
+        "The daily lunch break for the project team": "This is a routine event, not a milestone."
+      }
+    },
+    {
+      "question": "What is the purpose of a 'Gantt Chart'?",
+      "options": ["To show the company's organizational hierarchy", "To provide a visual schedule of a project's tasks over time", "To calculate the tax owed by a corporation", "To design a new marketing brochure"],
+      "answer": "To provide a visual schedule of a project's tasks over time",
+      "explanation": "Gantt charts use horizontal bars to show when each task starts and ends, and how they overlap.",
+      "distractors": {
+        "To show the company's organizational hierarchy": "This is an Org Chart.",
+        "To calculate the tax owed by a corporation": "This is a tax worksheet.",
+        "To design a new marketing brochure": "This is graphic design software."
+      }
+    },
+    {
+      "question": "Which of the following is a 'Stakeholder' in a project to build a new city park?",
+      "options": ["The construction workers", "The local residents who live near the park", "The city government funding the project", "All of the above"],
+      "answer": "All of the above",
+      "explanation": "Stakeholders include anyone with an interest or involvement in the project's outcome.",
+      "distractors": {
+        "The construction workers": "They are internal stakeholders.",
+        "The local residents who live near the park": "They are external stakeholders.",
+        "The city government funding the project": "They are sponsors/stakeholders."
+      }
+    },
+    {
+      "question": "What is 'Quality Assurance' (QA)?",
+      "options": ["Checking a product after it is already broken", "The maintenance of a desired level of quality in a service or product by means of attention to every stage of the process", "Hiding mistakes from the customer", "Making products as cheaply as possible"],
+      "answer": "The maintenance of a desired level of quality in a service or product by means of attention to every stage of the process",
+      "explanation": "QA is proactive and focuses on the process, while Quality Control (QC) is reactive and focuses on the product.",
+      "distractors": {
+        "Checking a product after it is already broken": "This is repair/failure analysis.",
+        "Hiding mistakes from the customer": "This is unethical/deceptive.",
+        "Making products as cheaply as possible": "This is cost-cutting, which may hurt quality."
+      }
+    },
+    {
+      "question": "In a professional business letter, which salutation is most appropriate if you do not know the recipient's name?",
+      "options": ["Hey there!", "To Whom It May Concern:", "What's up?", "Dear Friend,"],
+      "answer": "To Whom It May Concern:",
+      "explanation": "This is the standard formal greeting for unknown recipients in business correspondence.",
+      "distractors": {
+        "Hey there!": "Too informal.",
+        "What's up?": "Completely unprofessional.",
+        "Dear Friend,": "Too personal and potentially presumptuous."
+      }
+    },
+    {
+      "question": "What is the primary reason for a business to maintain 'Financial Records'?",
+      "options": ["To take up space in the filing cabinet", "To track the company's performance, pay taxes, and make informed decisions", "To share with competitors to show how well you are doing", "To hide the names of the company's owners"],
+      "answer": "To track the company's performance, pay taxes, and make informed decisions",
+      "explanation": "Accurate records are essential for legal compliance and strategic management.",
+      "distractors": {
+        "To take up space in the filing cabinet": "This is a waste of space.",
+        "To share with competitors to show how well you are doing": "Records are usually private or for investors, not competitors.",
+        "To hide the names of the company's owners": "Records usually must disclose ownership for transparency."
+      }
+    },
+    {
+      "question": "What is 'Cash Flow'?",
+      "options": ["The total amount of money a company has in assets", "The movement of money in and out of a business", "The physical weight of 1,000 one-dollar bills", "The profit a company makes at the end of the year"],
+      "answer": "The movement of money in and out of a business",
+      "explanation": "Healthy cash flow ensures a business can pay its bills on time.",
+      "distractors": {
+        "The total amount of money a company has in assets": "This is the company's value/wealth.",
+        "The physical weight of 1,000 one-dollar bills": "This is physical mass.",
+        "The profit a company makes at the end of the year": "Profit is different from cash flow (e.g., you can have profit but no cash if customers haven't paid yet)."
+      }
+    },
+    {
+      "question": "Which of the following describes 'Ethical Dilemma'?",
+      "options": ["Choosing between a blue pen and a black pen", "A situation where you must choose between two conflicting moral principles", "Deciding which movie to watch on a Friday night", "Answering the phone when it rings"],
+      "answer": "A situation where you must choose between two conflicting moral principles",
+      "explanation": "An ethical dilemma often has no 'perfect' answer and requires careful moral reasoning.",
+      "distractors": {
+        "Choosing between a blue pen and a black pen": "This is a simple preference/choice.",
+        "Deciding which movie to watch on a Friday night": "This is a personal preference.",
+        "Answering the phone when it rings": "This is a routine action."
+      }
+    }
+  ]
+}
