@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assessment</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../style.css">
+
+</head>
+<body>
+
+<header id="main-header">
+    <div class="header-left"><a href="../index.html" class="nav-link">Home</a></div>
+    <div class="logo">AJARG Quizz Master</div>
+    <div class="header-right"><a href="../about.html" class="nav-link">About</a></div>
+</header>
+
+<div class="container">
+    <!-- Setup Screen -->
+    <div id="setup" class="setup-screen active" style="padding-bottom: 120px;">
+        <span class="quiz-title-tag" id="display-title">Assessment Module</span>
+        <h1>Assessment Scope</h1>
+        <p id="avail-text" class="status-text">Scanning for question datasets...</p>
+        
+        <div class="range-grid">
+            <button class="cta-square range-opt" id="btn-10" onclick="selectRange(10, this)">Range: 0 - 10</button>
+            <button class="cta-square range-opt" id="btn-25" onclick="selectRange(25, this)" disabled>Range: 0 - 25</button>
+            <button class="cta-square range-opt" id="btn-50" onclick="selectRange(50, this)" disabled>Range: 0 - 50</button>
+            <button class="cta-square range-opt" id="btn-100" onclick="selectRange(100, this)" disabled>Range: 0 - 100</button>
+        </div>
+
+        <div class="settings-section">
+            <h3>Quiz Settings</h3>
+            
+            <!-- Feedback Group -->
+            <div class="toggle-group">
+                <span style="font-family: sans-serif; font-weight: bold; font-size: 0.9rem;">Show Feedback Analysis</span>
+                <label class="switch">
+                    <input type="checkbox" id="setting-show-feedback" checked onchange="toggleFeedbackSettings()">
+                    <span class="slider"></span>
+                </label>
+            </div>
+            <div id="sub-setting-container" class="toggle-group">
+                <span style="font-family: sans-serif; font-weight: bold; font-size: 0.9rem;">Only Show Feedback if Wrong</span>
+                <label class="switch">
+                    <input type="checkbox" id="setting-only-wrong-feedback">
+                    <span class="slider"></span>
+                </label>
+            </div>
+
+            <hr>
+
+            <!-- Auto-Advance Group -->
+            <div class="toggle-group">
+                <span style="font-family: sans-serif; font-weight: bold; font-size: 0.9rem;">Auto-Advance to Next Question</span>
+                <label class="switch">
+                    <input type="checkbox" id="setting-auto-advance" onchange="toggleAutoAdvanceSettings()">
+                    <span class="slider"></span>
+                </label>
+            </div>
+            <div id="auto-advance-sub-container" class="toggle-group disabled">
+                <span style="font-family: sans-serif; font-weight: bold; font-size: 0.9rem;">Only Advance if Answer is Correct</span>
+                <label class="switch">
+                    <input type="checkbox" id="setting-auto-correct-only">
+                    <span class="slider"></span>
+                </label>
+            </div>
+        </div>
+
+        <div id="start-container" class="start-btn-container">
+            <button class="cta-square full-width blue-btn" onclick="confirmStart()">Start Quiz</button>
+        </div>
+    </div>
+
+    <!-- Quiz Screen -->
+    <div id="quiz" class="quiz-screen">
+        <div class="stats-bar">
+            <span>Q: <span id="current-q-num">1</span> / <span id="total-q-num">0</span></span>
+            <div id="quiz-nav" class="quiz-nav-group" style="display: flex;">
+                <button id="review-btn" class="quiz-nav-btn" onclick="openLastFeedback()" style="display: none;">Review Analysis</button>
+                <button class="quiz-nav-btn" onclick="location.reload()">Restart</button>
+                <a href="../index.html" class="quiz-nav-btn">Exit</a>
+            </div>
+            <span>R: <span id="score-right" class="score-correct">0</span> | W: <span id="score-wrong" class="score-incorrect">0</span></span>
+        </div>
+        <div class="progress-container"><div id="progress-bar"></div></div>
+        
+        <div class="quiz-content-area" style="padding-bottom: 120px;">
+            <h2 id="question-text"></h2>
+            <div id="options-container"></div>
+            
+            <div id="feedback-box" class="feedback">
+                <div class="feedback-content">
+                    <p id="result-text" class="feedback-status-title"></p>
+                    <div id="correct-reveal" class="correct-answer-display"></div>
+                    <h4 style="margin: 0 0 0.5rem 0; font-family: sans-serif; font-size: 0.8rem; text-transform: uppercase; color: #718096;">Analysis:</h4>
+                    <p id="explanation-text" class="explanation-body"></p>
+                </div>
+                <div class="feedback-footer">
+                    <button class="btn-close-red" onclick="closeFeedback()">Close Analysis</button>
+                </div>
+            </div>
+        </div>
+
+        <div id="submit-action-area" class="quiz-action-container">
+            <button id="submit-btn" class="cta-square full-width blue-btn" onclick="processSubmission()">Submit Answer</button>
+        </div>
+
+        <div id="quiz-action-area" class="quiz-action-container">
+            <button id="continue-btn" class="cta-square full-width" onclick="nextQuestion()">Continue Quiz →</button>
+        </div>
+    </div>
+
+    <div id="overlay-mask" class="overlay-mask" onclick="closeFeedback()"></div>
+
+    <!-- Results Screen -->
+    <div id="result" class="result-screen">
+        <h1>Results Summary</h1>
+        <div id="final-percent" class="final-score-percent">0%</div>
+        <p id="final-stat-summary" class="final-stat-summary"></p>
+        <div class="result-actions">
+            <button class="cta-square secondary-cta" onclick="location.reload()">Re-attempt</button>
+            <a href="../index.html" class="cta-square" style="line-height: 1;">Return Home</a>
+        </div>
+    </div>
+</div>
+
+<script src="quizscript.js" defer>
+
+</script>
+</body>
+</html>
