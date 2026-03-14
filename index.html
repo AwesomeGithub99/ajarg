@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AJARC Quizz Master</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+    <header>
+        <div class="header-left">
+            <a href="index.html" class="nav-link">Home</a>
+        </div>
+        <div class="logo">AJARG Quizz Master</div>
+        <div class="header-right">
+            <a href="about.html" class="nav-link">About</a>
+        </div>
+    </header>
+
+    <section class="hero">
+        <h2 style="font-size: clamp(0.7rem, 2vw, 0.9rem); color: var(--victory-gold); text-transform: uppercase; font-family: sans-serif; letter-spacing: 2px; margin-bottom: 0;">Try one of our quizzes:</h2>
+        <h1 id="hero-title">Loading Assessment...</h1>
+        <p id="hero-desc" style="font-style: italic; color: #4A5568; max-width: 600px; margin: 20px auto; font-size: clamp(0.9rem, 2vw, 1.1rem);"></p>
+        <a href="#" id="hero-link" class="cta-square">Begin Assessment</a>
+    </section>
+
+    <section class="search-container">
+        <input type="text" id="quiz-search" placeholder="SEARCH ASSESSMENTS..." onkeyup="filterQuizzes()">
+    </section>
+
+    <main class="container" id="quiz-grid"></main>
+
+    <script>
+        let allQuizzes = [];
+
+        async function loadQuizzes() {
+            try {
+                const response = await fetch('quizzes.json');
+                const data = await response.json();
+                allQuizzes = data.quizList;
+
+                if (allQuizzes.length > 0) {
+                    // Setup Hero Section with a random quiz
+                    const randomQuiz = allQuizzes[Math.floor(Math.random() * allQuizzes.length)];
+                    document.getElementById('hero-title').innerText = randomQuiz.title;
+                    document.getElementById('hero-desc').innerText = randomQuiz.description;
+                    document.getElementById('hero-link').href = `quizzes/${randomQuiz.fileName}`;
+                    
+                    // Initial display (will be limited to 3)
+                    displayQuizzes(allQuizzes);
+                }
+            } catch (e) { 
+                console.error("Error loading JSON.", e); 
+                document.getElementById('hero-title').innerText = "Database Connection Offline";
+            }
+        }
+
+        function displayQuizzes(list) {
+            const grid = document.getElementById('quiz-grid');
+            const searchTerm = document.getElementById('quiz-search').value.trim();
+            
+            grid.innerHTML = ''; 
+
+            // Logic: If no search term, only show top 3. Otherwise, show all matches.
+            const displayList = searchTerm === "" ? list.slice(0, 3) : list;
+
+            displayList.forEach(quiz => {
+                const card = document.createElement('div');
+                card.className = 'cubic-card';
+                card.innerHTML = `
+                    <div>
+                        <h3>${quiz.title}</h3>
+                        <p style="line-height: 1.6; opacity: 0.9;">${quiz.description}</p>
+                    </div>
+                    <a href="quizzes/${quiz.fileName}" class="btn-link">Take Quiz →</a>
+                `;
+                grid.appendChild(card);
+            });
+
+            // Optional: Show a message if no results found
+            if (displayList.length === 0 && searchTerm !== "") {
+                grid.innerHTML = `<p style="text-align:center; grid-column: 1/-1; opacity: 0.6;">No assessments found matching "${searchTerm}"</p>`;
+            }
+        }
+
+        function filterQuizzes() {
+            const term = document.getElementById('quiz-search').value.toLowerCase();
+            
+            // Search through both title and description
+            const filtered = allQuizzes.filter(q => 
+                q.title.toLowerCase().includes(term) || 
+                q.description.toLowerCase().includes(term)
+            );
+            
+            displayQuizzes(filtered);
+        }
+
+        loadQuizzes();
+    </script>
+</body>
+</html>

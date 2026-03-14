@@ -1,0 +1,25 @@
+{
+  "quizList": [
+
+    {
+      "title": "DECA Marketing Cluster Exam",
+      "description": "Quiz to prepare you for the official DECA exam",
+      "fileName": "mcadeca.html"
+    },
+    {
+      "title": "DECA Business Management & Administration Cluster Exam",
+      "description": "Quiz to prepare you for the official DECA exam",
+      "fileName": "bmadeca.html"
+    },
+    {
+      "title": "DECA Finance Cluster Exam",
+      "description": "Quiz to prepare you for the official DECA exam",
+      "fileName": "fcsdeca.html"
+    },
+    {
+      "title": "DECA Hospitality & Tourism Cluster Exam",
+      "description": "Quiz to prepare you for the official DECA exam",
+      "fileName": "decahtc.html"
+    }
+  ]
+}
